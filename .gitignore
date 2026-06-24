@@ -1,0 +1,30 @@
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Environment Variables (Private keys)
+.env
+.env.local
+.env.development
+.env.production
+.env.staging
+
+# Python Cache & Testing
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local cache & logs
+outputs/seen_cache.json
+*.log
+
+# Editor Settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln

@@ -1,0 +1,2014 @@
+raw_name,canonical_name,similarity_score,matched_seed
+CircuitHub,CircuitHub,38.1,NO
+HireArt,HireArt,46.15,NO
+Medigram,Medigram,47.06,NO
+Rescale,Rescale,66.67,NO
+Gusto,Gusto,54.55,NO
+Shoptiques,Shoptiques,42.11,NO
+CleverDeck,CleverDeck,50.0,NO
+Screenleap,Screenleap,44.44,NO
+Per Vices,Per Vices,47.06,NO
+Medmonk,Medmonk,47.06,NO
+Y Combinator,Y Combinator,50.0,NO
+Apollo,Apollo,37.5,NO
+HackerRank,HackerRank,47.62,NO
+OneSignal,OneSignal,46.15,NO
+Streak,Streak,53.33,NO
+Quartzy,Quartzy,46.15,NO
+AgileMD,AgileMD,47.06,NO
+Clerky,Clerky,50.0,NO
+GoCardless,GoCardless,40.0,NO
+Sift,Sift,40.0,NO
+LeadGenius,LeadGenius,47.06,NO
+MixRank,MixRank,36.36,NO
+Videopixie,Videopixie,44.44,NO
+Imgix,Imgix,40.0,NO
+Vidyard,Vidyard,35.29,NO
+SingleStore,SingleStore,52.63,NO
+Talkable,Talkable,53.33,NO
+Tumult,Tumult,30.77,NO
+Acunote,Acunote,47.06,NO
+Instapainting,Instapainting,40.0,NO
+You Got Listings,You Got Listings,37.5,NO
+Tremendous,Tremendous,42.11,NO
+Close,Close,54.55,NO
+Mino Games,Mino Games,45.45,NO
+GOAT Group,GOAT Group,42.11,NO
+Zerocater,Zerocater,55.56,NO
+Storyworth,Storyworth,42.11,NO
+Recurse Center,Recurse Center,40.0,NO
+DemandSphere,DemandSphere,45.45,NO
+AnyList,AnyList,53.33,NO
+Docker,Docker,50.0,NO
+inDinero,inDinero,53.33,NO
+WorkFlowy,WorkFlowy,42.11,NO
+OwnLocal,OwnLocal,50.0,NO
+Listia,Listia,50.0,NO
+Stripe,Stripe,50.0,NO
+Directed Edge,Directed Edge,38.1,NO
+Mixpanel,Mixpanel,44.44,NO
+Olark,Olark,40.0,NO
+RentHop,RentHop,50.0,NO
+Lingt,Lingt,42.86,NO
+Volantio,Volantio,46.15,NO
+Poll Everywhere,Poll Everywhere,38.1,NO
+RescueTime,RescueTime,42.11,NO
+Ninite,Ninite,50.0,NO
+Blue Frog Gaming,Blue Frog Gaming,42.86,NO
+Virtualmin,Virtualmin,40.0,NO
+Buxfer,Buxfer,33.33,NO
+Scribd,Scribd,40.0,NO
+Rainforest,Rainforest,47.06,NO
+Mth Sense,Mth Sense,44.44,NO
+Human Dx,Human Dx,40.0,NO
+HealthSherpa,HealthSherpa,43.48,NO
+Mattermost,Mattermost,38.1,NO
+Zentail,Zentail,42.86,NO
+SmartAsset,SmartAsset,41.67,NO
+FundersClub,FundersClub,38.1,NO
+Eligible,Eligible,35.29,NO
+Upwave,Upwave,50.0,NO
+OctaveWealth,OctaveWealth,40.0,NO
+NewsBlur,NewsBlur,30.0,NO
+Submittable,Submittable,42.11,NO
+Zapier,Zapier,66.67,NO
+BackerKit,BackerKit,50.0,NO
+Benchling,Benchling,44.44,NO
+Flightfox,Flightfox,34.78,NO
+Vastrm,Vastrm,50.0,NO
+Double Robotics,Double Robotics,32.0,NO
+Plivo,Plivo,46.15,NO
+Svbtle,Svbtle,42.86,NO
+9gag,9gag,44.44,NO
+StyleUp,StyleUp,40.0,NO
+CircuitLab,CircuitLab,47.62,NO
+BuildZoom,BuildZoom,38.1,NO
+Padlet,Padlet,54.55,NO
+Fivetran,Fivetran,46.15,NO
+Lawdingo,Lawdingo,47.06,NO
+Cheetah,Cheetah,61.54,NO
+Etleap,Etleap,54.55,NO
+InfluxData,InfluxData,47.06,NO
+Strikingly,Strikingly,40.0,NO
+Lollipuff,Lollipuff,37.5,NO
+RADAR,RADAR,30.77,NO
+Experiment,Experiment,40.0,NO
+SimplyInsured,SimplyInsured,36.36,NO
+Wefunder,Wefunder,42.86,NO
+Wevorce,Wevorce,53.33,NO
+Goldbelly,Goldbelly,42.86,NO
+Watsi,Watsi,50.0,NO
+7cups,7cups,36.36,NO
+Asseta,Asseta,54.55,NO
+EasyPost,EasyPost,36.36,NO
+"Estimote, Inc.",Estimote,42.86,NO
+Cratejoy,Cratejoy,52.63,NO
+Panorama Education,Panorama Education,33.33,NO
+Lob,Lob,33.33,NO
+Reebee,Reebee,40.0,NO
+True Link,True Link,37.5,NO
+Webflow,Webflow,30.77,NO
+42,42,28.57,NO
+AirHelp,AirHelp,50.0,NO
+Ambition,Ambition,47.62,NO
+CareMessage,CareMessage,60.0,NO
+AptDeco,AptDeco,50.0,NO
+Bellabeat,Bellabeat,47.06,NO
+Cambly,Cambly,33.33,NO
+Noora Health,Noora Health,34.78,NO
+CodeCombat,CodeCombat,58.82,NO
+CodeNow,CodeNow,57.14,NO
+Flexport,Flexport,46.15,NO
+Emailio,Emailio,42.11,NO
+MBX,MBX,25.0,NO
+One Degree,One Degree,42.11,NO
+PiinPoint,PiinPoint,58.82,NO
+Povio,Povio,46.15,NO
+Pushbullet,Pushbullet,40.0,NO
+Shoobs,Shoobs,40.0,NO
+Snapdocs,Snapdocs,50.0,NO
+Guesty,Guesty,37.5,NO
+TrueVault,TrueVault,40.0,NO
+Zidisha,Zidisha,37.5,NO
+Zinc,Zinc,50.0,NO
+Algolia,Algolia,37.5,NO
+GBatteries,GBatteries,47.62,NO
+MixerBox,MixerBox,42.86,NO
+OpenCurriculum,OpenCurriculum,40.0,NO
+Dyspatch,Dyspatch,40.0,NO
+Immunity Project,Immunity Project,40.0,NO
+Backpack,Backpack,40.0,NO
+Checkr,Checkr,66.67,NO
+Clear,Clear,60.0,NO
+Flaviar,Flaviar,53.33,NO
+Hyperpad,Hyperpad,42.86,NO
+Greentoe,Greentoe,47.06,NO
+Protocol Labs,Protocol Labs,36.36,NO
+MetricWire,MetricWire,42.11,NO
+MTailor,MTailor,50.0,NO
+Alchemy,Alchemy,40.0,NO
+Permutive,Permutive,44.44,NO
+PicnicAI,PicnicAI,50.0,NO
+SFOX,SFOX,25.0,NO
+UserGems,UserGems,42.86,NO
+ShipBob,ShipBob,37.5,NO
+SpotAngels,SpotAngels,42.11,NO
+Hive,Hive,60.0,NO
+Roomstorm,Roomstorm,40.0,NO
+Front,Front,54.55,NO
+Helion Energy,Helion Energy,40.0,NO
+Bayes Impact,Bayes Impact,46.15,NO
+Qventus,Qventus,47.06,NO
+Akido Labs,Akido Labs,63.16,NO
+Mezmo,Mezmo,33.33,NO
+Magic,Magic,100.0,YES
+Bright,Bright,50.0,NO
+Numerion Labs,Numerion Labs,42.11,NO
+Democracy Earth,Democracy Earth,34.78,NO
+The Human Utility,The Human Utility,37.04,NO
+Zeitview,Zeitview,50.0,NO
+Bankjoy,Bankjoy,42.11,NO
+GiveMeTap,GiveMeTap,42.86,NO
+GrubMarket,GrubMarket,42.11,NO
+Labdoor,Labdoor,37.5,NO
+Platzi,Platzi,46.15,NO
+BuildScience,BuildScience,40.0,NO
+ReadMe,ReadMe,53.33,NO
+Sails Co.,Sails,54.55,NO
+SIRUM,SIRUM,26.67,NO
+Tempo,Tempo,40.0,NO
+TeamNote,TeamNote,50.0,NO
+Makrwatch,Makrwatch,42.86,NO
+Resolve,Resolve,50.0,NO
+Cleanly,Cleanly,66.67,NO
+Quantierra,Quantierra,50.0,NO
+eBrandvalue,eBrandvalue,52.63,NO
+Giveffect,Giveffect,36.36,NO
+Industrial Microbes,Industrial Microbes,41.38,NO
+Level Frames,Level Frames,47.62,NO
+Meadow,Meadow,37.5,NO
+Razorpay,Razorpay,42.86,NO
+Tab,Tab,60.0,NO
+Zenflow,Zenflow,40.0,NO
+X-Zell,X-Zell,26.67,NO
+Flip,Flip,30.77,NO
+Tara AI,Tara AI,58.82,NO
+Replika,Replika,75.0,NO
+NimbleRx,NimbleRx,35.29,NO
+Mashgin,Mashgin,66.67,NO
+Lugg,Lugg,37.5,NO
+Teleport,Teleport,46.15,NO
+teaBOT,teaBOT,40.0,NO
+Leaders In Tech,Leaders In Tech,45.16,NO
+Ironclad,Ironclad,42.86,NO
+New Story,New Story,42.11,NO
+Gemnote,Gemnote,50.0,NO
+Assembly,Assembly,37.5,NO
+PartnerStack,PartnerStack,52.17,NO
+Scope AR,Scope AR,62.5,NO
+SnapMagic,SnapMagic,71.43,NO
+Heroic Labs,Heroic Labs,50.0,NO
+Branch8,Branch8,46.15,NO
+Confident LIMS,Confident LIMS,54.55,NO
+SunFarmer,SunFarmer,46.15,NO
+Reach,Reach,42.86,NO
+Tesorio,Tesorio,46.15,NO
+Thrive Agritech,Thrive Agritech,47.62,NO
+Verge Genomics,Verge Genomics,40.0,NO
+Bodyport,Bodyport,46.15,NO
+Chaldal,Chaldal,46.15,NO
+Drip Capital,Drip Capital,43.48,NO
+GiveCampus,GiveCampus,50.0,NO
+Circle Medical,Circle Medical,43.48,NO
+Markhor,Markhor,46.15,NO
+Zeplin,Zeplin,53.33,NO
+Microhealth,Microhealth,47.62,NO
+Fountain,Fountain,47.06,NO
+PickTrace,PickTrace,47.06,NO
+Plate IQ,Plate IQ,50.0,NO
+RedCarpetUp,RedCarpetUp,47.62,NO
+Scentbird,Scentbird,44.44,NO
+Shape (ShapeScale),Shape ShapeScale,50.0,NO
+Shred Video,Shred Video,50.0,NO
+Xendit,Xendit,42.86,NO
+"80,000 Hours",80000 Hours,35.29,NO
+Font Awesome,Font Awesome,40.0,NO
+Go1,Go1,25.0,NO
+The Ticket Fairy,The Ticket Fairy,35.71,NO
+TetraScience,TetraScience,52.63,NO
+Bitmovin,Bitmovin,37.5,NO
+Cofactor Genomics,Cofactor Genomics,42.86,NO
+Instawork,Instawork,52.63,NO
+Eight Sleep,Eight Sleep,42.11,NO
+Human Interest,Human Interest,41.67,NO
+Mux,Mux,44.44,NO
+Lattice,Lattice,50.0,NO
+SOUNDBOKS,SOUNDBOKS,15.38,NO
+Deepgram,Deepgram,61.54,NO
+Stealth Worker,Stealth Worker,41.67,NO
+Yardbook,Yardbook,35.29,NO
+Chatfuel,Chatfuel,52.63,NO
+GetAccept,GetAccept,57.14,NO
+iSono Health,iSono Health,40.0,NO
+Tovala,Tovala,40.0,NO
+MagicBus,MagicBus,76.92,NO
+Mason,Mason,44.44,NO
+Outschool,Outschool,40.0,NO
+Petcube,Petcube,53.33,NO
+Daily,Daily,50.0,NO
+Mio,Mio,50.0,NO
+Focal Systems,Focal Systems,45.45,NO
+Deako,Deako,50.0,NO
+Copia,Copia,54.55,NO
+Gigwell,Gigwell,37.5,NO
+Meter Feeder,Meter Feeder,44.44,NO
+PocketSuite,PocketSuite,42.11,NO
+Revl,Revl,46.15,NO
+MailTime,MailTime,46.15,NO
+Opentrons,Opentrons,53.33,NO
+Castle,Castle,50.0,NO
+Netomi,Netomi,40.0,NO
+Superside,Superside,44.44,NO
+Function of Beauty,Function of Beauty,45.16,NO
+Luciq (formerly Instabug),Luciq formerly Instabug,36.36,NO
+Pave,Pave,60.0,NO
+Podium,Podium,76.92,NO
+Salt Security,Salt Security,43.48,NO
+Apollo.io,Apolloio,38.1,NO
+Thunkable,Thunkable,50.0,NO
+Lynks,Lynks,42.86,NO
+Gecko Robotics,Gecko Robotics,29.63,NO
+GoLorry,GoLorry,35.29,NO
+HistoWiz,HistoWiz,36.36,NO
+mRelief,mRelief,62.5,NO
+NetBeez,NetBeez,40.0,NO
+Carbic,Carbic,54.55,NO
+FightCamp,FightCamp,34.78,NO
+Quilt Data,Quilt Data,58.82,NO
+Sanitation and Health Rights in India (SHRI),Sanitation and Health Rights in India SHRI,31.03,NO
+Wakie,Wakie,61.54,NO
+Sendbird,Sendbird,35.29,NO
+Relativity Space,Relativity Space,50.0,NO
+Boom,Boom,40.0,NO
+Protonet,Protonet,50.0,NO
+Astranis,Astranis,55.56,NO
+Zenysis,Zenysis,40.0,NO
+Lygos,Lygos,30.77,NO
+DevColor,DevColor,42.86,NO
+Perlara,Perlara,47.06,NO
+Qvin,Qvin,44.44,NO
+Rappi,Rappi,42.86,NO
+Prime Lightworks,Prime Lightworks,33.33,NO
+NuCypher (aka Threshold Network),NuCypher aka Threshold Network,27.78,NO
+Vetcove,Vetcove,53.33,NO
+Joy,Joy,30.77,NO
+Raptor Maps,Raptor Maps,47.06,NO
+Upgraded,Upgraded,35.29,NO
+Vote.org,Voteorg,46.15,NO
+Rose Rocket,Rose Rocket,42.11,NO
+Livement,Livement,37.5,NO
+RocketLit,RocketLit,47.06,NO
+AmberBox Gunshot Detection,AmberBox Gunshot Detection,41.03,NO
+Instrumentl,Instrumentl,47.62,NO
+Nova Credit,Nova Credit,50.0,NO
+OneChronos,OneChronos,50.0,NO
+The Flex Company,The Flex Company,41.67,NO
+Women Who Code,Women Who Code,47.62,NO
+Multiply Labs,Multiply Labs,36.36,NO
+New Incentives,New Incentives,37.04,NO
+Legalist,Legalist,50.0,NO
+Synvivia,Synvivia,58.82,NO
+HiOperator,HiOperator,40.0,NO
+GoGoGrandparent,GoGoGrandparent,38.1,NO
+Squire Technologies,Squire Technologies,37.04,NO
+Miso,Miso,60.0,NO
+Athelas,Athelas,50.0,NO
+Airfordable,Airfordable,47.62,NO
+Validere,Validere,44.44,NO
+Curtsy,Curtsy,66.67,NO
+SmartPath,SmartPath,46.15,NO
+Emote,Emote,37.5,NO
+Flutterwave,Flutterwave,42.11,NO
+Ready Education,Ready Education,40.0,NO
+Circa,Circa,54.55,NO
+Scale AI,Scale AI,100.0,YES
+OMG Digital,OMG Digital,38.1,NO
+Yoshi Mobility,Yoshi Mobility,40.0,NO
+People.ai,Peopleai,66.67,NO
+ApolloShield,ApolloShield,66.67,NO
+Quero Education,Quero Education,36.36,NO
+Jumpcut,Jumpcut,37.5,NO
+Suiteness,Suiteness,47.06,NO
+Elemeno Health,Elemeno Health,50.0,NO
+Expo,Expo,22.22,NO
+ClassDojo,ClassDojo,40.0,NO
+Bird,Bird,44.44,NO
+DemocracyOS,DemocracyOS,31.58,NO
+Voiceops,Voiceops,37.5,NO
+Tizeti,Tizeti,46.15,NO
+Speak,Speak,44.44,NO
+Bountiful,Bountiful,38.1,NO
+Sinovia Technologies,Sinovia Technologies,42.86,NO
+Rippling,Rippling,47.06,NO
+Sleep Reset,Sleep Reset,42.11,NO
+BloomAPI,BloomAPI,33.33,NO
+MDalgorithms Inc.,MDalgorithms,47.06,NO
+Extern,Extern,50.0,NO
+REZI,REZI,20.0,NO
+Ledger Investing,Ledger Investing,41.38,NO
+Nuvola,Nuvola,36.36,NO
+Upcall,Upcall,42.86,NO
+The Essential,The Essential,38.1,NO
+Clipboard,Clipboard,40.0,NO
+RankScience,RankScience,55.56,NO
+Ambient.ai,Ambientai,44.44,NO
+Token Transit,Token Transit,42.11,NO
+Snappr,Snappr,60.0,NO
+Mednet,Mednet,54.55,NO
+"Veryfi, Inc.",Veryfi,37.5,NO
+Wright Electric,Wright Electric,48.28,NO
+Tolemi,Tolemi,46.15,NO
+Aella,Aella,42.86,NO
+Collectly,Collectly,47.06,NO
+Request Network,Request Network,33.33,NO
+AlemHealth,AlemHealth,40.0,NO
+FastJVM,FastJVM,30.77,NO
+Bulk MRO Industrial Supply,Bulk MRO Industrial Supply,33.33,NO
+Solugen,Solugen,50.0,NO
+Bitrise,Bitrise,50.0,NO
+Plane,Plane,60.0,NO
+Hogaru,Hogaru,50.0,NO
+Reliance Health,Reliance Health,50.0,NO
+Apozy,Apozy,40.0,NO
+BuyPower,BuyPower,42.86,NO
+AON3D,AON3D,20.0,NO
+Nomba,Nomba,54.55,NO
+BIOS Health,BIOS Health,45.45,NO
+NanoNets,NanoNets,42.86,NO
+Delee,Delee,60.0,NO
+"Wifi Dabba, Inc.",Wifi Dabba,47.06,NO
+OneFin,OneFin,50.0,NO
+Faire,Faire,54.55,NO
+Ridecell,Ridecell,50.0,NO
+Indee Labs,Indee Labs,63.16,NO
+The Centre for Effective Altruism,The Centre for Effective Altruism,39.13,NO
+"Lively, Inc.",Lively,50.0,NO
+Dost Education,Dost Education,44.44,NO
+Mirror AI,Mirror AI,63.16,NO
+Helix Nanotechnologies,Helix Nanotechnologies,40.0,NO
+Retool,Retool,40.0,NO
+ACLU,ACLU,33.33,NO
+Jerry,Jerry,54.55,NO
+FAZZ,FAZZ,22.22,NO
+Sigma Genetics,Sigma Genetics,43.48,NO
+Skyways,Skyways,46.15,NO
+Long Term Stock Exchange,Long Term Stock Exchange,34.29,NO
+Nobell Foods,Nobell Foods,36.36,NO
+VergeSense,VergeSense,42.11,NO
+Aecore,Aecore,57.14,NO
+Bloom Institute of Technology,Bloom Institute of Technology,29.27,NO
+Leon & George,Leon George,42.11,NO
+Releaf Earth,Releaf Earth,43.48,NO
+Helium Health,Helium Health,40.0,NO
+UpCodes,UpCodes,57.14,NO
+Standard AI,Standard AI,57.14,NO
+Roofr,Roofr,36.36,NO
+Nimble,Nimble,40.0,NO
+Darmiyan,Darmiyan,44.44,NO
+SafeButler,SafeButler,44.44,NO
+ThereCraft,ThereCraft,50.0,NO
+CocuSocial,CocuSocial,44.44,NO
+Flock Safety,Flock Safety,40.0,NO
+Relationship Hero,Relationship Hero,40.0,NO
+Carrot Fertility,Carrot Fertility,51.85,NO
+Advano,Advano,50.0,NO
+Prelim,Prelim,53.33,NO
+Upfort,Upfort,36.36,NO
+Rabbet,Rabbet,46.15,NO
+Cairns Health,Cairns Health,41.67,NO
+Pop Meals,Pop Meals,40.0,NO
+HelpWear,HelpWear,47.06,NO
+Entocycle,Entocycle,58.82,NO
+Pyka,Pyka,33.33,NO
+Rev Genomics,Rev Genomics,38.1,NO
+tpaga,tpaga,44.44,NO
+Airthium,Airthium,58.82,NO
+Flowspace,Flowspace,47.06,NO
+Skyscrape,Skyscrape,58.82,NO
+D-ID,D-ID,22.22,NO
+Tesseract,Tesseract,40.0,NO
+Oncobox,Oncobox,40.0,NO
+Sourceress,Sourceress,50.0,NO
+OneLocal,OneLocal,50.0,NO
+Muzz,Muzz,40.0,NO
+May Mobility,May Mobility,36.36,NO
+Officely,Officely,37.5,NO
+Zendar,Zendar,40.0,NO
+AssemblyAI,AssemblyAI,37.5,NO
+Goodcover,Goodcover,40.0,NO
+Routable,Routable,42.86,NO
+Just Appraised,Just Appraised,36.36,NO
+Gem,Gem,50.0,NO
+Forever Labs,Forever Labs,63.64,NO
+10 By 10,10 By 10,23.53,NO
+Thematic,Thematic,46.15,NO
+FollowUpThen,FollowUpThen,35.29,NO
+Candidately,Candidately,52.63,NO
+Cashfree Payments,Cashfree Payments,46.15,NO
+"Lucy Goods, Inc",Lucy Goods,35.29,NO
+Proven Group,Proven Group,38.1,NO
+Precious,Precious,58.82,NO
+Quantstamp,Quantstamp,50.0,NO
+Torch,Torch,37.5,NO
+Spellbrush,Spellbrush,37.5,NO
+Beanstalk,Beanstalk,50.0,NO
+Blueberry Pediatrics,Blueberry Pediatrics,41.38,NO
+Shogun,Shogun,40.0,NO
+Jasper.ai,Jasper,85.71,YES
+Assembly,Assembly,37.5,NO
+Observant AI,Observant AI,54.55,NO
+Fondo,Fondo,40.0,NO
+Worklytics,Worklytics,40.0,NO
+Sixfold Bioscience,Sixfold Bioscience,37.5,NO
+Glowing.io,Glowingio,42.86,NO
+Slite,Slite,57.14,NO
+CoinTracker,CoinTracker,54.55,NO
+Key Values,Key Values,44.44,NO
+Simetrik,Simetrik,42.86,NO
+SRTX,SRTX,25.0,NO
+Avro Life Science,Avro Life Science,46.67,NO
+Macromoltek,Macromoltek,37.5,NO
+NEXGENT,NEXGENT,16.67,NO
+Biobot Analytics,Biobot Analytics,41.38,NO
+Nectome,Nectome,53.33,NO
+Tradewind BioScience,Tradewind BioScience,35.29,NO
+Promise,Promise,62.5,NO
+Modern Health,Modern Health,41.67,NO
+Persephone Biosciences,Persephone Biosciences,44.44,NO
+AesculaTech,AesculaTech,52.63,NO
+Nuvocargo,Nuvocargo,40.0,NO
+Dear Brightly,Dear Brightly,52.63,NO
+Vanta,Vanta,66.67,NO
+LUS Brands,LUS Brands,37.5,NO
+Draftbit,Draftbit,53.33,NO
+Meitre,Meitre,57.14,NO
+tEQuitable,tEQuitable,40.0,NO
+BioRender,BioRender,47.06,NO
+Plexus,Plexus,50.0,NO
+Sourcify,Sourcify,44.44,NO
+Tributi,Tributi,46.15,NO
+Supermedium,Supermedium,44.44,NO
+Evolve (makers of Podcast App & Rest),Evolve makers of Podcast App Rest,32.65,NO
+Let's Do This,Lets Do This,42.86,NO
+Universe,Universe,42.86,NO
+Acely,Acely,46.15,NO
+Treasury Prime,Treasury Prime,43.48,NO
+Psylaris,Psylaris,47.06,NO
+Players' Lounge,Players Lounge,41.67,NO
+Cognition IP,Cognition IP,40.0,NO
+Gainful,Gainful,50.0,NO
+Weekend (fmr. Volley),Weekend fmr Volley,37.04,NO
+Substack,Substack,40.0,NO
+Pelago,Pelago,42.86,NO
+Tilt (f.k.a. Delphia),Tilt fka Delphia,40.0,NO
+SafetyWing,SafetyWing,45.45,NO
+Aspire,Aspire,50.0,NO
+Orangewood Labs,Orangewood Labs,40.0,NO
+AlgoSurg Inc,AlgoSurg,35.29,NO
+OpenSea,OpenSea,61.54,NO
+ArchForm,ArchForm,47.06,NO
+ZBiotics,ZBiotics,37.5,NO
+Culture Biosciences,Culture Biosciences,42.42,NO
+Observe.AI,ObserveAI,53.33,NO
+Tarjimly,Tarjimly,42.86,NO
+Anjuna,Anjuna,50.0,NO
+Mind Emulation Foundation,Mind Emulation Foundation,32.43,NO
+Vena Medical,Vena Medical,47.62,NO
+CaptivateIQ,CaptivateIQ,52.63,NO
+ErudiFi,ErudiFi,37.5,NO
+Runa,Runa,80.0,NO
+Helloverify,Helloverify,47.62,NO
+Super,Super,54.55,NO
+Aerones,Aerones,53.33,NO
+Veriff,Veriff,37.5,NO
+FidoCure®,FidoCure,66.67,NO
+Swayable,Swayable,50.0,NO
+Replit,Replit,80.0,NO
+Snackpass,Snackpass,46.15,NO
+Curebase,Curebase,70.59,NO
+Honeylove,Honeylove,47.06,NO
+OWNY,OWNY,22.22,NO
+Klarity,Klarity,47.06,NO
+C16 Biosciences,C16 Biosciences,41.38,NO
+Modern Treasury,Modern Treasury,48.0,NO
+Dinesafe,Dinesafe,50.0,NO
+Verse Medical,Verse Medical,54.55,NO
+Federacy,Federacy,44.44,NO
+RevenueCat,RevenueCat,50.0,NO
+OpenWrench,OpenWrench,50.0,NO
+Activeloop,Activeloop,43.48,NO
+Titan,Titan,50.0,NO
+Data Driven Bioscience,Data Driven Bioscience,38.71,NO
+Inscribe,Inscribe,50.0,NO
+JITX,JITX,26.67,NO
+Apprentice Health,Apprentice Health,40.0,NO
+College Pulse,College Pulse,45.45,NO
+Quo (fka OpenPhone),Quo fka OpenPhone,34.78,NO
+"AskMyClass, now Soundkins",AskMyClass now Soundkins,31.58,NO
+Rebellyous Foods,Rebellyous Foods,34.78,NO
+The Good Food Institute,The Good Food Institute,29.41,NO
+Hepatx,Hepatx,54.55,NO
+Clear Gene,Clear Gene,53.33,NO
+Paladin,Paladin,50.0,NO
+Meru Health,Meru Health,45.45,NO
+Vimcal,Vimcal,42.86,NO
+Embeddables,Embeddables,47.62,NO
+64x Bio,64x Bio,31.58,NO
+Anima App,Anima App,35.29,NO
+Pocket Worlds,Pocket Worlds,38.1,NO
+Tall Poppy,Tall Poppy,33.33,NO
+Easol,Easol,40.0,NO
+Corvus Robotics,Corvus Robotics,38.1,NO
+Duffel,Duffel,36.36,NO
+Quickchat AI,Quickchat AI,50.0,NO
+UBITS,UBITS,30.77,NO
+Ajaib,Ajaib,42.86,NO
+"DreamCraft Entertainment, Inc.",DreamCraft Entertainment,45.71,NO
+CB Therapeutics,CB Therapeutics,47.62,NO
+Pine Park Health,Pine Park Health,40.0,NO
+Mytos,Mytos,46.15,NO
+BlueCargo,BlueCargo,42.86,NO
+Alpha Vantage,Alpha Vantage,43.48,NO
+MentalHappy,MentalHappy,38.1,NO
+Papa,Papa,50.0,NO
+Canary Technologies,Canary Technologies,38.71,NO
+Prodigal,Prodigal,58.82,NO
+Calii,Calii,42.86,NO
+TENDERD,TENDERD,16.67,NO
+Names & Faces,Names Faces,48.0,NO
+Fintual,Fintual,47.06,NO
+Bot MD,Bot MD,57.14,NO
+ZiffyHomes,ZiffyHomes,33.33,NO
+Nestor,Nestor,50.0,NO
+Eden,Eden,44.44,NO
+SkydropX,SkydropX,35.29,NO
+Four Growers,Four Growers,44.44,NO
+BrainHi,BrainHi,46.15,NO
+Khatabook,Khatabook,50.0,NO
+Helicarrier (prev Buycoins),Helicarrier prev Buycoins,35.29,NO
+Cowrywise,Cowrywise,53.33,NO
+Mutiny,Mutiny,50.0,NO
+Synkrino Biotherapeutics,Synkrino Biotherapeutics,36.84,NO
+Leena AI,Leena AI,58.82,NO
+AnnieCannons,AnnieCannons,40.0,NO
+JuziBot,JuziBot,31.58,NO
+"Mark Cuban Cost Plus Drug Company, PBC",Mark Cuban Cost Plus Drug Company PBC,28.57,NO
+Oxygen,Oxygen,50.0,NO
+SPATE,SPATE,25.0,NO
+Enveritas,Enveritas,52.63,NO
+LemonBox,LemonBox,44.44,NO
+iLabService,iLabService,47.06,NO
+Rejuvenation Technologies Inc.,Rejuvenation Technologies,36.36,NO
+Circumvent,Circumvent,47.06,NO
+Culdesac,Culdesac,46.15,NO
+OkCredit,OkCredit,47.06,NO
+Aesthetic,Aesthetic,55.56,NO
+Kunduz,Kunduz,50.0,NO
+Wave,Wave,66.67,NO
+Overview,Overview,50.0,NO
+Taobotics,Taobotics,50.0,NO
+Trexo Robotics,Trexo Robotics,34.78,NO
+Flockjay,Flockjay,35.29,NO
+Intelline,Intelline,50.0,NO
+Parker,Parker,50.0,NO
+Canopy (was Encarte),Canopy was Encarte,41.38,NO
+The Juggernaut,The Juggernaut,40.0,NO
+Positive,Positive,42.86,NO
+AllSome Fulfillment,AllSome Fulfillment,41.38,NO
+Keeper,Keeper,54.55,NO
+Kalshi,Kalshi,40.0,NO
+Bottomless,Bottomless,33.33,NO
+Ultralight,Ultralight,41.67,NO
+Centaur,Centaur,46.15,NO
+Spire Law,Spire Law,44.44,NO
+Sunsama,Sunsama,54.55,NO
+Convictional,Convictional,48.0,NO
+Sorting Robotics,Sorting Robotics,35.71,NO
+Dyneti Technologies,Dyneti Technologies,42.86,NO
+SciTok,SciTok,37.5,NO
+Nebullam (DBA Clayton Farms),Nebullam DBA Clayton Farms,30.3,NO
+Postscript,Postscript,40.0,NO
+FLOWER CO.,FLOWER,18.18,NO
+BrainKey,BrainKey,53.33,NO
+MedCrypt,MedCrypt,46.15,NO
+LEAH Labs,LEAH Labs,66.67,NO
+Windwalk,Windwalk,46.15,NO
+Middesk,Middesk,47.06,NO
+GoLinks,GoLinks,37.5,NO
+Tailornova/Couturme,TailornovaCouturme,40.0,NO
+Thrive Agric,Thrive Agric,50.0,NO
+Community Phone Company,Community Phone Company,32.26,NO
+WeatherCheck,WeatherCheck,50.0,NO
+Sapling.ai,Saplingai,61.54,NO
+Nabis,Nabis,50.0,NO
+Avo,Avo,33.33,NO
+Demodesk,Demodesk,46.15,NO
+AI Insurance,AI Insurance,54.55,NO
+Swadesh,Swadesh,40.0,NO
+Switchboard,Switchboard,40.0,NO
+Bensen,Bensen,42.86,NO
+Okteto,Okteto,36.36,NO
+Ashby,Ashby,30.77,NO
+Probably Genetic,Probably Genetic,34.48,NO
+Supernova,Supernova,46.15,NO
+Termius,Termius,46.15,NO
+Superorder,Superorder,50.0,NO
+Bunkerhill Health,Bunkerhill Health,37.04,NO
+Handle.com,Handlecom,47.06,NO
+Excepgen,Excepgen,44.44,NO
+Mobot,Mobot,30.77,NO
+Intact Therapeutics,Intact Therapeutics,50.0,NO
+Landed,Landed,62.5,NO
+Autodial prev Qwest,Autodial prev Qwest,36.36,NO
+Pyxai,Pyxai,40.0,NO
+Deel,Deel,66.67,NO
+Axel Travel,Axel Travel,47.62,NO
+Doppler,Doppler,46.15,NO
+Ravn,Ravn,50.0,NO
+Caribou,Caribou,46.15,NO
+Wren,Wren,60.0,NO
+Instapath Inc.,Instapath,42.11,NO
+Aura Vision,Aura Vision,47.06,NO
+Wanderlog,Wanderlog,42.11,NO
+Valo,Valo,37.5,NO
+JetPack Aviation,JetPack Aviation,41.67,NO
+"Volta Labs, Inc.",Volta Labs,42.11,NO
+Reelables,Reelables,55.56,NO
+Heart Aerospace,Heart Aerospace,41.67,NO
+Superb AI,Superb AI,58.82,NO
+Dagger,Dagger,50.0,NO
+Our World in Data,Our World in Data,41.67,NO
+Upsolve,Upsolve,40.0,NO
+Maple Materials,Maple Materials,48.0,NO
+Alpaca,Alpaca,42.86,NO
+XGenomes,XGenomes,46.15,NO
+Dover,Dover,54.55,NO
+AmpUp,AmpUp,40.0,NO
+Skill-lync,Skill-lync,33.33,NO
+Mudrex,Mudrex,50.0,NO
+NALA,NALA,33.33,NO
+Nowports,Nowports,30.77,NO
+Zippi,Zippi,28.57,NO
+AccioJob,AccioJob,38.1,NO
+Beacons,Beacons,53.33,NO
+Edyst,Edyst,40.0,NO
+Keynua,Keynua,40.0,NO
+Exly,Exly,28.57,NO
+CredPal,CredPal,50.0,NO
+Spring in Africa,Spring in Africa,40.0,NO
+Bentocart,Bentocart,44.44,NO
+Emi Labs,Emi Labs,58.82,NO
+Lezzoo,Lezzoo,28.57,NO
+Glide,Glide,60.0,NO
+Cityfurnish,Cityfurnish,47.06,NO
+Pulse Active Stations Network,Pulse Active Stations Network,38.1,NO
+Pronto,Pronto,50.0,NO
+Cuanto,Cuanto,50.0,NO
+Rune,Rune,60.0,NO
+Dockup,Dockup,46.15,NO
+Mars Auto,Mars Auto,44.44,NO
+VotingWorks,VotingWorks,38.1,NO
+Globe,Globe,60.0,NO
+Inito,Inito,44.44,NO
+Latchel,Latchel,40.0,NO
+Verto,Verto,40.0,NO
+FIRST,FIRST,30.77,NO
+Cosmic,Cosmic,57.14,NO
+Pools (fka Withfriends),Pools fka Withfriends,38.46,NO
+Truora,Truora,50.0,NO
+"OutRival, Inc.",OutRival,35.29,NO
+1910,1910,15.38,NO
+Prometheus,Prometheus,47.62,NO
+Numero,Numero,50.0,NO
+rct AI,rct AI,66.67,NO
+Atlas,Atlas,42.86,NO
+NaturAll Club,NaturAll Club,36.36,NO
+Taali Inc,Taali,50.0,NO
+YourChoice Therapeutics,YourChoice Therapeutics,35.29,NO
+Eclipse Foods,Eclipse Foods,37.04,NO
+Buy Me a Coffee,Buy Me a Coffee,43.48,NO
+Shipper,Shipper,50.0,NO
+Schoolable,Schoolable,55.56,NO
+Shef,Shef,46.15,NO
+Prenda,Prenda,66.67,NO
+Vouch,Vouch,36.36,NO
+Dex,Dex,50.0,NO
+matagora,matagora,42.11,NO
+Shiru,Shiru,42.86,NO
+Apero Health,Apero Health,43.48,NO
+Lofty,Lofty,30.77,NO
+Courier,Courier,61.54,NO
+Plotdrive,Plotdrive,44.44,NO
+Method Financial,Method Financial,42.86,NO
+Gamebytes,Gamebytes,44.44,NO
+Pillar,Pillar,40.0,NO
+Well Principled,Well Principled,43.48,NO
+Legacy,Legacy,40.0,NO
+Shift Health,Shift Health,40.0,NO
+Juno College of Technology,Juno College of Technology,28.57,NO
+Odeko,Odeko,40.0,NO
+Short Story,Short Story,38.1,NO
+Jupiter,Jupiter,61.54,NO
+Zeal,Zeal,44.44,NO
+Hype and Vice,Hype and Vice,36.36,NO
+Genecis Bio,Genecis Bio,48.0,NO
+Pair Team,Pair Team,44.44,NO
+Ever Loved,Ever Loved,40.0,NO
+Lucid Bots,Lucid Bots,44.44,NO
+TRM Labs,TRM Labs,47.06,NO
+Soteris,Soteris,50.0,NO
+AudioFocus,AudioFocus,37.5,NO
+Prolific,Prolific,47.06,NO
+GEn1E Lifesciences,GEn1E Lifesciences,38.71,NO
+Embrace,Embrace,44.44,NO
+Mindset Health,Mindset Health,42.11,NO
+Kitekraft,Kitekraft,53.33,NO
+Yummy Future,Yummy Future,36.36,NO
+UpEquity,UpEquity,44.44,NO
+Fynn,Fynn,36.36,NO
+ZETA SURGICAL,ZETA SURGICAL,28.57,NO
+OpenReplay,OpenReplay,52.63,NO
+Banner,Banner,61.54,NO
+KubeSail,KubeSail,37.5,NO
+Green Canopy NODE,Green Canopy NODE,38.46,NO
+Canix,Canix,50.0,NO
+Outtalent,Outtalent,42.86,NO
+Rainbow,Rainbow,46.15,NO
+Flo,Flo,30.77,NO
+Million Marker,Million Marker,40.0,NO
+Hatchways,Hatchways,40.0,NO
+Rosebud AI,Rosebud AI,52.63,NO
+Rutter,Rutter,50.0,NO
+DirectShifts,DirectShifts,38.46,NO
+Arpeggio Bio,Arpeggio Bio,38.1,NO
+Kern Systems,Kern Systems,47.62,NO
+spotLESS Materials,spotLESS Materials,35.71,NO
+Microverse,Microverse,50.0,NO
+Wasmer,Wasmer,66.67,NO
+EARTH AI,EARTH AI,50.0,NO
+CoLab,CoLab,54.55,NO
+LineLeap,LineLeap,50.0,NO
+Binks,Binks,40.0,NO
+Lokal,Lokal,40.0,NO
+DocVita,DocVita,42.86,NO
+Proof Trading,Proof Trading,40.0,NO
+Vahan,Vahan,57.14,NO
+Digi-Prex,Digi-Prex,42.11,NO
+Finlens,Finlens,53.33,NO
+Loop Health,Loop Health,42.11,NO
+FamPay,FamPay,40.0,NO
+Ramen VR,Ramen VR,37.5,NO
+Demand Curve,Demand Curve,47.62,NO
+Spice Data,Spice Data,58.82,NO
+Hightouch,Hightouch,34.78,NO
+Gotrade,Gotrade,50.0,NO
+Eden Farm,Eden Farm,42.11,NO
+Facio,Facio,47.06,NO
+PredictLeads,PredictLeads,66.67,NO
+stoic.,stoic,57.14,NO
+Flux,Flux,40.0,NO
+Trella,Trella,40.0,NO
+Recidiviz,Recidiviz,35.29,NO
+Holy Grail,Holy Grail,36.36,NO
+Tranqui Finanzas,Tranqui Finanzas,42.86,NO
+Heru,Heru,40.0,NO
+InEvent,InEvent,47.06,NO
+PayMongo,PayMongo,37.5,NO
+Freshpaint,Freshpaint,50.0,NO
+Traces,Traces,47.06,NO
+Mudafy,Mudafy,50.0,NO
+zeroheight,zeroheight,50.0,NO
+Curri,Curri,72.73,NO
+Flowbot,Flowbot,26.67,NO
+Vitau,Vitau,50.0,NO
+treble.ai,trebleai,47.06,NO
+Coco Wallet,Coco Wallet,50.0,NO
+Aspect,Aspect,54.55,NO
+Deepnote,Deepnote,61.54,NO
+Asher Bio,Asher Bio,44.44,NO
+Meridian Industries,Meridian Industries,42.86,NO
+Taskade,Taskade,47.06,NO
+Vorticity,Vorticity,42.11,NO
+Motion,Motion,50.0,NO
+LAIKA,LAIKA,46.15,NO
+GitStart,GitStart,42.86,NO
+EPIC AEROSPACE,EPIC AEROSPACE,30.0,NO
+Apurata,Apurata,50.0,NO
+Breadfast,Breadfast,55.56,NO
+Sequence Bio,Sequence Bio,45.45,NO
+Karat Financial,Karat Financial,34.78,NO
+Flowglad,Flowglad,33.33,NO
+Kaiten,Kaiten,57.14,NO
+Accord,Accord,37.5,NO
+Paragon,Paragon,46.15,NO
+Breezeful,Breezeful,44.44,NO
+Abalone Bio,Abalone Bio,42.11,NO
+Alude,Alude,60.0,NO
+StratumAI,StratumAI,40.0,NO
+Polytomic,Polytomic,44.44,NO
+Porter,Porter,66.67,NO
+Pulley,Pulley,50.0,NO
+MindsDB,MindsDB,50.0,NO
+Ophelia,Ophelia,50.0,NO
+Segmed,Segmed,40.0,NO
+Explo,Explo,28.57,NO
+Letterdrop,Letterdrop,42.11,NO
+yearend,yearend,50.0,NO
+Taiv,Taiv,54.55,NO
+OpenUnit,OpenUnit,57.14,NO
+Tough Commerce,Tough Commerce,50.0,NO
+Perceptive Technologies,Perceptive Technologies,38.71,NO
+Ditto,Ditto,36.36,NO
+Deep Meditate,Deep Meditate,54.55,NO
+Handoff,Handoff,36.36,NO
+H1,H1,28.57,NO
+Aden,Aden,66.67,NO
+Flik,Flik,36.36,NO
+Datasaur,Datasaur,66.67,NO
+Haven,Haven,72.73,NO
+Basedash,Basedash,54.55,NO
+SINAI,SINAI,36.36,NO
+Farcast,Farcast,46.15,NO
+Infield,Infield,62.5,NO
+Eze,Eze,36.36,NO
+Benepass,Benepass,46.15,NO
+StartPlaying.Games,StartPlayingGames,38.46,NO
+Grain,Grain,60.0,NO
+Fly.io,Flyio,33.33,NO
+TrueNorth,TrueNorth,40.0,NO
+Signadot,Signadot,50.0,NO
+Operator.io,Operatorio,47.62,NO
+Logarithm Labs,Logarithm Labs,43.48,NO
+Tienda Crypto,Tienda Crypto,42.11,NO
+Whatnot,Whatnot,46.15,NO
+Plura (formerly Bloom Community),Plura formerly Bloom Community,30.0,NO
+Medicare Vox (fka Fair Square),Medicare Vox fka Fair Square,32.43,NO
+General Proximity,General Proximity,51.85,NO
+Altay Therapeutics,Altay Therapeutics,51.85,NO
+Turing Labs Inc.,Turing Labs,52.17,NO
+Ello,Ello,28.57,NO
+Salesform,Salesform,47.06,NO
+QueryPie AI,QueryPie AI,63.16,NO
+Cortex,Cortex,66.67,NO
+Release,Release,62.5,NO
+Response,Response,50.0,NO
+BuildBuddy,BuildBuddy,45.45,NO
+Vori,Vori,40.0,NO
+Quill,Quill,36.36,NO
+Kinter,Kinter,66.67,NO
+Candid Health,Candid Health,40.0,NO
+ToDesktop,ToDesktop,42.86,NO
+Revenir,Revenir,47.06,NO
+Photoroom,Photoroom,53.33,NO
+Modernbanc,Modernbanc,50.0,NO
+Riot,Riot,46.15,NO
+PostHog,PostHog,30.77,NO
+AIOS,AIOS,50.0,NO
+Jitter,Jitter,66.67,NO
+Junction,Junction,57.14,NO
+Skypher,Skypher,50.0,NO
+Recurrency,Recurrency,50.0,NO
+PostEra,PostEra,47.06,NO
+Upflow,Upflow,31.58,NO
+DeepSource,DeepSource,53.33,NO
+Kosh,Kosh,40.0,NO
+twoplus fertility,twoplus fertility,44.44,NO
+StayQrious,StayQrious,47.06,NO
+UrbanKisaan,UrbanKisaan,44.44,NO
+farmtheory,farmtheory,50.0,NO
+TagMango,TagMango,47.06,NO
+Morphle Labs,Morphle Labs,44.44,NO
+Zeo Route Planner,Zeo Route Planner,40.0,NO
+Hiration,Hiration,46.15,NO
+Bikry,Bikry,40.0,NO
+EduRev,EduRev,37.5,NO
+Spenny,Spenny,50.0,NO
+HireSweet,HireSweet,44.44,NO
+Pahamify,Pahamify,47.06,NO
+adyn,adyn,50.0,NO
+Raycast,Raycast,50.0,NO
+Angle Health,Angle Health,43.48,NO
+OpenBiome,OpenBiome,53.33,NO
+Isabl,Isabl,53.33,NO
+Nexu,Nexu,36.36,NO
+Oda,Oda,50.0,NO
+Daedalus,Daedalus,53.33,NO
+Avion,Avion,46.15,NO
+SOMATIC,SOMATIC,46.15,NO
+Thndr,Thndr,60.0,NO
+Swipe Technologies,Swipe Technologies,38.46,NO
+ElectroNeek,ElectroNeek,42.11,NO
+Bamboo,Bamboo,33.33,NO
+FUTURA,FUTURA,18.18,NO
+Tajir,Tajir,50.0,NO
+Fondeadora,Fondeadora,40.0,NO
+Linkana,Linkana,54.55,NO
+BeGo,BeGo,33.33,NO
+Termii,Termii,37.5,NO
+STARK BANK,STARK BANK,33.33,NO
+Handl,Handl,44.44,NO
+Ramani,Ramani,50.0,NO
+Nomic Bio,Nomic Bio,38.1,NO
+GuruHotel,GuruHotel,40.0,NO
+GiveAway,GiveAway,46.15,NO
+Sakneen,Sakneen,54.55,NO
+Stable,Stable,57.14,NO
+Healthlane,Healthlane,44.44,NO
+Recall.ai,Recallai,47.06,NO
+borong,borong,37.5,NO
+Atmo,Atmo,46.15,NO
+99minutos,99minutos,40.0,NO
+SEND,SEND,25.0,NO
+Living Carbon,Living Carbon,50.0,NO
+Tambua Health,Tambua Health,40.0,NO
+Airbyte,Airbyte,46.15,NO
+Workpay,Workpay,37.5,NO
+Humanly,Humanly,46.15,NO
+Gas Pos,Gas Pos,38.1,NO
+Tasker AI,Tasker AI,60.0,NO
+Equator Therapeutics,Equator Therapeutics,41.38,NO
+Belvo,Belvo,36.36,NO
+Menten AI,Menten AI,60.0,NO
+Legionfarm,Legionfarm,42.11,NO
+Jenfi,Jenfi,40.0,NO
+Yassir,Yassir,50.0,NO
+Ansa Biotechnologies,Ansa Biotechnologies,42.86,NO
+Ochre Bio,Ochre Bio,53.33,NO
+Jet Admin,Jet Admin,57.14,NO
+Algen Biotechnologies,Algen Biotechnologies,40.0,NO
+Ukama,Ukama,44.44,NO
+Jitsu,Jitsu,36.36,NO
+Zip,Zip,25.0,NO
+Increase,Increase,58.82,NO
+Luminai,Luminai,50.0,NO
+Jeeves,Jeeves,53.33,NO
+Roboflow,Roboflow,28.57,NO
+SuperTokens,SuperTokens,38.1,NO
+inFeedo AI,inFeedo AI,63.16,NO
+Depict,Depict,66.67,NO
+Datafold,Datafold,53.33,NO
+Lightdash,Lightdash,44.44,NO
+Blue Onion,Blue Onion,43.48,NO
+CircuitHub,CircuitHub,38.1,NO
+HireArt,HireArt,46.15,NO
+Medigram,Medigram,47.06,NO
+Rescale,Rescale,66.67,NO
+Gusto,Gusto,54.55,NO
+Shoptiques,Shoptiques,42.11,NO
+CleverDeck,CleverDeck,50.0,NO
+Screenleap,Screenleap,44.44,NO
+Per Vices,Per Vices,47.06,NO
+Medmonk,Medmonk,47.06,NO
+Y Combinator,Y Combinator,50.0,NO
+Apollo,Apollo,37.5,NO
+HackerRank,HackerRank,47.62,NO
+OneSignal,OneSignal,46.15,NO
+Streak,Streak,53.33,NO
+Quartzy,Quartzy,46.15,NO
+AgileMD,AgileMD,47.06,NO
+Clerky,Clerky,50.0,NO
+GoCardless,GoCardless,40.0,NO
+Sift,Sift,40.0,NO
+LeadGenius,LeadGenius,47.06,NO
+MixRank,MixRank,36.36,NO
+Videopixie,Videopixie,44.44,NO
+Imgix,Imgix,40.0,NO
+Vidyard,Vidyard,35.29,NO
+SingleStore,SingleStore,52.63,NO
+Talkable,Talkable,53.33,NO
+Tumult,Tumult,30.77,NO
+Acunote,Acunote,47.06,NO
+Instapainting,Instapainting,40.0,NO
+You Got Listings,You Got Listings,37.5,NO
+Tremendous,Tremendous,42.11,NO
+Close,Close,54.55,NO
+Mino Games,Mino Games,45.45,NO
+GOAT Group,GOAT Group,42.11,NO
+Zerocater,Zerocater,55.56,NO
+Storyworth,Storyworth,42.11,NO
+Recurse Center,Recurse Center,40.0,NO
+DemandSphere,DemandSphere,45.45,NO
+AnyList,AnyList,53.33,NO
+Docker,Docker,50.0,NO
+inDinero,inDinero,53.33,NO
+WorkFlowy,WorkFlowy,42.11,NO
+OwnLocal,OwnLocal,50.0,NO
+Listia,Listia,50.0,NO
+Stripe,Stripe,50.0,NO
+Directed Edge,Directed Edge,38.1,NO
+Mixpanel,Mixpanel,44.44,NO
+Olark,Olark,40.0,NO
+RentHop,RentHop,50.0,NO
+Lingt,Lingt,42.86,NO
+Volantio,Volantio,46.15,NO
+Poll Everywhere,Poll Everywhere,38.1,NO
+RescueTime,RescueTime,42.11,NO
+Ninite,Ninite,50.0,NO
+Blue Frog Gaming,Blue Frog Gaming,42.86,NO
+Virtualmin,Virtualmin,40.0,NO
+Buxfer,Buxfer,33.33,NO
+Scribd,Scribd,40.0,NO
+Rainforest,Rainforest,47.06,NO
+Mth Sense,Mth Sense,44.44,NO
+Human Dx,Human Dx,40.0,NO
+HealthSherpa,HealthSherpa,43.48,NO
+Mattermost,Mattermost,38.1,NO
+Zentail,Zentail,42.86,NO
+SmartAsset,SmartAsset,41.67,NO
+FundersClub,FundersClub,38.1,NO
+Eligible,Eligible,35.29,NO
+Upwave,Upwave,50.0,NO
+OctaveWealth,OctaveWealth,40.0,NO
+NewsBlur,NewsBlur,30.0,NO
+Submittable,Submittable,42.11,NO
+Zapier,Zapier,66.67,NO
+BackerKit,BackerKit,50.0,NO
+Benchling,Benchling,44.44,NO
+Flightfox,Flightfox,34.78,NO
+Vastrm,Vastrm,50.0,NO
+Double Robotics,Double Robotics,32.0,NO
+Plivo,Plivo,46.15,NO
+Svbtle,Svbtle,42.86,NO
+9gag,9gag,44.44,NO
+StyleUp,StyleUp,40.0,NO
+CircuitLab,CircuitLab,47.62,NO
+BuildZoom,BuildZoom,38.1,NO
+Padlet,Padlet,54.55,NO
+Fivetran,Fivetran,46.15,NO
+Lawdingo,Lawdingo,47.06,NO
+Cheetah,Cheetah,61.54,NO
+Etleap,Etleap,54.55,NO
+InfluxData,InfluxData,47.06,NO
+Strikingly,Strikingly,40.0,NO
+Lollipuff,Lollipuff,37.5,NO
+RADAR,RADAR,30.77,NO
+Experiment,Experiment,40.0,NO
+SimplyInsured,SimplyInsured,36.36,NO
+Wefunder,Wefunder,42.86,NO
+Wevorce,Wevorce,53.33,NO
+Goldbelly,Goldbelly,42.86,NO
+Watsi,Watsi,50.0,NO
+7cups,7cups,36.36,NO
+Asseta,Asseta,54.55,NO
+EasyPost,EasyPost,36.36,NO
+"Estimote,",Estimote,42.86,NO
+Cratejoy,Cratejoy,52.63,NO
+Panorama Education,Panorama Education,33.33,NO
+Lob,Lob,33.33,NO
+Reebee,Reebee,40.0,NO
+True Link,True Link,37.5,NO
+Webflow,Webflow,30.77,NO
+42,42,28.57,NO
+AirHelp,AirHelp,50.0,NO
+Ambition,Ambition,47.62,NO
+CareMessage,CareMessage,60.0,NO
+AptDeco,AptDeco,50.0,NO
+Bellabeat,Bellabeat,47.06,NO
+Cambly,Cambly,33.33,NO
+Noora Health,Noora Health,34.78,NO
+CodeCombat,CodeCombat,58.82,NO
+CodeNow,CodeNow,57.14,NO
+Flexport,Flexport,46.15,NO
+Emailio,Emailio,42.11,NO
+MBX,MBX,25.0,NO
+One Degree,One Degree,42.11,NO
+PiinPoint,PiinPoint,58.82,NO
+Povio,Povio,46.15,NO
+Pushbullet,Pushbullet,40.0,NO
+Shoobs,Shoobs,40.0,NO
+Snapdocs,Snapdocs,50.0,NO
+Guesty,Guesty,37.5,NO
+TrueVault,TrueVault,40.0,NO
+Zidisha,Zidisha,37.5,NO
+Zinc,Zinc,50.0,NO
+Algolia,Algolia,37.5,NO
+GBatteries,GBatteries,47.62,NO
+MixerBox,MixerBox,42.86,NO
+OpenCurriculum,OpenCurriculum,40.0,NO
+Dyspatch,Dyspatch,40.0,NO
+Immunity Project,Immunity Project,40.0,NO
+Backpack,Backpack,40.0,NO
+Checkr,Checkr,66.67,NO
+Clear,Clear,60.0,NO
+Flaviar,Flaviar,53.33,NO
+Hyperpad,Hyperpad,42.86,NO
+Greentoe,Greentoe,47.06,NO
+Protocol Labs,Protocol Labs,36.36,NO
+MetricWire,MetricWire,42.11,NO
+MTailor,MTailor,50.0,NO
+Alchemy,Alchemy,40.0,NO
+Permutive,Permutive,44.44,NO
+PicnicAI,PicnicAI,50.0,NO
+SFOX,SFOX,25.0,NO
+UserGems,UserGems,42.86,NO
+ShipBob,ShipBob,37.5,NO
+SpotAngels,SpotAngels,42.11,NO
+Hive,Hive,60.0,NO
+Roomstorm,Roomstorm,40.0,NO
+Front,Front,54.55,NO
+Helion Energy,Helion Energy,40.0,NO
+Bayes Impact,Bayes Impact,46.15,NO
+Qventus,Qventus,47.06,NO
+Akido Labs,Akido Labs,63.16,NO
+Mezmo,Mezmo,33.33,NO
+Magic,Magic,100.0,YES
+Bright,Bright,50.0,NO
+Numerion Labs,Numerion Labs,42.11,NO
+Democracy Earth,Democracy Earth,34.78,NO
+The Human Utility,The Human Utility,37.04,NO
+Zeitview,Zeitview,50.0,NO
+Bankjoy,Bankjoy,42.11,NO
+GiveMeTap,GiveMeTap,42.86,NO
+GrubMarket,GrubMarket,42.11,NO
+Labdoor,Labdoor,37.5,NO
+Platzi,Platzi,46.15,NO
+BuildScience,BuildScience,40.0,NO
+ReadMe,ReadMe,53.33,NO
+Sails,Sails,54.55,NO
+SIRUM,SIRUM,26.67,NO
+Tempo,Tempo,40.0,NO
+TeamNote,TeamNote,50.0,NO
+Makrwatch,Makrwatch,42.86,NO
+Resolve,Resolve,50.0,NO
+Cleanly,Cleanly,66.67,NO
+Quantierra,Quantierra,50.0,NO
+eBrandvalue,eBrandvalue,52.63,NO
+Giveffect,Giveffect,36.36,NO
+Industrial Microbes,Industrial Microbes,41.38,NO
+Level Frames,Level Frames,47.62,NO
+Meadow,Meadow,37.5,NO
+Razorpay,Razorpay,42.86,NO
+Tab,Tab,60.0,NO
+Zenflow,Zenflow,40.0,NO
+X-Zell,X-Zell,26.67,NO
+Flip,Flip,30.77,NO
+Tara AI,Tara AI,58.82,NO
+Replika,Replika,75.0,NO
+NimbleRx,NimbleRx,35.29,NO
+Mashgin,Mashgin,66.67,NO
+Lugg,Lugg,37.5,NO
+Teleport,Teleport,46.15,NO
+teaBOT,teaBOT,40.0,NO
+Leaders In Tech,Leaders In Tech,45.16,NO
+Ironclad,Ironclad,42.86,NO
+New Story,New Story,42.11,NO
+Gemnote,Gemnote,50.0,NO
+Assembly,Assembly,37.5,NO
+PartnerStack,PartnerStack,52.17,NO
+Scope AR,Scope AR,62.5,NO
+SnapMagic,SnapMagic,71.43,NO
+Heroic Labs,Heroic Labs,50.0,NO
+Branch8,Branch8,46.15,NO
+Confident LIMS,Confident LIMS,54.55,NO
+SunFarmer,SunFarmer,46.15,NO
+Reach,Reach,42.86,NO
+Tesorio,Tesorio,46.15,NO
+Thrive Agritech,Thrive Agritech,47.62,NO
+Verge Genomics,Verge Genomics,40.0,NO
+Bodyport,Bodyport,46.15,NO
+Chaldal,Chaldal,46.15,NO
+Drip Capital,Drip Capital,43.48,NO
+GiveCampus,GiveCampus,50.0,NO
+Circle Medical,Circle Medical,43.48,NO
+Markhor,Markhor,46.15,NO
+Zeplin,Zeplin,53.33,NO
+Microhealth,Microhealth,47.62,NO
+Fountain,Fountain,47.06,NO
+PickTrace,PickTrace,47.06,NO
+Plate IQ,Plate IQ,50.0,NO
+RedCarpetUp,RedCarpetUp,47.62,NO
+Scentbird,Scentbird,44.44,NO
+Shape (ShapeScale),Shape ShapeScale,50.0,NO
+Shred Video,Shred Video,50.0,NO
+Xendit,Xendit,42.86,NO
+"80,000 Hours",80000 Hours,35.29,NO
+Font Awesome,Font Awesome,40.0,NO
+Go1,Go1,25.0,NO
+The Ticket Fairy,The Ticket Fairy,35.71,NO
+TetraScience,TetraScience,52.63,NO
+Bitmovin,Bitmovin,37.5,NO
+Cofactor Genomics,Cofactor Genomics,42.86,NO
+Instawork,Instawork,52.63,NO
+Eight Sleep,Eight Sleep,42.11,NO
+Human Interest,Human Interest,41.67,NO
+Mux,Mux,44.44,NO
+Lattice,Lattice,50.0,NO
+SOUNDBOKS,SOUNDBOKS,15.38,NO
+Deepgram,Deepgram,61.54,NO
+Stealth Worker,Stealth Worker,41.67,NO
+Yardbook,Yardbook,35.29,NO
+Chatfuel,Chatfuel,52.63,NO
+GetAccept,GetAccept,57.14,NO
+iSono Health,iSono Health,40.0,NO
+Tovala,Tovala,40.0,NO
+MagicBus,MagicBus,76.92,NO
+Mason,Mason,44.44,NO
+Outschool,Outschool,40.0,NO
+Petcube,Petcube,53.33,NO
+Daily,Daily,50.0,NO
+Mio,Mio,50.0,NO
+Focal Systems,Focal Systems,45.45,NO
+Deako,Deako,50.0,NO
+Copia,Copia,54.55,NO
+Gigwell,Gigwell,37.5,NO
+Meter Feeder,Meter Feeder,44.44,NO
+PocketSuite,PocketSuite,42.11,NO
+Revl,Revl,46.15,NO
+MailTime,MailTime,46.15,NO
+Opentrons,Opentrons,53.33,NO
+Castle,Castle,50.0,NO
+Netomi,Netomi,40.0,NO
+Superside,Superside,44.44,NO
+Function of Beauty,Function of Beauty,45.16,NO
+Luciq (formerly Instabug),Luciq formerly Instabug,36.36,NO
+Pave,Pave,60.0,NO
+Podium,Podium,76.92,NO
+Salt Security,Salt Security,43.48,NO
+Apollo.io,Apolloio,38.1,NO
+Thunkable,Thunkable,50.0,NO
+Lynks,Lynks,42.86,NO
+Gecko Robotics,Gecko Robotics,29.63,NO
+GoLorry,GoLorry,35.29,NO
+HistoWiz,HistoWiz,36.36,NO
+mRelief,mRelief,62.5,NO
+NetBeez,NetBeez,40.0,NO
+Carbic,Carbic,54.55,NO
+FightCamp,FightCamp,34.78,NO
+Quilt Data,Quilt Data,58.82,NO
+Sanitation and Health Rights in India (SHRI),Sanitation and Health Rights in India SHRI,31.03,NO
+Wakie,Wakie,61.54,NO
+Sendbird,Sendbird,35.29,NO
+Relativity Space,Relativity Space,50.0,NO
+Boom,Boom,40.0,NO
+Protonet,Protonet,50.0,NO
+Astranis,Astranis,55.56,NO
+Zenysis,Zenysis,40.0,NO
+Lygos,Lygos,30.77,NO
+DevColor,DevColor,42.86,NO
+Perlara,Perlara,47.06,NO
+Qvin,Qvin,44.44,NO
+Rappi,Rappi,42.86,NO
+Prime Lightworks,Prime Lightworks,33.33,NO
+NuCypher (aka Threshold Network),NuCypher aka Threshold Network,27.78,NO
+Vetcove,Vetcove,53.33,NO
+Joy,Joy,30.77,NO
+Raptor Maps,Raptor Maps,47.06,NO
+Upgraded,Upgraded,35.29,NO
+Vote.org,Voteorg,46.15,NO
+Rose Rocket,Rose Rocket,42.11,NO
+Livement,Livement,37.5,NO
+RocketLit,RocketLit,47.06,NO
+AmberBox Gunshot Detection,AmberBox Gunshot Detection,41.03,NO
+Instrumentl,Instrumentl,47.62,NO
+Nova Credit,Nova Credit,50.0,NO
+OneChronos,OneChronos,50.0,NO
+The Flex Company,The Flex Company,41.67,NO
+Women Who Code,Women Who Code,47.62,NO
+Multiply Labs,Multiply Labs,36.36,NO
+New Incentives,New Incentives,37.04,NO
+Legalist,Legalist,50.0,NO
+Synvivia,Synvivia,58.82,NO
+HiOperator,HiOperator,40.0,NO
+GoGoGrandparent,GoGoGrandparent,38.1,NO
+Squire Technologies,Squire Technologies,37.04,NO
+Miso,Miso,60.0,NO
+Athelas,Athelas,50.0,NO
+Airfordable,Airfordable,47.62,NO
+Validere,Validere,44.44,NO
+Curtsy,Curtsy,66.67,NO
+SmartPath,SmartPath,46.15,NO
+Emote,Emote,37.5,NO
+Flutterwave,Flutterwave,42.11,NO
+Ready Education,Ready Education,40.0,NO
+Circa,Circa,54.55,NO
+Scale AI,Scale AI,100.0,YES
+OMG Digital,OMG Digital,38.1,NO
+Yoshi Mobility,Yoshi Mobility,40.0,NO
+People.ai,Peopleai,66.67,NO
+ApolloShield,ApolloShield,66.67,NO
+Quero Education,Quero Education,36.36,NO
+Jumpcut,Jumpcut,37.5,NO
+Suiteness,Suiteness,47.06,NO
+Elemeno Health,Elemeno Health,50.0,NO
+Expo,Expo,22.22,NO
+ClassDojo,ClassDojo,40.0,NO
+Bird,Bird,44.44,NO
+DemocracyOS,DemocracyOS,31.58,NO
+Voiceops,Voiceops,37.5,NO
+Tizeti,Tizeti,46.15,NO
+Speak,Speak,44.44,NO
+Bountiful,Bountiful,38.1,NO
+Sinovia Technologies,Sinovia Technologies,42.86,NO
+Rippling,Rippling,47.06,NO
+Sleep Reset,Sleep Reset,42.11,NO
+BloomAPI,BloomAPI,33.33,NO
+MDalgorithms,MDalgorithms,47.06,NO
+Extern,Extern,50.0,NO
+REZI,REZI,20.0,NO
+Ledger Investing,Ledger Investing,41.38,NO
+Nuvola,Nuvola,36.36,NO
+Upcall,Upcall,42.86,NO
+The Essential,The Essential,38.1,NO
+Clipboard,Clipboard,40.0,NO
+RankScience,RankScience,55.56,NO
+Ambient.ai,Ambientai,44.44,NO
+Token Transit,Token Transit,42.11,NO
+Snappr,Snappr,60.0,NO
+Mednet,Mednet,54.55,NO
+"Veryfi,",Veryfi,37.5,NO
+Wright Electric,Wright Electric,48.28,NO
+Tolemi,Tolemi,46.15,NO
+Aella,Aella,42.86,NO
+Collectly,Collectly,47.06,NO
+Request Network,Request Network,33.33,NO
+AlemHealth,AlemHealth,40.0,NO
+FastJVM,FastJVM,30.77,NO
+Bulk MRO Industrial Supply,Bulk MRO Industrial Supply,33.33,NO
+Solugen,Solugen,50.0,NO
+Bitrise,Bitrise,50.0,NO
+Plane,Plane,60.0,NO
+Hogaru,Hogaru,50.0,NO
+Reliance Health,Reliance Health,50.0,NO
+Apozy,Apozy,40.0,NO
+BuyPower,BuyPower,42.86,NO
+AON3D,AON3D,20.0,NO
+Nomba,Nomba,54.55,NO
+BIOS Health,BIOS Health,45.45,NO
+NanoNets,NanoNets,42.86,NO
+Delee,Delee,60.0,NO
+"Wifi Dabba,",Wifi Dabba,47.06,NO
+OneFin,OneFin,50.0,NO
+Faire,Faire,54.55,NO
+Ridecell,Ridecell,50.0,NO
+Indee Labs,Indee Labs,63.16,NO
+The Centre for Effective Altruism,The Centre for Effective Altruism,39.13,NO
+"Lively,",Lively,50.0,NO
+Dost Education,Dost Education,44.44,NO
+Mirror AI,Mirror AI,63.16,NO
+Helix Nanotechnologies,Helix Nanotechnologies,40.0,NO
+Retool,Retool,40.0,NO
+ACLU,ACLU,33.33,NO
+Jerry,Jerry,54.55,NO
+FAZZ,FAZZ,22.22,NO
+Sigma Genetics,Sigma Genetics,43.48,NO
+Skyways,Skyways,46.15,NO
+Long Term Stock Exchange,Long Term Stock Exchange,34.29,NO
+Nobell Foods,Nobell Foods,36.36,NO
+VergeSense,VergeSense,42.11,NO
+Aecore,Aecore,57.14,NO
+Bloom Institute of Technology,Bloom Institute of Technology,29.27,NO
+Leon & George,Leon George,42.11,NO
+Releaf Earth,Releaf Earth,43.48,NO
+Helium Health,Helium Health,40.0,NO
+UpCodes,UpCodes,57.14,NO
+Standard AI,Standard AI,57.14,NO
+Roofr,Roofr,36.36,NO
+Nimble,Nimble,40.0,NO
+Darmiyan,Darmiyan,44.44,NO
+SafeButler,SafeButler,44.44,NO
+ThereCraft,ThereCraft,50.0,NO
+CocuSocial,CocuSocial,44.44,NO
+Flock Safety,Flock Safety,40.0,NO
+Relationship Hero,Relationship Hero,40.0,NO
+Carrot Fertility,Carrot Fertility,51.85,NO
+Advano,Advano,50.0,NO
+Prelim,Prelim,53.33,NO
+Upfort,Upfort,36.36,NO
+Rabbet,Rabbet,46.15,NO
+Cairns Health,Cairns Health,41.67,NO
+Pop Meals,Pop Meals,40.0,NO
+HelpWear,HelpWear,47.06,NO
+Entocycle,Entocycle,58.82,NO
+Pyka,Pyka,33.33,NO
+Rev Genomics,Rev Genomics,38.1,NO
+tpaga,tpaga,44.44,NO
+Airthium,Airthium,58.82,NO
+Flowspace,Flowspace,47.06,NO
+Skyscrape,Skyscrape,58.82,NO
+D-ID,D-ID,22.22,NO
+Tesseract,Tesseract,40.0,NO
+Oncobox,Oncobox,40.0,NO
+Sourceress,Sourceress,50.0,NO
+OneLocal,OneLocal,50.0,NO
+Muzz,Muzz,40.0,NO
+May Mobility,May Mobility,36.36,NO
+Officely,Officely,37.5,NO
+Zendar,Zendar,40.0,NO
+AssemblyAI,AssemblyAI,37.5,NO
+Goodcover,Goodcover,40.0,NO
+Routable,Routable,42.86,NO
+Just Appraised,Just Appraised,36.36,NO
+Gem,Gem,50.0,NO
+Forever Labs,Forever Labs,63.64,NO
+10 By 10,10 By 10,23.53,NO
+Thematic,Thematic,46.15,NO
+FollowUpThen,FollowUpThen,35.29,NO
+Candidately,Candidately,52.63,NO
+Cashfree Payments,Cashfree Payments,46.15,NO
+"Lucy Goods,",Lucy Goods,35.29,NO
+Proven Group,Proven Group,38.1,NO
+Precious,Precious,58.82,NO
+Quantstamp,Quantstamp,50.0,NO
+Torch,Torch,37.5,NO
+Spellbrush,Spellbrush,37.5,NO
+Beanstalk,Beanstalk,50.0,NO
+Blueberry Pediatrics,Blueberry Pediatrics,41.38,NO
+Shogun,Shogun,40.0,NO
+Jasper.ai,Jasper,85.71,YES
+Assembly,Assembly,37.5,NO
+Observant AI,Observant AI,54.55,NO
+Fondo,Fondo,40.0,NO
+Worklytics,Worklytics,40.0,NO
+Sixfold Bioscience,Sixfold Bioscience,37.5,NO
+Glowing.io,Glowingio,42.86,NO
+Slite,Slite,57.14,NO
+CoinTracker,CoinTracker,54.55,NO
+Key Values,Key Values,44.44,NO
+Simetrik,Simetrik,42.86,NO
+SRTX,SRTX,25.0,NO
+Avro Life Science,Avro Life Science,46.67,NO
+Macromoltek,Macromoltek,37.5,NO
+NEXGENT,NEXGENT,16.67,NO
+Biobot Analytics,Biobot Analytics,41.38,NO
+Nectome,Nectome,53.33,NO
+Tradewind BioScience,Tradewind BioScience,35.29,NO
+Promise,Promise,62.5,NO
+Modern Health,Modern Health,41.67,NO
+Persephone Biosciences,Persephone Biosciences,44.44,NO
+AesculaTech,AesculaTech,52.63,NO
+Nuvocargo,Nuvocargo,40.0,NO
+Dear Brightly,Dear Brightly,52.63,NO
+Vanta,Vanta,66.67,NO
+LUS Brands,LUS Brands,37.5,NO
+Draftbit,Draftbit,53.33,NO
+Meitre,Meitre,57.14,NO
+tEQuitable,tEQuitable,40.0,NO
+BioRender,BioRender,47.06,NO
+Plexus,Plexus,50.0,NO
+Sourcify,Sourcify,44.44,NO
+Tributi,Tributi,46.15,NO
+Supermedium,Supermedium,44.44,NO
+Evolve (makers of Podcast App & Rest),Evolve makers of Podcast App Rest,32.65,NO
+Let's Do This,Lets Do This,42.86,NO
+Universe,Universe,42.86,NO
+Acely,Acely,46.15,NO
+Treasury Prime,Treasury Prime,43.48,NO
+Psylaris,Psylaris,47.06,NO
+Players' Lounge,Players Lounge,41.67,NO
+Cognition IP,Cognition IP,40.0,NO
+Gainful,Gainful,50.0,NO
+Weekend (fmr. Volley),Weekend fmr Volley,37.04,NO
+Substack,Substack,40.0,NO
+Pelago,Pelago,42.86,NO
+Tilt (f.k.a. Delphia),Tilt fka Delphia,40.0,NO
+SafetyWing,SafetyWing,45.45,NO
+Aspire,Aspire,50.0,NO
+Orangewood Labs,Orangewood Labs,40.0,NO
+AlgoSurg,AlgoSurg,35.29,NO
+OpenSea,OpenSea,61.54,NO
+ArchForm,ArchForm,47.06,NO
+ZBiotics,ZBiotics,37.5,NO
+Culture Biosciences,Culture Biosciences,42.42,NO
+Observe.AI,ObserveAI,53.33,NO
+Tarjimly,Tarjimly,42.86,NO
+Anjuna,Anjuna,50.0,NO
+Mind Emulation Foundation,Mind Emulation Foundation,32.43,NO
+Vena Medical,Vena Medical,47.62,NO
+CaptivateIQ,CaptivateIQ,52.63,NO
+ErudiFi,ErudiFi,37.5,NO
+Runa,Runa,80.0,NO
+Helloverify,Helloverify,47.62,NO
+Super,Super,54.55,NO
+Aerones,Aerones,53.33,NO
+Veriff,Veriff,37.5,NO
+FidoCure®,FidoCure,66.67,NO
+Swayable,Swayable,50.0,NO
+Replit,Replit,80.0,NO
+Snackpass,Snackpass,46.15,NO
+Curebase,Curebase,70.59,NO
+Honeylove,Honeylove,47.06,NO
+OWNY,OWNY,22.22,NO
+Klarity,Klarity,47.06,NO
+C16 Biosciences,C16 Biosciences,41.38,NO
+Modern Treasury,Modern Treasury,48.0,NO
+Dinesafe,Dinesafe,50.0,NO
+Verse Medical,Verse Medical,54.55,NO
+Federacy,Federacy,44.44,NO
+RevenueCat,RevenueCat,50.0,NO
+OpenWrench,OpenWrench,50.0,NO
+Activeloop,Activeloop,43.48,NO
+Titan,Titan,50.0,NO
+Data Driven Bioscience,Data Driven Bioscience,38.71,NO
+Inscribe,Inscribe,50.0,NO
+JITX,JITX,26.67,NO
+Apprentice Health,Apprentice Health,40.0,NO
+College Pulse,College Pulse,45.45,NO
+Quo (fka OpenPhone),Quo fka OpenPhone,34.78,NO
+"AskMyClass, now Soundkins",AskMyClass now Soundkins,31.58,NO
+Rebellyous Foods,Rebellyous Foods,34.78,NO
+The Good Food Institute,The Good Food Institute,29.41,NO
+Hepatx,Hepatx,54.55,NO
+Clear Gene,Clear Gene,53.33,NO
+Paladin,Paladin,50.0,NO
+Meru Health,Meru Health,45.45,NO
+Vimcal,Vimcal,42.86,NO
+Embeddables,Embeddables,47.62,NO
+64x Bio,64x Bio,31.58,NO
+Anima App,Anima App,35.29,NO
+Pocket Worlds,Pocket Worlds,38.1,NO
+Tall Poppy,Tall Poppy,33.33,NO
+Easol,Easol,40.0,NO
+Corvus Robotics,Corvus Robotics,38.1,NO
+Duffel,Duffel,36.36,NO
+Quickchat AI,Quickchat AI,50.0,NO
+UBITS,UBITS,30.77,NO
+Ajaib,Ajaib,42.86,NO
+"DreamCraft Entertainment,",DreamCraft Entertainment,45.71,NO
+CB Therapeutics,CB Therapeutics,47.62,NO
+Pine Park Health,Pine Park Health,40.0,NO
+Mytos,Mytos,46.15,NO
+BlueCargo,BlueCargo,42.86,NO
+Alpha Vantage,Alpha Vantage,43.48,NO
+MentalHappy,MentalHappy,38.1,NO
+Papa,Papa,50.0,NO
+Canary Technologies,Canary Technologies,38.71,NO
+Prodigal,Prodigal,58.82,NO
+Calii,Calii,42.86,NO
+TENDERD,TENDERD,16.67,NO
+Names & Faces,Names Faces,48.0,NO
+Fintual,Fintual,47.06,NO
+Bot MD,Bot MD,57.14,NO
+ZiffyHomes,ZiffyHomes,33.33,NO
+Nestor,Nestor,50.0,NO
+Eden,Eden,44.44,NO
+SkydropX,SkydropX,35.29,NO
+Four Growers,Four Growers,44.44,NO
+BrainHi,BrainHi,46.15,NO
+Khatabook,Khatabook,50.0,NO
+Helicarrier (prev Buycoins),Helicarrier prev Buycoins,35.29,NO
+Cowrywise,Cowrywise,53.33,NO
+Mutiny,Mutiny,50.0,NO
+Synkrino Biotherapeutics,Synkrino Biotherapeutics,36.84,NO
+Leena AI,Leena AI,58.82,NO
+AnnieCannons,AnnieCannons,40.0,NO
+JuziBot,JuziBot,31.58,NO
+"Mark Cuban Cost Plus Drug Company, PBC",Mark Cuban Cost Plus Drug Company PBC,28.57,NO
+Oxygen,Oxygen,50.0,NO
+SPATE,SPATE,25.0,NO
+Enveritas,Enveritas,52.63,NO
+LemonBox,LemonBox,44.44,NO
+iLabService,iLabService,47.06,NO
+Rejuvenation Technologies,Rejuvenation Technologies,36.36,NO
+Circumvent,Circumvent,47.06,NO
+Culdesac,Culdesac,46.15,NO
+OkCredit,OkCredit,47.06,NO
+Aesthetic,Aesthetic,55.56,NO
+Kunduz,Kunduz,50.0,NO
+Wave,Wave,66.67,NO
+Overview,Overview,50.0,NO
+Taobotics,Taobotics,50.0,NO
+Trexo Robotics,Trexo Robotics,34.78,NO
+Flockjay,Flockjay,35.29,NO
+Intelline,Intelline,50.0,NO
+Parker,Parker,50.0,NO
+Canopy (was Encarte),Canopy was Encarte,41.38,NO
+The Juggernaut,The Juggernaut,40.0,NO
+Positive,Positive,42.86,NO
+AllSome Fulfillment,AllSome Fulfillment,41.38,NO
+Keeper,Keeper,54.55,NO
+Kalshi,Kalshi,40.0,NO
+Bottomless,Bottomless,33.33,NO
+Ultralight,Ultralight,41.67,NO
+Centaur,Centaur,46.15,NO
+Spire Law,Spire Law,44.44,NO
+Sunsama,Sunsama,54.55,NO
+Convictional,Convictional,48.0,NO
+Sorting Robotics,Sorting Robotics,35.71,NO
+Dyneti Technologies,Dyneti Technologies,42.86,NO
+SciTok,SciTok,37.5,NO
+Nebullam (DBA Clayton Farms),Nebullam DBA Clayton Farms,30.3,NO
+Postscript,Postscript,40.0,NO
+FLOWER,FLOWER,18.18,NO
+BrainKey,BrainKey,53.33,NO
+MedCrypt,MedCrypt,46.15,NO
+LEAH Labs,LEAH Labs,66.67,NO
+Windwalk,Windwalk,46.15,NO
+Middesk,Middesk,47.06,NO
+GoLinks,GoLinks,37.5,NO
+Tailornova/Couturme,TailornovaCouturme,40.0,NO
+Thrive Agric,Thrive Agric,50.0,NO
+Community Phone Company,Community Phone Company,32.26,NO
+WeatherCheck,WeatherCheck,50.0,NO
+Sapling.ai,Saplingai,61.54,NO
+Nabis,Nabis,50.0,NO
+Avo,Avo,33.33,NO
+Demodesk,Demodesk,46.15,NO
+AI Insurance,AI Insurance,54.55,NO
+Swadesh,Swadesh,40.0,NO
+Switchboard,Switchboard,40.0,NO
+Bensen,Bensen,42.86,NO
+Okteto,Okteto,36.36,NO
+Ashby,Ashby,30.77,NO
+Probably Genetic,Probably Genetic,34.48,NO
+Supernova,Supernova,46.15,NO
+Termius,Termius,46.15,NO
+Superorder,Superorder,50.0,NO
+Bunkerhill Health,Bunkerhill Health,37.04,NO
+Handle.com,Handlecom,47.06,NO
+Excepgen,Excepgen,44.44,NO
+Mobot,Mobot,30.77,NO
+Intact Therapeutics,Intact Therapeutics,50.0,NO
+Landed,Landed,62.5,NO
+Autodial prev Qwest,Autodial prev Qwest,36.36,NO
+Pyxai,Pyxai,40.0,NO
+Deel,Deel,66.67,NO
+Axel Travel,Axel Travel,47.62,NO
+Doppler,Doppler,46.15,NO
+Ravn,Ravn,50.0,NO
+Caribou,Caribou,46.15,NO
+Wren,Wren,60.0,NO
+Instapath,Instapath,42.11,NO
+Aura Vision,Aura Vision,47.06,NO
+Wanderlog,Wanderlog,42.11,NO
+Valo,Valo,37.5,NO
+JetPack Aviation,JetPack Aviation,41.67,NO
+"Volta Labs,",Volta Labs,42.11,NO
+Reelables,Reelables,55.56,NO
+Heart Aerospace,Heart Aerospace,41.67,NO
+Superb AI,Superb AI,58.82,NO
+Dagger,Dagger,50.0,NO
+Our World in Data,Our World in Data,41.67,NO
+Upsolve,Upsolve,40.0,NO
+Maple Materials,Maple Materials,48.0,NO
+Alpaca,Alpaca,42.86,NO
+XGenomes,XGenomes,46.15,NO
+Dover,Dover,54.55,NO
+AmpUp,AmpUp,40.0,NO
+Skill-lync,Skill-lync,33.33,NO
+Mudrex,Mudrex,50.0,NO
+NALA,NALA,33.33,NO
+Nowports,Nowports,30.77,NO
+Zippi,Zippi,28.57,NO
+AccioJob,AccioJob,38.1,NO
+Beacons,Beacons,53.33,NO
+Edyst,Edyst,40.0,NO
+Keynua,Keynua,40.0,NO
+Exly,Exly,28.57,NO
+CredPal,CredPal,50.0,NO
+Spring in Africa,Spring in Africa,40.0,NO
+Bentocart,Bentocart,44.44,NO
+Emi Labs,Emi Labs,58.82,NO
+Lezzoo,Lezzoo,28.57,NO
+Glide,Glide,60.0,NO
+Cityfurnish,Cityfurnish,47.06,NO
+Pulse Active Stations Network,Pulse Active Stations Network,38.1,NO
+Pronto,Pronto,50.0,NO
+Cuanto,Cuanto,50.0,NO
+Rune,Rune,60.0,NO
+Dockup,Dockup,46.15,NO
+Mars Auto,Mars Auto,44.44,NO
+VotingWorks,VotingWorks,38.1,NO
+Globe,Globe,60.0,NO
+Inito,Inito,44.44,NO
+Latchel,Latchel,40.0,NO
+Verto,Verto,40.0,NO
+FIRST,FIRST,30.77,NO
+Cosmic,Cosmic,57.14,NO
+Pools (fka Withfriends),Pools fka Withfriends,38.46,NO
+Truora,Truora,50.0,NO
+"OutRival,",OutRival,35.29,NO
+1910,1910,15.38,NO
+Prometheus,Prometheus,47.62,NO
+Numero,Numero,50.0,NO
+rct AI,rct AI,66.67,NO
+Atlas,Atlas,42.86,NO
+NaturAll Club,NaturAll Club,36.36,NO
+Taali,Taali,50.0,NO
+YourChoice Therapeutics,YourChoice Therapeutics,35.29,NO
+Eclipse Foods,Eclipse Foods,37.04,NO
+Buy Me a Coffee,Buy Me a Coffee,43.48,NO
+Shipper,Shipper,50.0,NO
+Schoolable,Schoolable,55.56,NO
+Shef,Shef,46.15,NO
+Prenda,Prenda,66.67,NO
+Vouch,Vouch,36.36,NO
+Dex,Dex,50.0,NO
+matagora,matagora,42.11,NO
+Shiru,Shiru,42.86,NO
+Apero Health,Apero Health,43.48,NO
+Lofty,Lofty,30.77,NO
+Courier,Courier,61.54,NO
+Plotdrive,Plotdrive,44.44,NO
+Method Financial,Method Financial,42.86,NO
+Gamebytes,Gamebytes,44.44,NO
+Pillar,Pillar,40.0,NO
+Well Principled,Well Principled,43.48,NO
+Legacy,Legacy,40.0,NO
+Shift Health,Shift Health,40.0,NO
+Juno College of Technology,Juno College of Technology,28.57,NO
+Odeko,Odeko,40.0,NO
+Short Story,Short Story,38.1,NO
+Jupiter,Jupiter,61.54,NO
+Zeal,Zeal,44.44,NO
+Hype and Vice,Hype and Vice,36.36,NO
+Genecis Bio,Genecis Bio,48.0,NO
+Pair Team,Pair Team,44.44,NO
+Ever Loved,Ever Loved,40.0,NO
+Lucid Bots,Lucid Bots,44.44,NO
+TRM Labs,TRM Labs,47.06,NO
+Soteris,Soteris,50.0,NO
+AudioFocus,AudioFocus,37.5,NO
+Prolific,Prolific,47.06,NO
+GEn1E Lifesciences,GEn1E Lifesciences,38.71,NO
+Embrace,Embrace,44.44,NO
+Mindset Health,Mindset Health,42.11,NO
+Kitekraft,Kitekraft,53.33,NO
+Yummy Future,Yummy Future,36.36,NO
+UpEquity,UpEquity,44.44,NO
+Fynn,Fynn,36.36,NO
+ZETA SURGICAL,ZETA SURGICAL,28.57,NO
+OpenReplay,OpenReplay,52.63,NO
+Banner,Banner,61.54,NO
+KubeSail,KubeSail,37.5,NO
+Green Canopy NODE,Green Canopy NODE,38.46,NO
+Canix,Canix,50.0,NO
+Outtalent,Outtalent,42.86,NO
+Rainbow,Rainbow,46.15,NO
+Flo,Flo,30.77,NO
+Million Marker,Million Marker,40.0,NO
+Hatchways,Hatchways,40.0,NO
+Rosebud AI,Rosebud AI,52.63,NO
+Rutter,Rutter,50.0,NO
+DirectShifts,DirectShifts,38.46,NO
+Arpeggio Bio,Arpeggio Bio,38.1,NO
+Kern Systems,Kern Systems,47.62,NO
+spotLESS Materials,spotLESS Materials,35.71,NO
+Microverse,Microverse,50.0,NO
+Wasmer,Wasmer,66.67,NO
+EARTH AI,EARTH AI,50.0,NO
+CoLab,CoLab,54.55,NO
+LineLeap,LineLeap,50.0,NO
+Binks,Binks,40.0,NO
+Lokal,Lokal,40.0,NO
+DocVita,DocVita,42.86,NO
+Proof Trading,Proof Trading,40.0,NO
+Vahan,Vahan,57.14,NO
+Digi-Prex,Digi-Prex,42.11,NO
+Finlens,Finlens,53.33,NO
+Loop Health,Loop Health,42.11,NO
+FamPay,FamPay,40.0,NO
+Ramen VR,Ramen VR,37.5,NO
+Demand Curve,Demand Curve,47.62,NO
+Spice Data,Spice Data,58.82,NO
+Hightouch,Hightouch,34.78,NO
+Gotrade,Gotrade,50.0,NO
+Eden Farm,Eden Farm,42.11,NO
+Facio,Facio,47.06,NO
+PredictLeads,PredictLeads,66.67,NO
+stoic.,stoic,57.14,NO
+Flux,Flux,40.0,NO
+Trella,Trella,40.0,NO
+Recidiviz,Recidiviz,35.29,NO
+Holy Grail,Holy Grail,36.36,NO
+Tranqui Finanzas,Tranqui Finanzas,42.86,NO
+Heru,Heru,40.0,NO
+InEvent,InEvent,47.06,NO
+PayMongo,PayMongo,37.5,NO
+Freshpaint,Freshpaint,50.0,NO
+Traces,Traces,47.06,NO
+Mudafy,Mudafy,50.0,NO
+zeroheight,zeroheight,50.0,NO
+Curri,Curri,72.73,NO
+Flowbot,Flowbot,26.67,NO
+Vitau,Vitau,50.0,NO
+treble.ai,trebleai,47.06,NO
+Coco Wallet,Coco Wallet,50.0,NO
+Aspect,Aspect,54.55,NO
+Deepnote,Deepnote,61.54,NO
+Asher Bio,Asher Bio,44.44,NO
+Meridian Industries,Meridian Industries,42.86,NO
+Taskade,Taskade,47.06,NO
+Vorticity,Vorticity,42.11,NO
+Motion,Motion,50.0,NO
+LAIKA,LAIKA,46.15,NO
+GitStart,GitStart,42.86,NO
+EPIC AEROSPACE,EPIC AEROSPACE,30.0,NO
+Apurata,Apurata,50.0,NO
+Breadfast,Breadfast,55.56,NO
+Sequence Bio,Sequence Bio,45.45,NO
+Karat Financial,Karat Financial,34.78,NO
+Flowglad,Flowglad,33.33,NO
+Kaiten,Kaiten,57.14,NO
+Accord,Accord,37.5,NO
+Paragon,Paragon,46.15,NO
+Breezeful,Breezeful,44.44,NO
+Abalone Bio,Abalone Bio,42.11,NO
+Alude,Alude,60.0,NO
+StratumAI,StratumAI,40.0,NO
+Polytomic,Polytomic,44.44,NO
+Porter,Porter,66.67,NO
+Pulley,Pulley,50.0,NO
+MindsDB,MindsDB,50.0,NO
+Ophelia,Ophelia,50.0,NO
+Segmed,Segmed,40.0,NO
+Explo,Explo,28.57,NO
+Letterdrop,Letterdrop,42.11,NO
+yearend,yearend,50.0,NO
+Taiv,Taiv,54.55,NO
+OpenUnit,OpenUnit,57.14,NO
+Tough Commerce,Tough Commerce,50.0,NO
+Perceptive Technologies,Perceptive Technologies,38.71,NO
+Ditto,Ditto,36.36,NO
+Deep Meditate,Deep Meditate,54.55,NO
+Handoff,Handoff,36.36,NO
+H1,H1,28.57,NO
+Aden,Aden,66.67,NO
+Flik,Flik,36.36,NO
+Datasaur,Datasaur,66.67,NO
+Haven,Haven,72.73,NO
+Basedash,Basedash,54.55,NO
+SINAI,SINAI,36.36,NO
+Farcast,Farcast,46.15,NO
+Infield,Infield,62.5,NO
+Eze,Eze,36.36,NO
+Benepass,Benepass,46.15,NO
+StartPlaying.Games,StartPlayingGames,38.46,NO
+Grain,Grain,60.0,NO
+Fly.io,Flyio,33.33,NO
+TrueNorth,TrueNorth,40.0,NO
+Signadot,Signadot,50.0,NO
+Operator.io,Operatorio,47.62,NO
+Logarithm Labs,Logarithm Labs,43.48,NO
+Tienda Crypto,Tienda Crypto,42.11,NO
+Whatnot,Whatnot,46.15,NO
+Plura (formerly Bloom Community),Plura formerly Bloom Community,30.0,NO
+Medicare Vox (fka Fair Square),Medicare Vox fka Fair Square,32.43,NO
+General Proximity,General Proximity,51.85,NO
+Altay Therapeutics,Altay Therapeutics,51.85,NO
+Turing Labs,Turing Labs,52.17,NO
+Ello,Ello,28.57,NO
+Salesform,Salesform,47.06,NO
+QueryPie AI,QueryPie AI,63.16,NO
+Cortex,Cortex,66.67,NO
+Release,Release,62.5,NO
+Response,Response,50.0,NO
+BuildBuddy,BuildBuddy,45.45,NO
+Vori,Vori,40.0,NO
+Quill,Quill,36.36,NO
+Kinter,Kinter,66.67,NO
+Candid Health,Candid Health,40.0,NO
+ToDesktop,ToDesktop,42.86,NO
+Revenir,Revenir,47.06,NO
+Photoroom,Photoroom,53.33,NO
+Modernbanc,Modernbanc,50.0,NO
+Riot,Riot,46.15,NO
+PostHog,PostHog,30.77,NO
+AIOS,AIOS,50.0,NO
+Jitter,Jitter,66.67,NO
+Junction,Junction,57.14,NO
+Skypher,Skypher,50.0,NO
+Recurrency,Recurrency,50.0,NO
+PostEra,PostEra,47.06,NO
+Upflow,Upflow,31.58,NO
+DeepSource,DeepSource,53.33,NO
+Kosh,Kosh,40.0,NO
+twoplus fertility,twoplus fertility,44.44,NO
+StayQrious,StayQrious,47.06,NO
+UrbanKisaan,UrbanKisaan,44.44,NO
+farmtheory,farmtheory,50.0,NO
+TagMango,TagMango,47.06,NO
+Morphle Labs,Morphle Labs,44.44,NO
+Zeo Route Planner,Zeo Route Planner,40.0,NO
+Hiration,Hiration,46.15,NO
+Bikry,Bikry,40.0,NO
+EduRev,EduRev,37.5,NO
+Spenny,Spenny,50.0,NO
+HireSweet,HireSweet,44.44,NO
+Pahamify,Pahamify,47.06,NO
+adyn,adyn,50.0,NO
+Raycast,Raycast,50.0,NO
+Angle Health,Angle Health,43.48,NO
+OpenBiome,OpenBiome,53.33,NO
+Isabl,Isabl,53.33,NO
+Nexu,Nexu,36.36,NO
+Oda,Oda,50.0,NO
+Daedalus,Daedalus,53.33,NO
+Avion,Avion,46.15,NO
+SOMATIC,SOMATIC,46.15,NO
+Thndr,Thndr,60.0,NO
+Swipe Technologies,Swipe Technologies,38.46,NO
+ElectroNeek,ElectroNeek,42.11,NO
+Bamboo,Bamboo,33.33,NO
+FUTURA,FUTURA,18.18,NO
+Tajir,Tajir,50.0,NO
+Fondeadora,Fondeadora,40.0,NO
+Linkana,Linkana,54.55,NO
+BeGo,BeGo,33.33,NO
+Termii,Termii,37.5,NO
+STARK BANK,STARK BANK,33.33,NO
+Handl,Handl,44.44,NO
+Ramani,Ramani,50.0,NO
+Nomic Bio,Nomic Bio,38.1,NO
+GuruHotel,GuruHotel,40.0,NO
+GiveAway,GiveAway,46.15,NO
+Sakneen,Sakneen,54.55,NO
+Stable,Stable,57.14,NO
+Healthlane,Healthlane,44.44,NO
+Recall.ai,Recallai,47.06,NO
+borong,borong,37.5,NO
+Atmo,Atmo,46.15,NO
+99minutos,99minutos,40.0,NO
+SEND,SEND,25.0,NO
+Living Carbon,Living Carbon,50.0,NO
+Tambua Health,Tambua Health,40.0,NO
+Airbyte,Airbyte,46.15,NO
+Workpay,Workpay,37.5,NO
+Humanly,Humanly,46.15,NO
+Gas Pos,Gas Pos,38.1,NO
+Tasker AI,Tasker AI,60.0,NO
+Equator Therapeutics,Equator Therapeutics,41.38,NO
+Belvo,Belvo,36.36,NO
+Menten AI,Menten AI,60.0,NO
+Legionfarm,Legionfarm,42.11,NO
+Jenfi,Jenfi,40.0,NO
+Yassir,Yassir,50.0,NO
+Ansa Biotechnologies,Ansa Biotechnologies,42.86,NO
+Ochre Bio,Ochre Bio,53.33,NO
+Jet Admin,Jet Admin,57.14,NO
+Algen Biotechnologies,Algen Biotechnologies,40.0,NO
+Ukama,Ukama,44.44,NO
+Jitsu,Jitsu,36.36,NO
+Zip,Zip,25.0,NO
+Increase,Increase,58.82,NO
+Luminai,Luminai,50.0,NO
+Jeeves,Jeeves,53.33,NO
+Roboflow,Roboflow,28.57,NO
+SuperTokens,SuperTokens,38.1,NO
+inFeedo AI,inFeedo AI,63.16,NO
+Depict,Depict,66.67,NO
+Datafold,Datafold,53.33,NO
+Lightdash,Lightdash,44.44,NO
+Blue Onion,Blue Onion,43.48,NO
+Scale AI,Scale AI,100.0,YES
+Scale AI,Scale AI,100.0,YES
+Scale AI,Scale AI,100.0,YES
+Scale AI,Scale AI,100.0,YES
+Scale AI,Scale AI,100.0,YES
+Together AI,Together AI,100.0,YES
+Together AI,Together AI,100.0,YES
+Together AI,Together AI,100.0,YES
+Together AI,Together AI,100.0,YES
+EverAI,EverAI,50.0,NO
+A.Team,ATeam,40.0,NO
+Mitre Media,Mitre Media,52.63,NO
+Lemon.io,Lemonio,40.0,NO

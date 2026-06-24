@@ -1,0 +1,1001 @@
+schemaVersion,recordType,source.name,source.url,content.startupName,content.productName,content.pricingModel,collectedAt
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/circuithub,CircuitHub,CircuitHub,FREEMIUM,2026-06-24T05:49:01.372688Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/hireart,HireArt,HireArt,FREEMIUM,2026-06-24T05:49:01.373032Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/medigram,Medigram,Medigram,FREEMIUM,2026-06-24T05:49:01.373295Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/rescale,Rescale,Rescale,FREE,2026-06-24T05:49:01.373566Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/gusto,Gusto,Gusto,FREEMIUM,2026-06-24T05:49:01.373821Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/shoptiques,Shoptiques,Shoptiques,FREEMIUM,2026-06-24T05:49:01.374074Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/cleverdeck,CleverDeck,CleverDeck,FREEMIUM,2026-06-24T05:49:01.374318Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/screenleap-inc,Screenleap,Screenleap,FREEMIUM,2026-06-24T05:49:01.374571Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/per-vices,Per Vices,Per Vices,FREEMIUM,2026-06-24T05:49:01.374831Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/medmonk,Medmonk,Medmonk,FREEMIUM,2026-06-24T05:49:01.375079Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/y-combinator,Y Combinator,Y Combinator,FREEMIUM,2026-06-24T05:49:01.375328Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/apollo,Apollo,Apollo,FREE,2026-06-24T05:49:01.375569Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/hackerrank,HackerRank,HackerRank,FREEMIUM,2026-06-24T05:49:01.375814Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/onesignal,OneSignal,OneSignal,FREEMIUM,2026-06-24T05:49:01.376055Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/streak,Streak,Streak,FREEMIUM,2026-06-24T05:49:01.376294Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/quartzy,Quartzy,Quartzy,FREEMIUM,2026-06-24T05:49:01.376540Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/agilemd,AgileMD,AgileMD,FREEMIUM,2026-06-24T05:49:01.376780Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/clerky,Clerky,Clerky,FREEMIUM,2026-06-24T05:49:01.377018Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/gocardless,GoCardless,GoCardless,FREEMIUM,2026-06-24T05:49:01.377277Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/sift,Sift,Sift,FREEMIUM,2026-06-24T05:49:01.377518Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/leadgenius,LeadGenius,LeadGenius,FREEMIUM,2026-06-24T05:49:01.377760Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/mixrank,MixRank,MixRank,FREEMIUM,2026-06-24T05:49:01.378001Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/videopixie,Videopixie,Videopixie,FREEMIUM,2026-06-24T05:49:01.378250Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/imgix,Imgix,Imgix,FREE,2026-06-24T05:49:01.378491Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/vidyard,Vidyard,Vidyard,FREEMIUM,2026-06-24T05:49:01.378731Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/singlestore,SingleStore,SingleStore,FREEMIUM,2026-06-24T05:49:01.378983Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/talkable,Talkable,Talkable,FREEMIUM,2026-06-24T05:49:01.379224Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/tumult,Tumult,Tumult,FREEMIUM,2026-06-24T05:49:01.379465Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/acunote,Acunote,Acunote,FREEMIUM,2026-06-24T05:49:01.379751Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/instapainting,Instapainting,Instapainting,FREEMIUM,2026-06-24T05:49:01.380077Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/you-got-listings-inc,You Got Listings,You Got Listings,FREEMIUM,2026-06-24T05:49:01.380378Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/tremendous,Tremendous,Tremendous,FREEMIUM,2026-06-24T05:49:01.380778Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/close,Close,Close,FREEMIUM,2026-06-24T05:49:01.381038Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/mino-games,Mino Games,Mino Games,FREEMIUM,2026-06-24T05:49:01.381350Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/goat-group,GOAT Group,GOAT Group,FREEMIUM,2026-06-24T05:49:01.381608Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/zerocater,Zerocater,Zerocater,FREEMIUM,2026-06-24T05:49:01.381861Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/storyworth,Storyworth,Storyworth,FREEMIUM,2026-06-24T05:49:01.382109Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/recurse-center,Recurse Center,Recurse Center,FREEMIUM,2026-06-24T05:49:01.382383Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/demandsphere,DemandSphere,DemandSphere,FREEMIUM,2026-06-24T05:49:01.382626Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/anylist,AnyList,AnyList,FREEMIUM,2026-06-24T05:49:01.382883Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/docker,Docker,Docker,FREEMIUM,2026-06-24T05:49:01.383127Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/indinero,inDinero,inDinero,FREEMIUM,2026-06-24T05:49:01.383376Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/workflowy,WorkFlowy,WorkFlowy,FREEMIUM,2026-06-24T05:49:01.383616Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/ownlocal,OwnLocal,OwnLocal,FREEMIUM,2026-06-24T05:49:01.383855Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/listia,Listia,Listia,FREEMIUM,2026-06-24T05:49:01.384112Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/stripe,Stripe,Stripe,FREEMIUM,2026-06-24T05:49:01.384418Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/directed-edge,Directed Edge,Directed Edge,FREEMIUM,2026-06-24T05:49:01.384680Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/mixpanel,Mixpanel,Mixpanel,FREEMIUM,2026-06-24T05:49:01.384954Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/olark,Olark,Olark,FREEMIUM,2026-06-24T05:49:01.385200Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/renthop,RentHop,RentHop,FREEMIUM,2026-06-24T05:49:01.385455Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/lingt,Lingt,Lingt,FREEMIUM,2026-06-24T05:49:01.385700Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/volantio,Volantio,Volantio,FREEMIUM,2026-06-24T05:49:01.385951Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/poll-everywhere,Poll Everywhere,Poll Everywhere,FREEMIUM,2026-06-24T05:49:01.386202Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/rescuetime,RescueTime,RescueTime,FREEMIUM,2026-06-24T05:49:01.386468Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/ninite,Ninite,Ninite,FREEMIUM,2026-06-24T05:49:01.386825Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/blue-frog-gaming,Blue Frog Gaming,Blue Frog Gaming,FREEMIUM,2026-06-24T05:49:01.387511Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/virtualmin,Virtualmin,Virtualmin,FREEMIUM,2026-06-24T05:49:01.387779Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/buxfer,Buxfer,Buxfer,FREEMIUM,2026-06-24T05:49:01.388050Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/scribd,Scribd,Scribd,FREEMIUM,2026-06-24T05:49:01.388296Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/rainforest,Rainforest,Rainforest,FREEMIUM,2026-06-24T05:49:01.388537Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/mth-sense,Mth Sense,Mth Sense,FREEMIUM,2026-06-24T05:49:01.388790Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/human-dx,Human Dx,Human Dx,FREEMIUM,2026-06-24T05:49:01.389054Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/healthsherpa,HealthSherpa,HealthSherpa,FREEMIUM,2026-06-24T05:49:01.389293Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/mattermost,Mattermost,Mattermost,FREE,2026-06-24T05:49:01.389536Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/zentail,Zentail,Zentail,FREEMIUM,2026-06-24T05:49:01.389776Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/smartasset,SmartAsset,SmartAsset,FREEMIUM,2026-06-24T05:49:01.390030Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/fundersclub,FundersClub,FundersClub,FREEMIUM,2026-06-24T05:49:01.390271Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/eligible,Eligible,Eligible,PAID,2026-06-24T05:49:01.390523Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/upwave,Upwave,Upwave,FREEMIUM,2026-06-24T05:49:01.390777Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/octavewealth,OctaveWealth,OctaveWealth,FREEMIUM,2026-06-24T05:49:01.391034Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/newsblur,NewsBlur,NewsBlur,FREEMIUM,2026-06-24T05:49:01.391270Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/submittable,Submittable,Submittable,FREEMIUM,2026-06-24T05:49:01.391511Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/zapier,Zapier,Zapier,FREEMIUM,2026-06-24T05:49:01.391755Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/backerkit,BackerKit,BackerKit,FREEMIUM,2026-06-24T05:49:01.392042Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/benchling,Benchling,Benchling,FREEMIUM,2026-06-24T05:49:01.392345Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/flightfox,Flightfox,Flightfox,FREEMIUM,2026-06-24T05:49:01.392589Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/vastrm,Vastrm,Vastrm,FREEMIUM,2026-06-24T05:49:01.392847Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/double-robotics,Double Robotics,Double Robotics,FREEMIUM,2026-06-24T05:49:01.393113Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/plivo,Plivo,Plivo,FREEMIUM,2026-06-24T05:49:01.393472Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/svbtle,Svbtle,Svbtle,FREEMIUM,2026-06-24T05:49:01.393779Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/9gag,9gag,9gag,FREEMIUM,2026-06-24T05:49:01.394057Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/styleup,StyleUp,StyleUp,FREEMIUM,2026-06-24T05:49:01.394325Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/circuitlab,CircuitLab,CircuitLab,FREEMIUM,2026-06-24T05:49:01.394580Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/buildzoom,BuildZoom,BuildZoom,FREEMIUM,2026-06-24T05:49:01.394842Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/padlet,Padlet,Padlet,FREEMIUM,2026-06-24T05:49:01.395109Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/fivetran,Fivetran,Fivetran,FREEMIUM,2026-06-24T05:49:01.395402Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/lawdingo,Lawdingo,Lawdingo,FREEMIUM,2026-06-24T05:49:01.395682Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/cheetah,Cheetah,Cheetah,FREEMIUM,2026-06-24T05:49:01.395936Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/etleap,Etleap,Etleap,FREEMIUM,2026-06-24T05:49:01.396226Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/influxdata,InfluxData,InfluxData,FREE,2026-06-24T05:49:01.396508Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/strikingly,Strikingly,Strikingly,FREEMIUM,2026-06-24T05:49:01.396881Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/lollipuff,Lollipuff,Lollipuff,FREEMIUM,2026-06-24T05:49:01.397269Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/radar,RADAR,RADAR,FREEMIUM,2026-06-24T05:49:01.397554Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/experiment,Experiment,Experiment,FREEMIUM,2026-06-24T05:49:01.397880Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/simplyinsured,SimplyInsured,SimplyInsured,FREEMIUM,2026-06-24T05:49:01.398152Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/wefunder,Wefunder,Wefunder,FREEMIUM,2026-06-24T05:49:01.398441Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/wevorce,Wevorce,Wevorce,FREEMIUM,2026-06-24T05:49:01.398725Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/goldbelly,Goldbelly,Goldbelly,FREEMIUM,2026-06-24T05:49:01.399034Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/watsi,Watsi,Watsi,FREEMIUM,2026-06-24T05:49:01.399338Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/7cups,7cups,7cups,FREEMIUM,2026-06-24T05:49:01.399608Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/asseta,Asseta,Asseta,FREEMIUM,2026-06-24T05:49:01.400108Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/easypost,EasyPost,EasyPost,FREEMIUM,2026-06-24T05:49:01.400465Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/estimote-inc,Estimote,"Estimote,",FREEMIUM,2026-06-24T05:49:01.400734Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/cratejoy,Cratejoy,Cratejoy,PAID,2026-06-24T05:49:01.400996Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/panorama-education,Panorama Education,Panorama Education,FREEMIUM,2026-06-24T05:49:01.401430Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/lob,Lob,Lob,FREEMIUM,2026-06-24T05:49:01.401878Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/reebee,Reebee,Reebee,FREEMIUM,2026-06-24T05:49:01.402162Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/true-link,True Link,True Link,FREEMIUM,2026-06-24T05:49:01.402634Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/webflow,Webflow,Webflow,FREEMIUM,2026-06-24T05:49:01.402895Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/42,42,42,FREEMIUM,2026-06-24T05:49:01.403155Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/airhelp,AirHelp,AirHelp,FREEMIUM,2026-06-24T05:49:01.403432Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/ambition,Ambition,Ambition,FREEMIUM,2026-06-24T05:49:01.403700Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/caremessage,CareMessage,CareMessage,FREEMIUM,2026-06-24T05:49:01.403964Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/aptdeco,AptDeco,AptDeco,FREEMIUM,2026-06-24T05:49:01.404232Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/bellabeat,Bellabeat,Bellabeat,PAID,2026-06-24T05:49:01.404494Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/cambly,Cambly,Cambly,FREEMIUM,2026-06-24T05:49:01.404746Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/noora-health,Noora Health,Noora Health,FREEMIUM,2026-06-24T05:49:01.405019Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/codecombat,CodeCombat,CodeCombat,FREEMIUM,2026-06-24T05:49:01.405295Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/codenow,CodeNow,CodeNow,FREEMIUM,2026-06-24T05:49:01.405690Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/flexport,Flexport,Flexport,FREEMIUM,2026-06-24T05:49:01.405957Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/emailio,Emailio,Emailio,FREEMIUM,2026-06-24T05:49:01.406284Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/mbx,MBX,MBX,FREEMIUM,2026-06-24T05:49:01.406553Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/one-degree,One Degree,One Degree,FREEMIUM,2026-06-24T05:49:01.406834Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/piinpoint,PiinPoint,PiinPoint,FREEMIUM,2026-06-24T05:49:01.407096Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/povio,Povio,Povio,FREEMIUM,2026-06-24T05:49:01.407648Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/pushbullet,Pushbullet,Pushbullet,FREEMIUM,2026-06-24T05:49:01.407999Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/shoobs,Shoobs,Shoobs,FREEMIUM,2026-06-24T05:49:01.408324Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/snapdocs,Snapdocs,Snapdocs,ENTERPRISE,2026-06-24T05:49:01.408592Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/guesty,Guesty,Guesty,FREEMIUM,2026-06-24T05:49:01.408847Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/truevault,TrueVault,TrueVault,FREEMIUM,2026-06-24T05:49:01.409092Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/zidisha,Zidisha,Zidisha,FREEMIUM,2026-06-24T05:49:01.409412Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/zinc,Zinc,Zinc,FREEMIUM,2026-06-24T05:49:01.409663Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/algolia,Algolia,Algolia,FREEMIUM,2026-06-24T05:49:01.409923Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/gbatteries,GBatteries,GBatteries,FREEMIUM,2026-06-24T05:49:01.410175Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/mixerbox,MixerBox,MixerBox,FREEMIUM,2026-06-24T05:49:01.410423Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/opencurriculum,OpenCurriculum,OpenCurriculum,FREEMIUM,2026-06-24T05:49:01.410666Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/dyspatch,Dyspatch,Dyspatch,FREEMIUM,2026-06-24T05:49:01.410913Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/immunity-project,Immunity Project,Immunity Project,FREEMIUM,2026-06-24T05:49:01.411233Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/backpack,Backpack,Backpack,FREEMIUM,2026-06-24T05:49:01.411484Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/checkr,Checkr,Checkr,FREEMIUM,2026-06-24T05:49:01.411731Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/cleartax,Clear,Clear,FREEMIUM,2026-06-24T05:49:01.412097Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/flaviar,Flaviar,Flaviar,PAID,2026-06-24T05:49:01.412341Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/hyperpad,Hyperpad,Hyperpad,FREEMIUM,2026-06-24T05:49:01.412603Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/greentoe,Greentoe,Greentoe,FREEMIUM,2026-06-24T05:49:01.412851Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/protocol-labs,Protocol Labs,Protocol Labs,FREE,2026-06-24T05:49:01.413104Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/metricwire,MetricWire,MetricWire,FREEMIUM,2026-06-24T05:49:01.413348Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/mtailor,MTailor,MTailor,FREEMIUM,2026-06-24T05:49:01.413589Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/alchemy,Alchemy,Alchemy,FREEMIUM,2026-06-24T05:49:01.413837Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/permutive,Permutive,Permutive,FREEMIUM,2026-06-24T05:49:01.414122Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/picnicai,PicnicAI,PicnicAI,FREEMIUM,2026-06-24T05:49:01.414569Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/sfox,SFOX,SFOX,FREEMIUM,2026-06-24T05:49:01.414830Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/usergems,UserGems,UserGems,FREEMIUM,2026-06-24T05:49:01.415092Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/shipbob,ShipBob,ShipBob,FREEMIUM,2026-06-24T05:49:01.415382Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/spotangels,SpotAngels,SpotAngels,FREEMIUM,2026-06-24T05:49:01.415651Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/hive,Hive,Hive,FREEMIUM,2026-06-24T05:49:01.415902Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/roomstorm,Roomstorm,Roomstorm,FREEMIUM,2026-06-24T05:49:01.416158Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/front,Front,Front,FREEMIUM,2026-06-24T05:49:01.416406Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/helion-energy,Helion Energy,Helion Energy,FREEMIUM,2026-06-24T05:49:01.416662Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/bayes-impact,Bayes Impact,Bayes Impact,FREEMIUM,2026-06-24T05:49:01.416925Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/qventus,Qventus,Qventus,FREEMIUM,2026-06-24T05:49:01.417175Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/akido-labs,Akido Labs,Akido Labs,FREEMIUM,2026-06-24T05:49:01.417428Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/mezmo,Mezmo,Mezmo,FREEMIUM,2026-06-24T05:49:01.417692Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/magic,Magic,Magic,FREEMIUM,2026-06-24T05:49:01.417742Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/bright,Bright,Bright,FREEMIUM,2026-06-24T05:49:01.418250Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/numerion-labs,Numerion Labs,Numerion Labs,FREEMIUM,2026-06-24T05:49:01.418595Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/democracy-earth,Democracy Earth,Democracy Earth,FREE,2026-06-24T05:49:01.418924Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/the-human-utility,The Human Utility,The Human Utility,FREEMIUM,2026-06-24T05:49:01.419261Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/zeitview,Zeitview,Zeitview,FREEMIUM,2026-06-24T05:49:01.419506Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/bankjoy,Bankjoy,Bankjoy,FREEMIUM,2026-06-24T05:49:01.419748Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/givemetap,GiveMeTap,GiveMeTap,FREEMIUM,2026-06-24T05:49:01.420007Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/grubmarket,GrubMarket,GrubMarket,FREEMIUM,2026-06-24T05:49:01.420247Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/labdoor,Labdoor,Labdoor,FREEMIUM,2026-06-24T05:49:01.420497Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/platzi,Platzi,Platzi,FREEMIUM,2026-06-24T05:49:01.420744Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/buildscience,BuildScience,BuildScience,FREEMIUM,2026-06-24T05:49:01.420992Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/readme,ReadMe,ReadMe,FREEMIUM,2026-06-24T05:49:01.421421Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/sails-co,Sails,Sails,FREE,2026-06-24T05:49:01.421689Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/sirum,SIRUM,SIRUM,FREEMIUM,2026-06-24T05:49:01.422047Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/tempo,Tempo,Tempo,FREEMIUM,2026-06-24T05:49:01.422357Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/teamnote,TeamNote,TeamNote,FREEMIUM,2026-06-24T05:49:01.422656Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/makrwatch,Makrwatch,Makrwatch,PAID,2026-06-24T05:49:01.422975Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/resolve,Resolve,Resolve,FREEMIUM,2026-06-24T05:49:01.423475Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/cleanly,Cleanly,Cleanly,FREEMIUM,2026-06-24T05:49:01.423803Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/quantierra,Quantierra,Quantierra,FREEMIUM,2026-06-24T05:49:01.424177Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/ebrandvalue,eBrandvalue,eBrandvalue,FREEMIUM,2026-06-24T05:49:01.424466Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/giveffect,Giveffect,Giveffect,FREEMIUM,2026-06-24T05:49:01.424711Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/industrial-microbes,Industrial Microbes,Industrial Microbes,FREEMIUM,2026-06-24T05:49:01.424970Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/level-frames,Level Frames,Level Frames,FREEMIUM,2026-06-24T05:49:01.425224Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/meadow,Meadow,Meadow,FREEMIUM,2026-06-24T05:49:01.425472Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/razorpay,Razorpay,Razorpay,FREEMIUM,2026-06-24T05:49:01.425792Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/tab,Tab,Tab,FREEMIUM,2026-06-24T05:49:01.426045Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/zenflow,Zenflow,Zenflow,FREEMIUM,2026-06-24T05:49:01.426286Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/x-zell,X-Zell,X-Zell,FREEMIUM,2026-06-24T05:49:01.426533Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/flip,Flip,Flip,FREEMIUM,2026-06-24T05:49:01.426773Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/tara-ai,Tara AI,Tara AI,FREEMIUM,2026-06-24T05:49:01.427030Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/replika,Replika,Replika,FREEMIUM,2026-06-24T05:49:01.427270Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/nimblerx,NimbleRx,NimbleRx,FREEMIUM,2026-06-24T05:49:01.427510Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/mashgin,Mashgin,Mashgin,FREEMIUM,2026-06-24T05:49:01.427757Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/lugg,Lugg,Lugg,FREEMIUM,2026-06-24T05:49:01.428005Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/teleport,Teleport,Teleport,FREEMIUM,2026-06-24T05:49:01.428256Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/teabot,teaBOT,teaBOT,FREEMIUM,2026-06-24T05:49:01.428500Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/leaders-in-tech,Leaders In Tech,Leaders In Tech,FREEMIUM,2026-06-24T05:49:01.429137Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/ironclad,Ironclad,Ironclad,FREEMIUM,2026-06-24T05:49:01.429429Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/new-story,New Story,New Story,FREEMIUM,2026-06-24T05:49:01.429902Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/gemnote,Gemnote,Gemnote,FREEMIUM,2026-06-24T05:49:01.430230Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/assembly,Assembly,Assembly,FREEMIUM,2026-06-24T05:49:01.430519Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/partnerstack,PartnerStack,PartnerStack,FREEMIUM,2026-06-24T05:49:01.430803Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/scope-ar,Scope AR,Scope AR,FREEMIUM,2026-06-24T05:49:01.431157Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/snapmagic,SnapMagic,SnapMagic,FREEMIUM,2026-06-24T05:49:01.431416Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/heroic-labs,Heroic Labs,Heroic Labs,FREEMIUM,2026-06-24T05:49:01.431676Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/branch8,Branch8,Branch8,FREEMIUM,2026-06-24T05:49:01.431942Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/confident-lims,Confident LIMS,Confident LIMS,FREEMIUM,2026-06-24T05:49:01.432334Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/sunfarmer,SunFarmer,SunFarmer,FREEMIUM,2026-06-24T05:49:01.432591Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/reach,Reach,Reach,FREEMIUM,2026-06-24T05:49:01.432833Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/tesorio,Tesorio,Tesorio,FREEMIUM,2026-06-24T05:49:01.433224Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/thrive-agritech,Thrive Agritech,Thrive Agritech,FREEMIUM,2026-06-24T05:49:01.433517Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/verge-genomics,Verge Genomics,Verge Genomics,FREEMIUM,2026-06-24T05:49:01.433777Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/bodyport,Bodyport,Bodyport,FREEMIUM,2026-06-24T05:49:01.434028Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/chaldal,Chaldal,Chaldal,FREEMIUM,2026-06-24T05:49:01.434276Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/drip-capital,Drip Capital,Drip Capital,FREEMIUM,2026-06-24T05:49:01.434540Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/givecampus,GiveCampus,GiveCampus,FREEMIUM,2026-06-24T05:49:01.434791Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/circle-medical,Circle Medical,Circle Medical,FREEMIUM,2026-06-24T05:49:01.435066Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/markhor,Markhor,Markhor,FREEMIUM,2026-06-24T05:49:01.435557Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/zeplin,Zeplin,Zeplin,FREEMIUM,2026-06-24T05:49:01.436012Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/microhealth,Microhealth,Microhealth,FREEMIUM,2026-06-24T05:49:01.436401Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/fountain,Fountain,Fountain,FREEMIUM,2026-06-24T05:49:01.436655Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/picktrace,PickTrace,PickTrace,FREEMIUM,2026-06-24T05:49:01.436919Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/plate-iq,Plate IQ,Plate IQ,FREEMIUM,2026-06-24T05:49:01.437174Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/redcarpetup,RedCarpetUp,RedCarpetUp,FREEMIUM,2026-06-24T05:49:01.437413Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/scentbird,Scentbird,Scentbird,PAID,2026-06-24T05:49:01.437650Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/shape-shapescale,Shape ShapeScale,Shape (ShapeScale),FREEMIUM,2026-06-24T05:49:01.437911Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/shred-video,Shred Video,Shred Video,FREEMIUM,2026-06-24T05:49:01.438169Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/xendit,Xendit,Xendit,FREEMIUM,2026-06-24T05:49:01.438416Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/80-000-hours,80000 Hours,"80,000 Hours",FREEMIUM,2026-06-24T05:49:01.438671Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/font-awesome,Font Awesome,Font Awesome,FREEMIUM,2026-06-24T05:49:01.438934Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/go1,Go1,Go1,FREEMIUM,2026-06-24T05:49:01.439177Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/the-ticket-fairy,The Ticket Fairy,The Ticket Fairy,FREEMIUM,2026-06-24T05:49:01.439441Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/tetrascience,TetraScience,TetraScience,FREEMIUM,2026-06-24T05:49:01.439687Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/bitmovin,Bitmovin,Bitmovin,ENTERPRISE,2026-06-24T05:49:01.439935Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/cofactor-genomics,Cofactor Genomics,Cofactor Genomics,FREEMIUM,2026-06-24T05:49:01.440202Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/instawork,Instawork,Instawork,FREEMIUM,2026-06-24T05:49:01.440440Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/eight-sleep,Eight Sleep,Eight Sleep,FREEMIUM,2026-06-24T05:49:01.440696Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/human-interest,Human Interest,Human Interest,FREEMIUM,2026-06-24T05:49:01.440971Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/mux,Mux,Mux,FREEMIUM,2026-06-24T05:49:01.441221Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/lattice,Lattice,Lattice,FREEMIUM,2026-06-24T05:49:01.441515Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/soundboks,SOUNDBOKS,SOUNDBOKS,FREEMIUM,2026-06-24T05:49:01.441763Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/deepgram,Deepgram,Deepgram,FREEMIUM,2026-06-24T05:49:01.442159Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/stealth-worker,Stealth Worker,Stealth Worker,FREEMIUM,2026-06-24T05:49:01.442679Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/yardbook,Yardbook,Yardbook,FREEMIUM,2026-06-24T05:49:01.443121Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/chatfuel,Chatfuel,Chatfuel,FREEMIUM,2026-06-24T05:49:01.443387Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/getaccept,GetAccept,GetAccept,FREEMIUM,2026-06-24T05:49:01.443653Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/isono-health,iSono Health,iSono Health,FREEMIUM,2026-06-24T05:49:01.443917Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/tovala,Tovala,Tovala,FREEMIUM,2026-06-24T05:49:01.444156Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/magicbus,MagicBus,MagicBus,FREEMIUM,2026-06-24T05:49:01.444404Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/mason,Mason,Mason,FREEMIUM,2026-06-24T05:49:01.444678Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/outschool,Outschool,Outschool,FREEMIUM,2026-06-24T05:49:01.444924Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/petcube,Petcube,Petcube,FREEMIUM,2026-06-24T05:49:01.445166Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/daily,Daily,Daily,FREEMIUM,2026-06-24T05:49:01.445405Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/mio,Mio,Mio,FREEMIUM,2026-06-24T05:49:01.445652Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/focal-systems,Focal Systems,Focal Systems,FREEMIUM,2026-06-24T05:49:01.445910Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/deako,Deako,Deako,FREEMIUM,2026-06-24T05:49:01.446155Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/copia,Copia,Copia,FREEMIUM,2026-06-24T05:49:01.446400Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/gigwell,Gigwell,Gigwell,FREEMIUM,2026-06-24T05:49:01.446659Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/meter-feeder,Meter Feeder,Meter Feeder,FREEMIUM,2026-06-24T05:49:01.446916Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/pocketsuite,PocketSuite,PocketSuite,FREEMIUM,2026-06-24T05:49:01.447165Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/revl,Revl,Revl,FREEMIUM,2026-06-24T05:49:01.447407Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/mailtime,MailTime,MailTime,FREEMIUM,2026-06-24T05:49:01.447653Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/opentrons,Opentrons,Opentrons,FREEMIUM,2026-06-24T05:49:01.447901Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/castle-2,Castle,Castle,FREEMIUM,2026-06-24T05:49:01.448139Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/netomi,Netomi,Netomi,FREEMIUM,2026-06-24T05:49:01.448388Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/superside,Superside,Superside,PAID,2026-06-24T05:49:01.449294Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/function-of-beauty,Function of Beauty,Function of Beauty,FREEMIUM,2026-06-24T05:49:01.449777Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/luciq,Luciq formerly Instabug,Luciq (formerly Instabug),FREEMIUM,2026-06-24T05:49:01.450099Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/pave,Pave,Pave,FREEMIUM,2026-06-24T05:49:01.450426Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/podium,Podium,Podium,FREEMIUM,2026-06-24T05:49:01.450690Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/salt-security,Salt Security,Salt Security,FREEMIUM,2026-06-24T05:49:01.450967Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/apollo-io,Apolloio,Apollo.io,FREEMIUM,2026-06-24T05:49:01.451218Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/thunkable,Thunkable,Thunkable,FREEMIUM,2026-06-24T05:49:01.451470Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/lynks,Lynks,Lynks,FREEMIUM,2026-06-24T05:49:01.451707Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/gecko-robotics,Gecko Robotics,Gecko Robotics,FREEMIUM,2026-06-24T05:49:01.452020Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/golorry,GoLorry,GoLorry,FREEMIUM,2026-06-24T05:49:01.452275Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/histowiz,HistoWiz,HistoWiz,FREEMIUM,2026-06-24T05:49:01.452530Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/mrelief,mRelief,mRelief,FREEMIUM,2026-06-24T05:49:01.452771Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/netbeez,NetBeez,NetBeez,FREEMIUM,2026-06-24T05:49:01.453012Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/carbic,Carbic,Carbic,FREEMIUM,2026-06-24T05:49:01.453257Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/fightcamp,FightCamp,FightCamp,FREEMIUM,2026-06-24T05:49:01.453506Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/quilt-data,Quilt Data,Quilt Data,FREEMIUM,2026-06-24T05:49:01.453756Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/sanitation-and-health-rights-in-india-shri,Sanitation and Health Rights in India SHRI,Sanitation and Health Rights in India (SHRI),FREEMIUM,2026-06-24T05:49:01.454064Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/wakie,Wakie,Wakie,FREEMIUM,2026-06-24T05:49:01.454303Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/sendbird,Sendbird,Sendbird,ENTERPRISE,2026-06-24T05:49:01.454547Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/relativity-space,Relativity Space,Relativity Space,FREEMIUM,2026-06-24T05:49:01.454812Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/boom,Boom,Boom,FREEMIUM,2026-06-24T05:49:01.455066Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/protonet,Protonet,Protonet,FREEMIUM,2026-06-24T05:49:01.455330Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/astranis,Astranis,Astranis,FREEMIUM,2026-06-24T05:49:01.455602Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/zenysis,Zenysis,Zenysis,FREEMIUM,2026-06-24T05:49:01.455917Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/lygos,Lygos,Lygos,FREEMIUM,2026-06-24T05:49:01.456382Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/devcolor,DevColor,DevColor,FREEMIUM,2026-06-24T05:49:01.456642Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/perlara,Perlara,Perlara,FREEMIUM,2026-06-24T05:49:01.456900Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/qvin,Qvin,Qvin,FREEMIUM,2026-06-24T05:49:01.457185Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/rappi,Rappi,Rappi,FREEMIUM,2026-06-24T05:49:01.457455Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/prime-lightworks,Prime Lightworks,Prime Lightworks,FREEMIUM,2026-06-24T05:49:01.457779Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/nucypher-aka-threshold-network,NuCypher aka Threshold Network,NuCypher (aka Threshold Network),FREEMIUM,2026-06-24T05:49:01.458385Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/vetcove,Vetcove,Vetcove,FREEMIUM,2026-06-24T05:49:01.458681Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/joy,Joy,Joy,FREEMIUM,2026-06-24T05:49:01.458973Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/raptor-maps,Raptor Maps,Raptor Maps,FREEMIUM,2026-06-24T05:49:01.459231Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/upgraded,Upgraded,Upgraded,PAID,2026-06-24T05:49:01.459480Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/vote-org,Voteorg,Vote.org,FREEMIUM,2026-06-24T05:49:01.459723Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/rose-rocket,Rose Rocket,Rose Rocket,FREEMIUM,2026-06-24T05:49:01.459983Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/livement,Livement,Livement,FREEMIUM,2026-06-24T05:49:01.460227Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/rocketlit,RocketLit,RocketLit,FREEMIUM,2026-06-24T05:49:01.460476Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/amberbox-gunshot-detection,AmberBox Gunshot Detection,AmberBox Gunshot Detection,FREEMIUM,2026-06-24T05:49:01.460747Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/instrumentl,Instrumentl,Instrumentl,FREEMIUM,2026-06-24T05:49:01.460987Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/nova-credit,Nova Credit,Nova Credit,FREEMIUM,2026-06-24T05:49:01.461250Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/onechronos,OneChronos,OneChronos,FREEMIUM,2026-06-24T05:49:01.461505Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/the-flex-company,The Flex Company,The Flex Company,FREEMIUM,2026-06-24T05:49:01.461792Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/women-who-code,Women Who Code,Women Who Code,FREEMIUM,2026-06-24T05:49:01.462100Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/multiply-labs,Multiply Labs,Multiply Labs,FREEMIUM,2026-06-24T05:49:01.462366Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/new-incentives,New Incentives,New Incentives,FREEMIUM,2026-06-24T05:49:01.462616Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/legalist,Legalist,Legalist,FREEMIUM,2026-06-24T05:49:01.462887Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/synvivia,Synvivia,Synvivia,FREEMIUM,2026-06-24T05:49:01.463211Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/hioperator,HiOperator,HiOperator,FREEMIUM,2026-06-24T05:49:01.463565Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/gogograndparent,GoGoGrandparent,GoGoGrandparent,FREEMIUM,2026-06-24T05:49:01.463895Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/squire-technologies,Squire Technologies,Squire Technologies,FREEMIUM,2026-06-24T05:49:01.464656Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/miso,Miso,Miso,FREEMIUM,2026-06-24T05:49:01.465222Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/athelas,Athelas,Athelas,FREEMIUM,2026-06-24T05:49:01.465506Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/airfordable,Airfordable,Airfordable,FREEMIUM,2026-06-24T05:49:01.465750Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/validere,Validere,Validere,FREEMIUM,2026-06-24T05:49:01.465996Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/curtsy,Curtsy,Curtsy,FREEMIUM,2026-06-24T05:49:01.466240Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/smartpath,SmartPath,SmartPath,FREEMIUM,2026-06-24T05:49:01.466485Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/emote,Emote,Emote,FREEMIUM,2026-06-24T05:49:01.466727Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/flutterwave,Flutterwave,Flutterwave,FREEMIUM,2026-06-24T05:49:01.466978Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/ready-education,Ready Education,Ready Education,FREEMIUM,2026-06-24T05:49:01.467243Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/circa,Circa,Circa,FREEMIUM,2026-06-24T05:49:01.467487Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/scale-ai,Scale AI,Scale AI,FREEMIUM,2026-06-24T05:49:01.467519Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/omg-digital,OMG Digital,OMG Digital,FREEMIUM,2026-06-24T05:49:01.467772Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/yoshi-mobility,Yoshi Mobility,Yoshi Mobility,FREEMIUM,2026-06-24T05:49:01.468029Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/people-ai,Peopleai,People.ai,ENTERPRISE,2026-06-24T05:49:01.468273Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/apolloshield,ApolloShield,ApolloShield,FREEMIUM,2026-06-24T05:49:01.468526Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/quero-education,Quero Education,Quero Education,FREEMIUM,2026-06-24T05:49:01.468782Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/jumpcut,Jumpcut,Jumpcut,FREEMIUM,2026-06-24T05:49:01.469021Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/suiteness,Suiteness,Suiteness,FREEMIUM,2026-06-24T05:49:01.469265Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/elemeno-health,Elemeno Health,Elemeno Health,FREEMIUM,2026-06-24T05:49:01.469532Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/expo,Expo,Expo,FREEMIUM,2026-06-24T05:49:01.469776Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/classdojo,ClassDojo,ClassDojo,FREEMIUM,2026-06-24T05:49:01.470074Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/bird,Bird,Bird,FREEMIUM,2026-06-24T05:49:01.470354Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/democracyos,DemocracyOS,DemocracyOS,FREEMIUM,2026-06-24T05:49:01.470638Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/voiceops,Voiceops,Voiceops,FREEMIUM,2026-06-24T05:49:01.471005Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/tizeti,Tizeti,Tizeti,FREEMIUM,2026-06-24T05:49:01.471309Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/speak,Speak,Speak,FREEMIUM,2026-06-24T05:49:01.471655Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/bountiful,Bountiful,Bountiful,FREEMIUM,2026-06-24T05:49:01.472371Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/sinovia-technologies,Sinovia Technologies,Sinovia Technologies,FREEMIUM,2026-06-24T05:49:01.472716Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/rippling,Rippling,Rippling,FREEMIUM,2026-06-24T05:49:01.473034Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/sleep-reset,Sleep Reset,Sleep Reset,FREEMIUM,2026-06-24T05:49:01.473315Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/bloomapi,BloomAPI,BloomAPI,FREEMIUM,2026-06-24T05:49:01.473618Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/mdalgorithms-inc,MDalgorithms,MDalgorithms,FREEMIUM,2026-06-24T05:49:01.473891Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/extern,Extern,Extern,FREEMIUM,2026-06-24T05:49:01.474160Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/rezi,REZI,REZI,FREEMIUM,2026-06-24T05:49:01.474406Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/ledger-investing,Ledger Investing,Ledger Investing,FREEMIUM,2026-06-24T05:49:01.474670Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/nuvola,Nuvola,Nuvola,FREEMIUM,2026-06-24T05:49:01.474915Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/upcall,Upcall,Upcall,FREEMIUM,2026-06-24T05:49:01.475158Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/the-essential,The Essential,The Essential,FREEMIUM,2026-06-24T05:49:01.475413Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/clipboard,Clipboard,Clipboard,FREEMIUM,2026-06-24T05:49:01.475660Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/rankscience,RankScience,RankScience,FREEMIUM,2026-06-24T05:49:01.475905Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/ambient-ai,Ambientai,Ambient.ai,FREEMIUM,2026-06-24T05:49:01.476159Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/token-transit,Token Transit,Token Transit,FREEMIUM,2026-06-24T05:49:01.476414Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/snappr,Snappr,Snappr,FREEMIUM,2026-06-24T05:49:01.476695Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/mednet,Mednet,Mednet,FREEMIUM,2026-06-24T05:49:01.477051Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/veryfi-inc,Veryfi,"Veryfi,",FREEMIUM,2026-06-24T05:49:01.477422Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/wright-electric,Wright Electric,Wright Electric,FREEMIUM,2026-06-24T05:49:01.477895Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/tolemi,Tolemi,Tolemi,FREEMIUM,2026-06-24T05:49:01.478195Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/aella,Aella,Aella,FREEMIUM,2026-06-24T05:49:01.478595Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/collectly,Collectly,Collectly,FREEMIUM,2026-06-24T05:49:01.478844Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/request-network,Request Network,Request Network,FREEMIUM,2026-06-24T05:49:01.479099Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/alemhealth,AlemHealth,AlemHealth,FREEMIUM,2026-06-24T05:49:01.479347Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/fastjvm,FastJVM,FastJVM,FREEMIUM,2026-06-24T05:49:01.479589Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/bulk-mro-industrial-supply,Bulk MRO Industrial Supply,Bulk MRO Industrial Supply,FREEMIUM,2026-06-24T05:49:01.479870Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/solugen,Solugen,Solugen,FREEMIUM,2026-06-24T05:49:01.480111Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/bitrise,Bitrise,Bitrise,FREE,2026-06-24T05:49:01.480624Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/plane,Plane,Plane,FREEMIUM,2026-06-24T05:49:01.480890Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/hogaru,Hogaru,Hogaru,FREEMIUM,2026-06-24T05:49:01.481136Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/reliance-health,Reliance Health,Reliance Health,FREEMIUM,2026-06-24T05:49:01.481404Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/apozy,Apozy,Apozy,FREEMIUM,2026-06-24T05:49:01.481654Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/buypower,BuyPower,BuyPower,FREEMIUM,2026-06-24T05:49:01.481904Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/aon3d,AON3D,AON3D,FREEMIUM,2026-06-24T05:49:01.482184Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/nomba,Nomba,Nomba,FREEMIUM,2026-06-24T05:49:01.482441Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/bios-health,BIOS Health,BIOS Health,FREEMIUM,2026-06-24T05:49:01.482704Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/nanonets,NanoNets,NanoNets,FREEMIUM,2026-06-24T05:49:01.482971Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/delee,Delee,Delee,FREEMIUM,2026-06-24T05:49:01.483222Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/wifi-dabba-inc,Wifi Dabba,"Wifi Dabba,",FREEMIUM,2026-06-24T05:49:01.483504Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/onefin,OneFin,OneFin,FREEMIUM,2026-06-24T05:49:01.483811Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/faire,Faire,Faire,FREEMIUM,2026-06-24T05:49:01.484115Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/ridecell,Ridecell,Ridecell,ENTERPRISE,2026-06-24T05:49:01.484417Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/indee-labs,Indee Labs,Indee Labs,FREEMIUM,2026-06-24T05:49:01.484754Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/the-centre-for-effective-altruism,The Centre for Effective Altruism,The Centre for Effective Altruism,FREEMIUM,2026-06-24T05:49:01.485093Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/lively-inc,Lively,"Lively,",FREEMIUM,2026-06-24T05:49:01.485347Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/dost-education,Dost Education,Dost Education,FREEMIUM,2026-06-24T05:49:01.485623Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/mirror-ai,Mirror AI,Mirror AI,FREEMIUM,2026-06-24T05:49:01.485879Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/helix-nanotechnologies,Helix Nanotechnologies,Helix Nanotechnologies,FREEMIUM,2026-06-24T05:49:01.486156Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/retool,Retool,Retool,FREEMIUM,2026-06-24T05:49:01.486395Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/aclu,ACLU,ACLU,FREEMIUM,2026-06-24T05:49:01.486649Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/jerry-inc,Jerry,Jerry,FREEMIUM,2026-06-24T05:49:01.486931Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/fazz,FAZZ,FAZZ,FREEMIUM,2026-06-24T05:49:01.487340Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/sigma-genetics,Sigma Genetics,Sigma Genetics,FREEMIUM,2026-06-24T05:49:01.487619Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/skyways,Skyways,Skyways,FREEMIUM,2026-06-24T05:49:01.487872Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/long-term-stock-exchange,Long Term Stock Exchange,Long Term Stock Exchange,FREEMIUM,2026-06-24T05:49:01.488165Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/nobell-foods,Nobell Foods,Nobell Foods,FREEMIUM,2026-06-24T05:49:01.488435Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/vergesense,VergeSense,VergeSense,FREEMIUM,2026-06-24T05:49:01.488695Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/x3-builders,Aecore,Aecore,FREEMIUM,2026-06-24T05:49:01.488956Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/bloom-institute-of-technology,Bloom Institute of Technology,Bloom Institute of Technology,FREEMIUM,2026-06-24T05:49:01.489243Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/leon-and-george,Leon George,Leon & George,FREEMIUM,2026-06-24T05:49:01.489508Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/releaf-earth,Releaf Earth,Releaf Earth,FREEMIUM,2026-06-24T05:49:01.489778Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/helium-health,Helium Health,Helium Health,FREEMIUM,2026-06-24T05:49:01.490045Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/upcodes,UpCodes,UpCodes,FREEMIUM,2026-06-24T05:49:01.490298Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/standard-ai,Standard AI,Standard AI,FREEMIUM,2026-06-24T05:49:01.490590Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/roofr,Roofr,Roofr,FREEMIUM,2026-06-24T05:49:01.490867Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/nimble,Nimble,Nimble,FREEMIUM,2026-06-24T05:49:01.491198Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/darmiyan,Darmiyan,Darmiyan,FREEMIUM,2026-06-24T05:49:01.491560Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/safebutler,SafeButler,SafeButler,FREEMIUM,2026-06-24T05:49:01.492173Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/therecraft,ThereCraft,ThereCraft,FREEMIUM,2026-06-24T05:49:01.492436Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/cocusocial,CocuSocial,CocuSocial,FREEMIUM,2026-06-24T05:49:01.492682Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/flock-safety,Flock Safety,Flock Safety,FREEMIUM,2026-06-24T05:49:01.492959Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/relationship-hero,Relationship Hero,Relationship Hero,FREEMIUM,2026-06-24T05:49:01.493214Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/carrot-fertility,Carrot Fertility,Carrot Fertility,FREEMIUM,2026-06-24T05:49:01.493469Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/advano,Advano,Advano,FREEMIUM,2026-06-24T05:49:01.493710Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/prelim,Prelim,Prelim,FREEMIUM,2026-06-24T05:49:01.493992Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/upfort,Upfort,Upfort,FREEMIUM,2026-06-24T05:49:01.494239Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/rabbet,Rabbet,Rabbet,FREEMIUM,2026-06-24T05:49:01.494478Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/cairns-health,Cairns Health,Cairns Health,FREEMIUM,2026-06-24T05:49:01.494737Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/pop-meals,Pop Meals,Pop Meals,FREEMIUM,2026-06-24T05:49:01.494999Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/helpwear,HelpWear,HelpWear,FREEMIUM,2026-06-24T05:49:01.495238Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/entocycle,Entocycle,Entocycle,FREEMIUM,2026-06-24T05:49:01.495483Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/pyka,Pyka,Pyka,FREEMIUM,2026-06-24T05:49:01.495742Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/rev-genomics,Rev Genomics,Rev Genomics,FREEMIUM,2026-06-24T05:49:01.496430Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/tpaga,tpaga,tpaga,FREEMIUM,2026-06-24T05:49:01.496726Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/airthium,Airthium,Airthium,FREEMIUM,2026-06-24T05:49:01.496991Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/flowspace,Flowspace,Flowspace,FREEMIUM,2026-06-24T05:49:01.497234Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/skyscrape,Skyscrape,Skyscrape,FREEMIUM,2026-06-24T05:49:01.497484Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/d-id,D-ID,D-ID,FREEMIUM,2026-06-24T05:49:01.497826Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/tesseract,Tesseract,Tesseract,FREEMIUM,2026-06-24T05:49:01.498137Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/oncobox,Oncobox,Oncobox,FREEMIUM,2026-06-24T05:49:01.498466Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/sourceress,Sourceress,Sourceress,FREEMIUM,2026-06-24T05:49:01.498808Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/onelocal,OneLocal,OneLocal,FREEMIUM,2026-06-24T05:49:01.499122Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/muzz,Muzz,Muzz,FREEMIUM,2026-06-24T05:49:01.499395Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/may-mobility,May Mobility,May Mobility,FREEMIUM,2026-06-24T05:49:01.499665Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/officely,Officely,Officely,FREEMIUM,2026-06-24T05:49:01.499920Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/zendar,Zendar,Zendar,FREEMIUM,2026-06-24T05:49:01.500186Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/assemblyai,AssemblyAI,AssemblyAI,FREEMIUM,2026-06-24T05:49:01.500451Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/goodcover,Goodcover,Goodcover,FREEMIUM,2026-06-24T05:49:01.500739Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/routable,Routable,Routable,FREEMIUM,2026-06-24T05:49:01.501062Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/just-appraised,Just Appraised,Just Appraised,FREEMIUM,2026-06-24T05:49:01.501445Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/gem,Gem,Gem,FREEMIUM,2026-06-24T05:49:01.501733Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/forever-labs,Forever Labs,Forever Labs,FREEMIUM,2026-06-24T05:49:01.502024Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/10-by-10,10 By 10,10 By 10,FREEMIUM,2026-06-24T05:49:01.502304Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/thematic,Thematic,Thematic,FREEMIUM,2026-06-24T05:49:01.502546Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/followupthen,FollowUpThen,FollowUpThen,FREEMIUM,2026-06-24T05:49:01.502859Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/candidately,Candidately,Candidately,FREEMIUM,2026-06-24T05:49:01.503151Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/cashfree-payments,Cashfree Payments,Cashfree Payments,FREEMIUM,2026-06-24T05:49:01.503444Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/lucy-goods-inc,Lucy Goods,"Lucy Goods,",FREEMIUM,2026-06-24T05:49:01.503742Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/proven-group,Proven Group,Proven Group,FREEMIUM,2026-06-24T05:49:01.504013Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/precious,Precious,Precious,FREEMIUM,2026-06-24T05:49:01.504265Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/quantstamp,Quantstamp,Quantstamp,FREEMIUM,2026-06-24T05:49:01.504655Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/torch,Torch,Torch,FREEMIUM,2026-06-24T05:49:01.504930Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/spellbrush,Spellbrush,Spellbrush,FREEMIUM,2026-06-24T05:49:01.505233Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/beanstalk,Beanstalk,Beanstalk,FREEMIUM,2026-06-24T05:49:01.505634Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/blueberry-pediatrics,Blueberry Pediatrics,Blueberry Pediatrics,FREEMIUM,2026-06-24T05:49:01.505951Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/shogun,Shogun,Shogun,FREEMIUM,2026-06-24T05:49:01.506270Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/jasper-ai,Jasper,Jasper.ai,FREEMIUM,2026-06-24T05:49:01.506660Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/assembly-com,Assembly,Assembly,FREEMIUM,2026-06-24T05:49:01.506955Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/observant-ai,Observant AI,Observant AI,FREEMIUM,2026-06-24T05:49:01.507212Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/fondo,Fondo,Fondo,FREEMIUM,2026-06-24T05:49:01.507455Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/worklytics,Worklytics,Worklytics,FREEMIUM,2026-06-24T05:49:01.507696Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/sixfold-bioscience,Sixfold Bioscience,Sixfold Bioscience,FREEMIUM,2026-06-24T05:49:01.507955Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/glowing-io,Glowingio,Glowing.io,FREEMIUM,2026-06-24T05:49:01.508200Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/slite,Slite,Slite,FREEMIUM,2026-06-24T05:49:01.508450Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/cointracker,CoinTracker,CoinTracker,FREEMIUM,2026-06-24T05:49:01.508692Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/key-values,Key Values,Key Values,FREEMIUM,2026-06-24T05:49:01.508946Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/simetrik,Simetrik,Simetrik,FREEMIUM,2026-06-24T05:49:01.509186Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/srtx,SRTX,SRTX,FREEMIUM,2026-06-24T05:49:01.509424Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/avro-life-science,Avro Life Science,Avro Life Science,FREEMIUM,2026-06-24T05:49:01.509687Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/macromoltek,Macromoltek,Macromoltek,FREEMIUM,2026-06-24T05:49:01.509927Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/nexgent,NEXGENT,NEXGENT,FREEMIUM,2026-06-24T05:49:01.510199Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/biobot-analytics,Biobot Analytics,Biobot Analytics,FREEMIUM,2026-06-24T05:49:01.510473Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/nectome,Nectome,Nectome,FREEMIUM,2026-06-24T05:49:01.510714Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/tradewind-bioscience,Tradewind BioScience,Tradewind BioScience,FREEMIUM,2026-06-24T05:49:01.510966Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/promise,Promise,Promise,FREEMIUM,2026-06-24T05:49:01.511203Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/modern-health,Modern Health,Modern Health,FREEMIUM,2026-06-24T05:49:01.511647Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/persephone-biosciences,Persephone Biosciences,Persephone Biosciences,FREEMIUM,2026-06-24T05:49:01.511949Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/aesculatech,AesculaTech,AesculaTech,FREEMIUM,2026-06-24T05:49:01.512339Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/nuvocargo,Nuvocargo,Nuvocargo,FREEMIUM,2026-06-24T05:49:01.512618Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/dear-brightly,Dear Brightly,Dear Brightly,FREEMIUM,2026-06-24T05:49:01.512880Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/vanta,Vanta,Vanta,FREEMIUM,2026-06-24T05:49:01.513189Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/lus-brands,LUS Brands,LUS Brands,FREEMIUM,2026-06-24T05:49:01.513460Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/draftbit,Draftbit,Draftbit,FREEMIUM,2026-06-24T05:49:01.513707Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/meitre,Meitre,Meitre,FREEMIUM,2026-06-24T05:49:01.513954Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/tequitable,tEQuitable,tEQuitable,FREEMIUM,2026-06-24T05:49:01.514198Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/biorender,BioRender,BioRender,FREEMIUM,2026-06-24T05:49:01.514443Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/plexus,Plexus,Plexus,FREEMIUM,2026-06-24T05:49:01.514680Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/sourcify,Sourcify,Sourcify,FREEMIUM,2026-06-24T05:49:01.514921Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/tributi,Tributi,Tributi,FREEMIUM,2026-06-24T05:49:01.515166Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/supermedium,Supermedium,Supermedium,FREEMIUM,2026-06-24T05:49:01.515405Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/evolve-makers-of-podcast-app-and-rest,Evolve makers of Podcast App Rest,Evolve (makers of Podcast App & Rest),FREEMIUM,2026-06-24T05:49:01.515716Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/let-s-do-this,Lets Do This,Let's Do This,FREEMIUM,2026-06-24T05:49:01.516255Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/universe,Universe,Universe,FREEMIUM,2026-06-24T05:49:01.516538Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/acely,Acely,Acely,FREEMIUM,2026-06-24T05:49:01.516797Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/treasury-prime,Treasury Prime,Treasury Prime,FREEMIUM,2026-06-24T05:49:01.517065Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/psylaris,Psylaris,Psylaris,FREEMIUM,2026-06-24T05:49:01.517306Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/players-lounge,Players Lounge,Players' Lounge,FREEMIUM,2026-06-24T05:49:01.517679Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/cognition-ip,Cognition IP,Cognition IP,FREEMIUM,2026-06-24T05:49:01.517961Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/gainful,Gainful,Gainful,FREEMIUM,2026-06-24T05:49:01.518285Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/weekend-fmr-volley,Weekend fmr Volley,Weekend (fmr. Volley),FREEMIUM,2026-06-24T05:49:01.518657Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/substack,Substack,Substack,PAID,2026-06-24T05:49:01.518914Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/pelago,Pelago,Pelago,FREEMIUM,2026-06-24T05:49:01.519182Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/tilt-fka-delphia,Tilt fka Delphia,Tilt (f.k.a. Delphia),FREEMIUM,2026-06-24T05:49:01.519482Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/safetywing,SafetyWing,SafetyWing,FREEMIUM,2026-06-24T05:49:01.519771Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/aspire,Aspire,Aspire,FREEMIUM,2026-06-24T05:49:01.520064Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/orangewood-labs,Orangewood Labs,Orangewood Labs,FREEMIUM,2026-06-24T05:49:01.520459Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/algosurg-inc,AlgoSurg,AlgoSurg,FREEMIUM,2026-06-24T05:49:01.520778Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/opensea,OpenSea,OpenSea,FREEMIUM,2026-06-24T05:49:01.521103Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/archform,ArchForm,ArchForm,FREEMIUM,2026-06-24T05:49:01.521358Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/zbiotics,ZBiotics,ZBiotics,FREEMIUM,2026-06-24T05:49:01.521613Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/culture-biosciences,Culture Biosciences,Culture Biosciences,FREEMIUM,2026-06-24T05:49:01.521944Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/observe-ai,ObserveAI,Observe.AI,FREEMIUM,2026-06-24T05:49:01.522298Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/tarjimly,Tarjimly,Tarjimly,FREEMIUM,2026-06-24T05:49:01.522683Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/anjuna,Anjuna,Anjuna,FREEMIUM,2026-06-24T05:49:01.522962Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/mind-emulation-foundation,Mind Emulation Foundation,Mind Emulation Foundation,FREEMIUM,2026-06-24T05:49:01.523260Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/vena-medical,Vena Medical,Vena Medical,FREEMIUM,2026-06-24T05:49:01.523516Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/captivateiq,CaptivateIQ,CaptivateIQ,FREEMIUM,2026-06-24T05:49:01.523759Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/erudifi,ErudiFi,ErudiFi,FREEMIUM,2026-06-24T05:49:01.524015Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/runa,Runa,Runa,FREEMIUM,2026-06-24T05:49:01.524255Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/helloverify,Helloverify,Helloverify,FREEMIUM,2026-06-24T05:49:01.524506Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/super,Super,Super,FREEMIUM,2026-06-24T05:49:01.524745Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/aerones,Aerones,Aerones,FREEMIUM,2026-06-24T05:49:01.524983Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/veriff,Veriff,Veriff,FREEMIUM,2026-06-24T05:49:01.525228Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/fidocure,FidoCure,FidoCure®,FREEMIUM,2026-06-24T05:49:01.525571Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/swayable,Swayable,Swayable,FREEMIUM,2026-06-24T05:49:01.525825Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/replit,Replit,Replit,FREEMIUM,2026-06-24T05:49:01.526086Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/snackpass,Snackpass,Snackpass,FREEMIUM,2026-06-24T05:49:01.526495Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/curebase,Curebase,Curebase,FREEMIUM,2026-06-24T05:49:01.526850Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/honeylove,Honeylove,Honeylove,FREEMIUM,2026-06-24T05:49:01.527156Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/owny,OWNY,OWNY,FREEMIUM,2026-06-24T05:49:01.527628Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/klarity,Klarity,Klarity,ENTERPRISE,2026-06-24T05:49:01.528083Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/c16-biosciences,C16 Biosciences,C16 Biosciences,FREEMIUM,2026-06-24T05:49:01.528379Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/modern-treasury,Modern Treasury,Modern Treasury,FREEMIUM,2026-06-24T05:49:01.528653Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/dinesafe,Dinesafe,Dinesafe,FREEMIUM,2026-06-24T05:49:01.528911Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/jetlenses,Verse Medical,Verse Medical,FREEMIUM,2026-06-24T05:49:01.529178Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/federacy,Federacy,Federacy,FREEMIUM,2026-06-24T05:49:01.529426Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/revenuecat,RevenueCat,RevenueCat,PAID,2026-06-24T05:49:01.529676Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/openwrench,OpenWrench,OpenWrench,ENTERPRISE,2026-06-24T05:49:01.529935Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/activeloop,Activeloop,Activeloop,FREEMIUM,2026-06-24T05:49:01.530190Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/titan,Titan,Titan,FREEMIUM,2026-06-24T05:49:01.530436Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/data-driven-bioscience,Data Driven Bioscience,Data Driven Bioscience,FREEMIUM,2026-06-24T05:49:01.530702Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/inscribe,Inscribe,Inscribe,FREEMIUM,2026-06-24T05:49:01.530955Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/jitx,JITX,JITX,FREEMIUM,2026-06-24T05:49:01.531207Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/apprentice-health,Apprentice Health,Apprentice Health,FREEMIUM,2026-06-24T05:49:01.531516Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/college-pulse,College Pulse,College Pulse,FREEMIUM,2026-06-24T05:49:01.531779Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/openphone,Quo fka OpenPhone,Quo (fka OpenPhone),FREEMIUM,2026-06-24T05:49:01.532054Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/askmyclass-now-soundkins,AskMyClass now Soundkins,"AskMyClass, now Soundkins",FREEMIUM,2026-06-24T05:49:01.532451Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/rebellyous-foods,Rebellyous Foods,Rebellyous Foods,FREEMIUM,2026-06-24T05:49:01.532741Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/the-good-food-institute,The Good Food Institute,The Good Food Institute,FREEMIUM,2026-06-24T05:49:01.533039Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/hepatx,Hepatx,Hepatx,FREEMIUM,2026-06-24T05:49:01.533280Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/clear-gene,Clear Gene,Clear Gene,FREEMIUM,2026-06-24T05:49:01.533536Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/paladin,Paladin,Paladin,FREEMIUM,2026-06-24T05:49:01.533777Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/meru-health,Meru Health,Meru Health,FREEMIUM,2026-06-24T05:49:01.534039Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/vimcal,Vimcal,Vimcal,FREEMIUM,2026-06-24T05:49:01.534278Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/embeddables,Embeddables,Embeddables,FREEMIUM,2026-06-24T05:49:01.534520Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/64x-bio,64x Bio,64x Bio,FREEMIUM,2026-06-24T05:49:01.534780Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/anima-app,Anima App,Anima App,FREEMIUM,2026-06-24T05:49:01.535065Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/pocket-worlds,Pocket Worlds,Pocket Worlds,FREEMIUM,2026-06-24T05:49:01.535321Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/tall-poppy,Tall Poppy,Tall Poppy,FREEMIUM,2026-06-24T05:49:01.535573Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/easol,Easol,Easol,FREEMIUM,2026-06-24T05:49:01.535817Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/corvus-robotics,Corvus Robotics,Corvus Robotics,FREEMIUM,2026-06-24T05:49:01.536075Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/duffel,Duffel,Duffel,FREEMIUM,2026-06-24T05:49:01.536314Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/quickchat-ai,Quickchat AI,Quickchat AI,FREEMIUM,2026-06-24T05:49:01.536568Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/ubits,UBITS,UBITS,FREEMIUM,2026-06-24T05:49:01.536806Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/ajaib,Ajaib,Ajaib,FREEMIUM,2026-06-24T05:49:01.537049Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/dreamcraft-entertainment-inc,DreamCraft Entertainment,"DreamCraft Entertainment,",FREEMIUM,2026-06-24T05:49:01.537309Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/cb-therapeutics,CB Therapeutics,CB Therapeutics,FREEMIUM,2026-06-24T05:49:01.537560Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/pine-park-health,Pine Park Health,Pine Park Health,FREEMIUM,2026-06-24T05:49:01.537826Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/cytera-cellworks,Mytos,Mytos,FREEMIUM,2026-06-24T05:49:01.538077Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/bluecargo,BlueCargo,BlueCargo,FREEMIUM,2026-06-24T05:49:01.538328Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/alpha-vantage,Alpha Vantage,Alpha Vantage,FREEMIUM,2026-06-24T05:49:01.538581Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/mentalhappy,MentalHappy,MentalHappy,FREEMIUM,2026-06-24T05:49:01.538823Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/papa,Papa,Papa,FREEMIUM,2026-06-24T05:49:01.539069Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/canary-technologies,Canary Technologies,Canary Technologies,FREEMIUM,2026-06-24T05:49:01.539335Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/prodigal,Prodigal,Prodigal,FREEMIUM,2026-06-24T05:49:01.539603Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/calii,Calii,Calii,FREEMIUM,2026-06-24T05:49:01.539884Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/tenderd,TENDERD,TENDERD,FREEMIUM,2026-06-24T05:49:01.540220Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/names-and-faces,Names Faces,Names & Faces,FREEMIUM,2026-06-24T05:49:01.540508Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/fintual,Fintual,Fintual,FREEMIUM,2026-06-24T05:49:01.540753Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/bot-md,Bot MD,Bot MD,FREEMIUM,2026-06-24T05:49:01.541008Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/ziffyhomes,ZiffyHomes,ZiffyHomes,FREEMIUM,2026-06-24T05:49:01.541263Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/nestor,Nestor,Nestor,FREEMIUM,2026-06-24T05:49:01.541531Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/eden-2,Eden,Eden,FREEMIUM,2026-06-24T05:49:01.541783Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/skydropx,SkydropX,SkydropX,FREEMIUM,2026-06-24T05:49:01.542058Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/four-growers,Four Growers,Four Growers,FREEMIUM,2026-06-24T05:49:01.542642Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/brainhi,BrainHi,BrainHi,FREEMIUM,2026-06-24T05:49:01.542908Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/khatabook,Khatabook,Khatabook,FREEMIUM,2026-06-24T05:49:01.543153Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/helicarrier-prev-buycoins,Helicarrier prev Buycoins,Helicarrier (prev Buycoins),FREEMIUM,2026-06-24T05:49:01.543424Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/cowrywise,Cowrywise,Cowrywise,FREEMIUM,2026-06-24T05:49:01.543677Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/mutiny,Mutiny,Mutiny,FREEMIUM,2026-06-24T05:49:01.543931Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/synkrino-biotherapeutics,Synkrino Biotherapeutics,Synkrino Biotherapeutics,FREEMIUM,2026-06-24T05:49:01.544205Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/leena-ai,Leena AI,Leena AI,FREEMIUM,2026-06-24T05:49:01.544601Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/anniecannons,AnnieCannons,AnnieCannons,FREEMIUM,2026-06-24T05:49:01.544858Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/juzibot,JuziBot,JuziBot,FREEMIUM,2026-06-24T05:49:01.545108Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/mark-cuban-cost-plus-drug-company-pbc,Mark Cuban Cost Plus Drug Company PBC,"Mark Cuban Cost Plus Drug Company, PBC",FREEMIUM,2026-06-24T05:49:01.545415Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/oxygen,Oxygen,Oxygen,FREEMIUM,2026-06-24T05:49:01.545654Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/spate,SPATE,SPATE,FREEMIUM,2026-06-24T05:49:01.545892Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/enveritas,Enveritas,Enveritas,FREEMIUM,2026-06-24T05:49:01.546167Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/lemonbox,LemonBox,LemonBox,PAID,2026-06-24T05:49:01.546445Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/ilabservice,iLabService,iLabService,FREEMIUM,2026-06-24T05:49:01.546688Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/rejuvenation-technologies-inc,Rejuvenation Technologies,Rejuvenation Technologies,FREEMIUM,2026-06-24T05:49:01.546948Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/circumvent,Circumvent,Circumvent,FREEMIUM,2026-06-24T05:49:01.547188Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/culdesac,Culdesac,Culdesac,FREEMIUM,2026-06-24T05:49:01.547430Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/okcredit,OkCredit,OkCredit,FREEMIUM,2026-06-24T05:49:01.547680Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/aesthetic,Aesthetic,Aesthetic,FREEMIUM,2026-06-24T05:49:01.547924Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/kunduz,Kunduz,Kunduz,FREEMIUM,2026-06-24T05:49:01.548173Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/wave,Wave,Wave,FREEMIUM,2026-06-24T05:49:01.548411Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/overview,Overview,Overview,FREEMIUM,2026-06-24T05:49:01.548659Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/taobotics,Taobotics,Taobotics,FREEMIUM,2026-06-24T05:49:01.548895Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/trexo-robotics,Trexo Robotics,Trexo Robotics,FREEMIUM,2026-06-24T05:49:01.549149Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/flockjay,Flockjay,Flockjay,FREEMIUM,2026-06-24T05:49:01.549390Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/intelline,Intelline,Intelline,FREEMIUM,2026-06-24T05:49:01.549633Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/parker,Parker,Parker,FREEMIUM,2026-06-24T05:49:01.549873Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/encarte,Canopy was Encarte,Canopy (was Encarte),FREEMIUM,2026-06-24T05:49:01.550140Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/the-juggernaut,The Juggernaut,The Juggernaut,PAID,2026-06-24T05:49:01.550392Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/positive,Positive,Positive,FREEMIUM,2026-06-24T05:49:01.550630Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/allsome-fulfillment,AllSome Fulfillment,AllSome Fulfillment,FREEMIUM,2026-06-24T05:49:01.550883Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/keeper-2,Keeper,Keeper,FREEMIUM,2026-06-24T05:49:01.551128Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/kalshi,Kalshi,Kalshi,FREEMIUM,2026-06-24T05:49:01.551377Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/bottomless,Bottomless,Bottomless,FREEMIUM,2026-06-24T05:49:01.551616Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/ultralight,Ultralight,Ultralight,FREEMIUM,2026-06-24T05:49:01.551859Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/centaur,Centaur,Centaur,FREEMIUM,2026-06-24T05:49:01.552131Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/spire-law,Spire Law,Spire Law,FREEMIUM,2026-06-24T05:49:01.552390Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/sunsama,Sunsama,Sunsama,FREEMIUM,2026-06-24T05:49:01.552634Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/convictional,Convictional,Convictional,FREEMIUM,2026-06-24T05:49:01.552888Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/sorting-robotics,Sorting Robotics,Sorting Robotics,FREEMIUM,2026-06-24T05:49:01.553195Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/dyneti-technologies,Dyneti Technologies,Dyneti Technologies,FREEMIUM,2026-06-24T05:49:01.553482Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/nettrons,SciTok,SciTok,FREEMIUM,2026-06-24T05:49:01.553727Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/nebullam-dba-clayton-farms,Nebullam DBA Clayton Farms,Nebullam (DBA Clayton Farms),FREEMIUM,2026-06-24T05:49:01.554038Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/postscript,Postscript,Postscript,FREEMIUM,2026-06-24T05:49:01.554283Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/flower-co,FLOWER,FLOWER,FREEMIUM,2026-06-24T05:49:01.554521Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/brainkey,BrainKey,BrainKey,FREEMIUM,2026-06-24T05:49:01.554758Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/medcrypt,MedCrypt,MedCrypt,FREEMIUM,2026-06-24T05:49:01.555019Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/leah-labs,LEAH Labs,LEAH Labs,FREEMIUM,2026-06-24T05:49:01.555278Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/windwalk,Windwalk,Windwalk,FREEMIUM,2026-06-24T05:49:01.555516Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/middesk,Middesk,Middesk,FREEMIUM,2026-06-24T05:49:01.555760Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/golinks,GoLinks,GoLinks,FREEMIUM,2026-06-24T05:49:01.556006Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/tailornova-couturme,TailornovaCouturme,Tailornova/Couturme,FREEMIUM,2026-06-24T05:49:01.556248Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/thrive-agric,Thrive Agric,Thrive Agric,FREEMIUM,2026-06-24T05:49:01.556499Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/community-phone-company,Community Phone Company,Community Phone Company,FREEMIUM,2026-06-24T05:49:01.556766Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/weathercheck,WeatherCheck,WeatherCheck,FREEMIUM,2026-06-24T05:49:01.557017Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/sapling-ai,Saplingai,Sapling.ai,FREEMIUM,2026-06-24T05:49:01.557259Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/nabis,Nabis,Nabis,FREEMIUM,2026-06-24T05:49:01.557496Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/avo,Avo,Avo,FREEMIUM,2026-06-24T05:49:01.557743Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/demodesk,Demodesk,Demodesk,FREEMIUM,2026-06-24T05:49:01.558005Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/ai-insurance,AI Insurance,AI Insurance,FREEMIUM,2026-06-24T05:49:01.558265Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/swadesh,Swadesh,Swadesh,FREEMIUM,2026-06-24T05:49:01.558603Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/switchboard,Switchboard,Switchboard,FREEMIUM,2026-06-24T05:49:01.558966Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/bensen,Bensen,Bensen,FREEMIUM,2026-06-24T05:49:01.559230Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/okteto,Okteto,Okteto,FREEMIUM,2026-06-24T05:49:01.559480Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/ashby,Ashby,Ashby,FREEMIUM,2026-06-24T05:49:01.559733Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/probably-genetic,Probably Genetic,Probably Genetic,FREEMIUM,2026-06-24T05:49:01.559994Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/supernova,Supernova,Supernova,FREEMIUM,2026-06-24T05:49:01.560276Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/termius,Termius,Termius,FREEMIUM,2026-06-24T05:49:01.560543Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/superorder,Superorder,Superorder,FREEMIUM,2026-06-24T05:49:01.560788Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/bunkerhill-health,Bunkerhill Health,Bunkerhill Health,FREEMIUM,2026-06-24T05:49:01.561085Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/handle-com,Handlecom,Handle.com,FREEMIUM,2026-06-24T05:49:01.561458Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/excepgen,Excepgen,Excepgen,FREEMIUM,2026-06-24T05:49:01.562036Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/mobot,Mobot,Mobot,FREEMIUM,2026-06-24T05:49:01.562318Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/intact-therapeutics,Intact Therapeutics,Intact Therapeutics,FREEMIUM,2026-06-24T05:49:01.562692Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/landed-2,Landed,Landed,FREEMIUM,2026-06-24T05:49:01.563037Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/autodial-prev-qwest,Autodial prev Qwest,Autodial prev Qwest,FREEMIUM,2026-06-24T05:49:01.563317Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/pyxai,Pyxai,Pyxai,FREEMIUM,2026-06-24T05:49:01.563586Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/deel,Deel,Deel,FREEMIUM,2026-06-24T05:49:01.563914Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/axel-travel,Axel Travel,Axel Travel,FREEMIUM,2026-06-24T05:49:01.564242Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/doppler,Doppler,Doppler,FREEMIUM,2026-06-24T05:49:01.564519Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/ravn,Ravn,Ravn,FREEMIUM,2026-06-24T05:49:01.564806Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/caribou,Caribou,Caribou,FREEMIUM,2026-06-24T05:49:01.565196Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/wren,Wren,Wren,FREEMIUM,2026-06-24T05:49:01.565494Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/instapath-inc,Instapath,Instapath,FREEMIUM,2026-06-24T05:49:01.565743Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/aura-vision,Aura Vision,Aura Vision,FREEMIUM,2026-06-24T05:49:01.565997Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/wanderlog,Wanderlog,Wanderlog,FREEMIUM,2026-06-24T05:49:01.566235Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/valo,Valo,Valo,FREEMIUM,2026-06-24T05:49:01.566473Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/jetpack-aviation,JetPack Aviation,JetPack Aviation,FREEMIUM,2026-06-24T05:49:01.566734Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/volta-labs-inc,Volta Labs,"Volta Labs,",FREEMIUM,2026-06-24T05:49:01.567093Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/reelables,Reelables,Reelables,FREEMIUM,2026-06-24T05:49:01.567369Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/heart-aerospace,Heart Aerospace,Heart Aerospace,FREEMIUM,2026-06-24T05:49:01.567652Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/superb-ai,Superb AI,Superb AI,FREEMIUM,2026-06-24T05:49:01.568144Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/dagger,Dagger,Dagger,FREEMIUM,2026-06-24T05:49:01.568453Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/our-world-in-data,Our World in Data,Our World in Data,FREE,2026-06-24T05:49:01.568848Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/upsolve,Upsolve,Upsolve,FREEMIUM,2026-06-24T05:49:01.569108Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/maple-materials,Maple Materials,Maple Materials,FREEMIUM,2026-06-24T05:49:01.569385Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/alpaca,Alpaca,Alpaca,FREE,2026-06-24T05:49:01.569640Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/xgenomes,XGenomes,XGenomes,FREEMIUM,2026-06-24T05:49:01.569894Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/dover,Dover,Dover,FREEMIUM,2026-06-24T05:49:01.570149Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/ampup,AmpUp,AmpUp,FREEMIUM,2026-06-24T05:49:01.570390Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/skill-lync,Skill-lync,Skill-lync,FREEMIUM,2026-06-24T05:49:01.570632Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/mudrex,Mudrex,Mudrex,FREEMIUM,2026-06-24T05:49:01.570882Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/nala,NALA,NALA,FREEMIUM,2026-06-24T05:49:01.571121Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/nowports,Nowports,Nowports,FREEMIUM,2026-06-24T05:49:01.571368Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/zippi,Zippi,Zippi,FREEMIUM,2026-06-24T05:49:01.571609Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/acciojob,AccioJob,AccioJob,FREEMIUM,2026-06-24T05:49:01.572151Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/beacons,Beacons,Beacons,FREEMIUM,2026-06-24T05:49:01.572409Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/edyst,Edyst,Edyst,FREEMIUM,2026-06-24T05:49:01.572662Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/keynua,Keynua,Keynua,FREEMIUM,2026-06-24T05:49:01.572923Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/exly,Exly,Exly,FREEMIUM,2026-06-24T05:49:01.573163Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/credpal,CredPal,CredPal,FREEMIUM,2026-06-24T05:49:01.573408Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/spring-in-africa,Spring in Africa,Spring in Africa,FREEMIUM,2026-06-24T05:49:01.573676Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/bentocart,Bentocart,Bentocart,FREEMIUM,2026-06-24T05:49:01.574256Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/emi-labs,Emi Labs,Emi Labs,FREEMIUM,2026-06-24T05:49:01.574536Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/lezzoo,Lezzoo,Lezzoo,FREEMIUM,2026-06-24T05:49:01.574785Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/glide,Glide,Glide,FREEMIUM,2026-06-24T05:49:01.575035Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/cityfurnish,Cityfurnish,Cityfurnish,PAID,2026-06-24T05:49:01.575300Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/pulse-active-stations-network,Pulse Active Stations Network,Pulse Active Stations Network,FREEMIUM,2026-06-24T05:49:01.575604Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/pronto,Pronto,Pronto,PAID,2026-06-24T05:49:01.575883Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/cuanto,Cuanto,Cuanto,FREEMIUM,2026-06-24T05:49:01.576146Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/rune,Rune,Rune,FREEMIUM,2026-06-24T05:49:01.576446Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/dockup,Dockup,Dockup,FREEMIUM,2026-06-24T05:49:01.576689Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/mars-auto,Mars Auto,Mars Auto,FREEMIUM,2026-06-24T05:49:01.576960Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/votingworks,VotingWorks,VotingWorks,FREE,2026-06-24T05:49:01.577219Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/globe,Globe,Globe,FREEMIUM,2026-06-24T05:49:01.577491Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/inito,Inito,Inito,FREEMIUM,2026-06-24T05:49:01.577753Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/latchel,Latchel,Latchel,FREEMIUM,2026-06-24T05:49:01.578014Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/verto,Verto,Verto,FREEMIUM,2026-06-24T05:49:01.578288Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/first,FIRST,FIRST,FREEMIUM,2026-06-24T05:49:01.578538Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/cosmic,Cosmic,Cosmic,FREEMIUM,2026-06-24T05:49:01.578796Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/pools-fka-withfriends,Pools fka Withfriends,Pools (fka Withfriends),FREEMIUM,2026-06-24T05:49:01.579077Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/truora,Truora,Truora,FREEMIUM,2026-06-24T05:49:01.579333Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/outrival-inc,OutRival,"OutRival,",FREEMIUM,2026-06-24T05:49:01.579596Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/1910,1910,1910,FREEMIUM,2026-06-24T05:49:01.579850Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/prometheus,Prometheus,Prometheus,FREEMIUM,2026-06-24T05:49:01.580108Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/numero,Numero,Numero,FREEMIUM,2026-06-24T05:49:01.580369Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/rct-studio,rct AI,rct AI,FREEMIUM,2026-06-24T05:49:01.580640Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/atlas-3,Atlas,Atlas,FREEMIUM,2026-06-24T05:49:01.581077Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/naturall-club,NaturAll Club,NaturAll Club,FREEMIUM,2026-06-24T05:49:01.581434Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/taali-inc,Taali,Taali,FREEMIUM,2026-06-24T05:49:01.581710Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/yourchoice-therapeutics,YourChoice Therapeutics,YourChoice Therapeutics,FREEMIUM,2026-06-24T05:49:01.582061Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/eclipse-foods,Eclipse Foods,Eclipse Foods,FREEMIUM,2026-06-24T05:49:01.582339Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/buy-me-a-coffee,Buy Me a Coffee,Buy Me a Coffee,FREEMIUM,2026-06-24T05:49:01.582609Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/shipper,Shipper,Shipper,FREEMIUM,2026-06-24T05:49:01.582848Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/schoolable,Schoolable,Schoolable,FREEMIUM,2026-06-24T05:49:01.583097Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/shef,Shef,Shef,FREEMIUM,2026-06-24T05:49:01.583343Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/prenda,Prenda,Prenda,FREEMIUM,2026-06-24T05:49:01.583580Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/vouch,Vouch,Vouch,FREEMIUM,2026-06-24T05:49:01.583824Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/dex,Dex,Dex,FREEMIUM,2026-06-24T05:49:01.584080Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/matagora,matagora,matagora,FREEMIUM,2026-06-24T05:49:01.584332Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/shiru,Shiru,Shiru,FREEMIUM,2026-06-24T05:49:01.584572Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/apero-health,Apero Health,Apero Health,PAID,2026-06-24T05:49:01.584827Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/lofty,Lofty,Lofty,FREEMIUM,2026-06-24T05:49:01.585077Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/courier,Courier,Courier,FREEMIUM,2026-06-24T05:49:01.585316Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/plotdrive,Plotdrive,Plotdrive,FREEMIUM,2026-06-24T05:49:01.585564Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/method-financial,Method Financial,Method Financial,FREEMIUM,2026-06-24T05:49:01.585815Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/gamebytes,Gamebytes,Gamebytes,FREEMIUM,2026-06-24T05:49:01.586055Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/pillar-2,Pillar,Pillar,FREEMIUM,2026-06-24T05:49:01.586293Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/well-principled,Well Principled,Well Principled,FREEMIUM,2026-06-24T05:49:01.586565Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/legacy,Legacy,Legacy,FREEMIUM,2026-06-24T05:49:01.586814Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/shift-health,Shift Health,Shift Health,FREEMIUM,2026-06-24T05:49:01.587069Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/juno-college-of-technology,Juno College of Technology,Juno College of Technology,FREEMIUM,2026-06-24T05:49:01.587341Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/odeko,Odeko,Odeko,FREEMIUM,2026-06-24T05:49:01.587580Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/short-story,Short Story,Short Story,FREEMIUM,2026-06-24T05:49:01.587969Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/jupiter,Jupiter,Jupiter,FREEMIUM,2026-06-24T05:49:01.588230Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/zeal,Zeal,Zeal,FREEMIUM,2026-06-24T05:49:01.588472Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/hype-and-vice,Hype and Vice,Hype and Vice,FREEMIUM,2026-06-24T05:49:01.588739Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/genecis-bio,Genecis Bio,Genecis Bio,FREEMIUM,2026-06-24T05:49:01.589186Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/pair-team,Pair Team,Pair Team,FREEMIUM,2026-06-24T05:49:01.589721Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/ever-loved,Ever Loved,Ever Loved,FREEMIUM,2026-06-24T05:49:01.590004Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/lucid-bots,Lucid Bots,Lucid Bots,FREEMIUM,2026-06-24T05:49:01.590275Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/trm-labs,TRM Labs,TRM Labs,FREEMIUM,2026-06-24T05:49:01.590542Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/soteris,Soteris,Soteris,FREEMIUM,2026-06-24T05:49:01.590793Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/audiofocus,AudioFocus,AudioFocus,FREEMIUM,2026-06-24T05:49:01.591053Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/prolific,Prolific,Prolific,FREEMIUM,2026-06-24T05:49:01.591311Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/gen1e-lifesciences,GEn1E Lifesciences,GEn1E Lifesciences,FREEMIUM,2026-06-24T05:49:01.591620Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/embrace,Embrace,Embrace,FREEMIUM,2026-06-24T05:49:01.591868Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/mindset-health,Mindset Health,Mindset Health,FREEMIUM,2026-06-24T05:49:01.592127Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/kitekraft,Kitekraft,Kitekraft,FREEMIUM,2026-06-24T05:49:01.592499Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/yummy-future,Yummy Future,Yummy Future,FREEMIUM,2026-06-24T05:49:01.592776Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/upequity,UpEquity,UpEquity,FREEMIUM,2026-06-24T05:49:01.593017Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/fynn,Fynn,Fynn,FREEMIUM,2026-06-24T05:49:01.593273Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/zeta-surgical,ZETA SURGICAL,ZETA SURGICAL,FREEMIUM,2026-06-24T05:49:01.593543Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/asayer,OpenReplay,OpenReplay,FREE,2026-06-24T05:49:01.593792Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/banner,Banner,Banner,FREEMIUM,2026-06-24T05:49:01.594035Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/kubesail,KubeSail,KubeSail,FREEMIUM,2026-06-24T05:49:01.594278Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/green-canopy-node,Green Canopy NODE,Green Canopy NODE,FREEMIUM,2026-06-24T05:49:01.594551Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/canix,Canix,Canix,FREEMIUM,2026-06-24T05:49:01.594801Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/outtalent,Outtalent,Outtalent,FREEMIUM,2026-06-24T05:49:01.595124Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/rainbow,Rainbow,Rainbow,FREE,2026-06-24T05:49:01.595390Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/flo,Flo,Flo,FREEMIUM,2026-06-24T05:49:01.595750Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/million-marker,Million Marker,Million Marker,FREEMIUM,2026-06-24T05:49:01.596057Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/hatchways,Hatchways,Hatchways,FREEMIUM,2026-06-24T05:49:01.596590Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/rosebud-ai,Rosebud AI,Rosebud AI,FREEMIUM,2026-06-24T05:49:01.596997Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/rutter,Rutter,Rutter,FREEMIUM,2026-06-24T05:49:01.597343Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/directshifts,DirectShifts,DirectShifts,FREEMIUM,2026-06-24T05:49:01.597654Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/arpeggio-bio,Arpeggio Bio,Arpeggio Bio,FREEMIUM,2026-06-24T05:49:01.597917Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/kern-systems,Kern Systems,Kern Systems,FREEMIUM,2026-06-24T05:49:01.598238Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/spotless-materials,spotLESS Materials,spotLESS Materials,FREEMIUM,2026-06-24T05:49:01.598558Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/microverse,Microverse,Microverse,FREEMIUM,2026-06-24T05:49:01.598827Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/wasmer,Wasmer,Wasmer,FREEMIUM,2026-06-24T05:49:01.599107Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/earth-ai,EARTH AI,EARTH AI,FREEMIUM,2026-06-24T05:49:01.599377Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/colab,CoLab,CoLab,FREEMIUM,2026-06-24T05:49:01.599658Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/lineleap,LineLeap,LineLeap,FREEMIUM,2026-06-24T05:49:01.599915Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/binks,Binks,Binks,FREEMIUM,2026-06-24T05:49:01.600161Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/lokal,Lokal,Lokal,FREEMIUM,2026-06-24T05:49:01.600624Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/docvita,DocVita,DocVita,FREEMIUM,2026-06-24T05:49:01.600876Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/proof-trading,Proof Trading,Proof Trading,FREEMIUM,2026-06-24T05:49:01.601131Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/vahan,Vahan,Vahan,FREEMIUM,2026-06-24T05:49:01.601369Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/digi-prex,Digi-Prex,Digi-Prex,PAID,2026-06-24T05:49:01.601606Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/finlens,Finlens,Finlens,FREEMIUM,2026-06-24T05:49:01.602063Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/loop-health,Loop Health,Loop Health,FREEMIUM,2026-06-24T05:49:01.602362Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/fampay,FamPay,FamPay,FREEMIUM,2026-06-24T05:49:01.602622Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/ramen-vr,Ramen VR,Ramen VR,FREEMIUM,2026-06-24T05:49:01.603055Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/demand-curve,Demand Curve,Demand Curve,FREEMIUM,2026-06-24T05:49:01.603496Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/spice-data,Spice Data,Spice Data,ENTERPRISE,2026-06-24T05:49:01.603915Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/hightouch,Hightouch,Hightouch,FREEMIUM,2026-06-24T05:49:01.604190Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/gotrade,Gotrade,Gotrade,FREEMIUM,2026-06-24T05:49:01.604476Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/eden-farm,Eden Farm,Eden Farm,FREEMIUM,2026-06-24T05:49:01.604770Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/facio,Facio,Facio,FREEMIUM,2026-06-24T05:49:01.605209Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/predictleads,PredictLeads,PredictLeads,FREEMIUM,2026-06-24T05:49:01.605615Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/stoic,stoic,stoic.,FREEMIUM,2026-06-24T05:49:01.605878Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/flux,Flux,Flux,FREEMIUM,2026-06-24T05:49:01.606120Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/trella,Trella,Trella,FREEMIUM,2026-06-24T05:49:01.606366Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/recidiviz,Recidiviz,Recidiviz,FREE,2026-06-24T05:49:01.606613Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/holy-grail-inc,Holy Grail,Holy Grail,FREEMIUM,2026-06-24T05:49:01.606864Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/tranqui-finanzas,Tranqui Finanzas,Tranqui Finanzas,FREEMIUM,2026-06-24T05:49:01.607133Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/heru,Heru,Heru,FREEMIUM,2026-06-24T05:49:01.607375Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/inevent,InEvent,InEvent,FREEMIUM,2026-06-24T05:49:01.607618Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/paymongo,PayMongo,PayMongo,FREEMIUM,2026-06-24T05:49:01.607860Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/freshpaint,Freshpaint,Freshpaint,FREEMIUM,2026-06-24T05:49:01.608100Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/traces,Traces,Traces,FREEMIUM,2026-06-24T05:49:01.608338Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/mudafy,Mudafy,Mudafy,FREEMIUM,2026-06-24T05:49:01.608581Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/zeroheight,zeroheight,zeroheight,FREEMIUM,2026-06-24T05:49:01.608858Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/curri,Curri,Curri,FREEMIUM,2026-06-24T05:49:01.609115Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/flowbot,Flowbot,Flowbot,FREEMIUM,2026-06-24T05:49:01.609361Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/vitau,Vitau,Vitau,PAID,2026-06-24T05:49:01.609605Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/treble-ai,trebleai,treble.ai,FREEMIUM,2026-06-24T05:49:01.609889Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/coco-wallet,Coco Wallet,Coco Wallet,FREEMIUM,2026-06-24T05:49:01.610499Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/aspect,Aspect,Aspect,FREEMIUM,2026-06-24T05:49:01.610926Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/deepnote,Deepnote,Deepnote,FREEMIUM,2026-06-24T05:49:01.611402Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/asher-bio,Asher Bio,Asher Bio,FREEMIUM,2026-06-24T05:49:01.611684Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/meridian-industries,Meridian Industries,Meridian Industries,FREEMIUM,2026-06-24T05:49:01.611951Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/taskade,Taskade,Taskade,FREEMIUM,2026-06-24T05:49:01.612201Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/vorticity,Vorticity,Vorticity,FREEMIUM,2026-06-24T05:49:01.612478Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/motion,Motion,Motion,FREEMIUM,2026-06-24T05:49:01.612748Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/laika,LAIKA,LAIKA,FREEMIUM,2026-06-24T05:49:01.613029Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/gitstart,GitStart,GitStart,FREEMIUM,2026-06-24T05:49:01.613320Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/epic-aerospace,EPIC AEROSPACE,EPIC AEROSPACE,FREEMIUM,2026-06-24T05:49:01.613611Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/apurata,Apurata,Apurata,FREEMIUM,2026-06-24T05:49:01.613853Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/breadfast,Breadfast,Breadfast,FREEMIUM,2026-06-24T05:49:01.614097Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/sequence-bio,Sequence Bio,Sequence Bio,FREEMIUM,2026-06-24T05:49:01.614355Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/karat-financial,Karat Financial,Karat Financial,FREEMIUM,2026-06-24T05:49:01.614614Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/flowglad,Flowglad,Flowglad,FREEMIUM,2026-06-24T05:49:01.614859Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/kaiten,Kaiten,Kaiten,FREEMIUM,2026-06-24T05:49:01.615106Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/accord,Accord,Accord,FREEMIUM,2026-06-24T05:49:01.615348Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/paragon,Paragon,Paragon,FREEMIUM,2026-06-24T05:49:01.615606Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/breezeful,Breezeful,Breezeful,FREEMIUM,2026-06-24T05:49:01.615890Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/abalone-bio,Abalone Bio,Abalone Bio,FREEMIUM,2026-06-24T05:49:01.616203Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/alude,Alude,Alude,FREEMIUM,2026-06-24T05:49:01.616507Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/stratumai,StratumAI,StratumAI,FREEMIUM,2026-06-24T05:49:01.616902Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/polytomic,Polytomic,Polytomic,FREEMIUM,2026-06-24T05:49:01.617219Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/porter,Porter,Porter,FREEMIUM,2026-06-24T05:49:01.617481Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/pulley,Pulley,Pulley,FREEMIUM,2026-06-24T05:49:01.617738Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/mindsdb,MindsDB,MindsDB,FREE,2026-06-24T05:49:01.617979Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/ophelia,Ophelia,Ophelia,FREEMIUM,2026-06-24T05:49:01.618237Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/segmed,Segmed,Segmed,FREEMIUM,2026-06-24T05:49:01.618483Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/explo,Explo,Explo,FREEMIUM,2026-06-24T05:49:01.618725Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/letterdrop,Letterdrop,Letterdrop,FREEMIUM,2026-06-24T05:49:01.618972Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/yearend,yearend,yearend,FREEMIUM,2026-06-24T05:49:01.619213Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/taiv,Taiv,Taiv,FREEMIUM,2026-06-24T05:49:01.619452Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/openunit,OpenUnit,OpenUnit,FREEMIUM,2026-06-24T05:49:01.619703Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/tough-commerce,Tough Commerce,Tough Commerce,FREEMIUM,2026-06-24T05:49:01.619959Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/perceptive-technologies,Perceptive Technologies,Perceptive Technologies,FREEMIUM,2026-06-24T05:49:01.620219Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/ditto,Ditto,Ditto,FREEMIUM,2026-06-24T05:49:01.620456Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/deep-meditate,Deep Meditate,Deep Meditate,FREEMIUM,2026-06-24T05:49:01.620707Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/handoff,Handoff,Handoff,FREEMIUM,2026-06-24T05:49:01.620952Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/h1,H1,H1,FREEMIUM,2026-06-24T05:49:01.621415Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/aden,Aden,Aden,FREE,2026-06-24T05:49:01.621672Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/flik,Flik,Flik,FREEMIUM,2026-06-24T05:49:01.621916Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/datasaur,Datasaur,Datasaur,FREEMIUM,2026-06-24T05:49:01.622166Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/haven,Haven,Haven,FREEMIUM,2026-06-24T05:49:01.622417Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/basedash,Basedash,Basedash,FREEMIUM,2026-06-24T05:49:01.622764Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/sinai,SINAI,SINAI,FREEMIUM,2026-06-24T05:49:01.623066Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/farcast,Farcast,Farcast,FREEMIUM,2026-06-24T05:49:01.623332Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/infield,Infield,Infield,FREE,2026-06-24T05:49:01.623646Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/eze,Eze,Eze,FREEMIUM,2026-06-24T05:49:01.623961Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/benepass,Benepass,Benepass,FREEMIUM,2026-06-24T05:49:01.624211Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/startplaying-games,StartPlayingGames,StartPlaying.Games,FREEMIUM,2026-06-24T05:49:01.624458Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/grain,Grain,Grain,FREEMIUM,2026-06-24T05:49:01.624712Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/fly-io,Flyio,Fly.io,FREEMIUM,2026-06-24T05:49:01.624957Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/truenorth,TrueNorth,TrueNorth,FREEMIUM,2026-06-24T05:49:01.625208Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/signadot,Signadot,Signadot,FREEMIUM,2026-06-24T05:49:01.625449Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/operatorio,Operatorio,Operator.io,FREEMIUM,2026-06-24T05:49:01.625691Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/logarithm-labs,Logarithm Labs,Logarithm Labs,FREEMIUM,2026-06-24T05:49:01.625945Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/tienda-crypto,Tienda Crypto,Tienda Crypto,FREEMIUM,2026-06-24T05:49:01.626196Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/whatnot,Whatnot,Whatnot,FREEMIUM,2026-06-24T05:49:01.626436Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/plura,Plura formerly Bloom Community,Plura (formerly Bloom Community),FREEMIUM,2026-06-24T05:49:01.626728Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/medicare-vox-fka-fair-square,Medicare Vox fka Fair Square,Medicare Vox (fka Fair Square),FREEMIUM,2026-06-24T05:49:01.627012Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/general-proximity,General Proximity,General Proximity,FREEMIUM,2026-06-24T05:49:01.627265Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/altay-therapeutics,Altay Therapeutics,Altay Therapeutics,FREEMIUM,2026-06-24T05:49:01.627524Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/turing-labs-inc,Turing Labs,Turing Labs,FREEMIUM,2026-06-24T05:49:01.627778Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/ello,Ello,Ello,FREEMIUM,2026-06-24T05:49:01.628015Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/salesform,Salesform,Salesform,FREEMIUM,2026-06-24T05:49:01.628257Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/querypie-ai,QueryPie AI,QueryPie AI,FREEMIUM,2026-06-24T05:49:01.628514Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/cortex,Cortex,Cortex,FREEMIUM,2026-06-24T05:49:01.628959Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/release,Release,Release,FREEMIUM,2026-06-24T05:49:01.629208Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/response,Response,Response,FREEMIUM,2026-06-24T05:49:01.629480Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/buildbuddy,BuildBuddy,BuildBuddy,FREE,2026-06-24T05:49:01.629740Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/vori,Vori,Vori,FREEMIUM,2026-06-24T05:49:01.630006Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/quill,Quill,Quill,FREEMIUM,2026-06-24T05:49:01.630245Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/kinter,Kinter,Kinter,FREEMIUM,2026-06-24T05:49:01.630493Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/candid-health,Candid Health,Candid Health,FREEMIUM,2026-06-24T05:49:01.630744Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/todesktop,ToDesktop,ToDesktop,FREEMIUM,2026-06-24T05:49:01.630982Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/revenir,Revenir,Revenir,FREEMIUM,2026-06-24T05:49:01.631221Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/photoroom,Photoroom,Photoroom,FREEMIUM,2026-06-24T05:49:01.631460Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/modernbanc,Modernbanc,Modernbanc,FREEMIUM,2026-06-24T05:49:01.631695Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/riot,Riot,Riot,FREEMIUM,2026-06-24T05:49:01.631948Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/posthog,PostHog,PostHog,FREEMIUM,2026-06-24T05:49:01.632225Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/aios,AIOS,AIOS,FREEMIUM,2026-06-24T05:49:01.632484Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/jitter,Jitter,Jitter,FREEMIUM,2026-06-24T05:49:01.632727Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/junction,Junction,Junction,FREEMIUM,2026-06-24T05:49:01.633021Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/skypher,Skypher,Skypher,FREEMIUM,2026-06-24T05:49:01.633281Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/recurrency,Recurrency,Recurrency,FREEMIUM,2026-06-24T05:49:01.633533Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/postera,PostEra,PostEra,FREEMIUM,2026-06-24T05:49:01.633775Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/upflow,Upflow,Upflow,FREEMIUM,2026-06-24T05:49:01.634032Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/deepsource,DeepSource,DeepSource,FREEMIUM,2026-06-24T05:49:01.634274Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/kosh,Kosh,Kosh,FREEMIUM,2026-06-24T05:49:01.634515Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/hannah-life-technologies,twoplus fertility,twoplus fertility,FREEMIUM,2026-06-24T05:49:01.634771Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/stayqrious,StayQrious,StayQrious,FREEMIUM,2026-06-24T05:49:01.635017Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/urbankisaan,UrbanKisaan,UrbanKisaan,FREEMIUM,2026-06-24T05:49:01.635276Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/farmtheory,farmtheory,farmtheory,FREEMIUM,2026-06-24T05:49:01.635514Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/tagmango,TagMango,TagMango,FREEMIUM,2026-06-24T05:49:01.635752Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/morphle-labs,Morphle Labs,Morphle Labs,FREEMIUM,2026-06-24T05:49:01.636007Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/zeo-route-planner,Zeo Route Planner,Zeo Route Planner,FREEMIUM,2026-06-24T05:49:01.636277Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/hiration,Hiration,Hiration,FREEMIUM,2026-06-24T05:49:01.636548Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/bikry,Bikry,Bikry,FREEMIUM,2026-06-24T05:49:01.636903Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/edurev,EduRev,EduRev,FREEMIUM,2026-06-24T05:49:01.637311Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/spenny,Spenny,Spenny,FREEMIUM,2026-06-24T05:49:01.637772Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/hiresweet,HireSweet,HireSweet,FREEMIUM,2026-06-24T05:49:01.638033Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/pahamify,Pahamify,Pahamify,FREEMIUM,2026-06-24T05:49:01.638284Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/adyn,adyn,adyn,FREEMIUM,2026-06-24T05:49:01.638526Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/raycast,Raycast,Raycast,FREEMIUM,2026-06-24T05:49:01.638767Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/angle-health,Angle Health,Angle Health,FREEMIUM,2026-06-24T05:49:01.639028Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/openbiome,OpenBiome,OpenBiome,FREEMIUM,2026-06-24T05:49:01.639267Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/isabl,Isabl,Isabl,FREEMIUM,2026-06-24T05:49:01.639508Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/nexu,Nexu,Nexu,FREEMIUM,2026-06-24T05:49:01.639755Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/oda,Oda,Oda,FREEMIUM,2026-06-24T05:49:01.640005Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/daedalus,Daedalus,Daedalus,FREEMIUM,2026-06-24T05:49:01.640244Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/avion,Avion,Avion,FREEMIUM,2026-06-24T05:49:01.640488Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/somatic,SOMATIC,SOMATIC,FREEMIUM,2026-06-24T05:49:01.640725Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/thndr,Thndr,Thndr,FREEMIUM,2026-06-24T05:49:01.640971Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/swipe-technologies,Swipe Technologies,Swipe Technologies,FREEMIUM,2026-06-24T05:49:01.641229Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/electroneek,ElectroNeek,ElectroNeek,FREEMIUM,2026-06-24T05:49:01.641467Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/bamboo,Bamboo,Bamboo,FREEMIUM,2026-06-24T05:49:01.641720Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/futura,FUTURA,FUTURA,FREEMIUM,2026-06-24T05:49:01.641960Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/tajir,Tajir,Tajir,FREEMIUM,2026-06-24T05:49:01.642219Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/fondeadora,Fondeadora,Fondeadora,FREEMIUM,2026-06-24T05:49:01.642463Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/linkana,Linkana,Linkana,ENTERPRISE,2026-06-24T05:49:01.642700Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/be-go,BeGo,BeGo,FREEMIUM,2026-06-24T05:49:01.642937Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/termii,Termii,Termii,FREEMIUM,2026-06-24T05:49:01.643178Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/stark-bank,STARK BANK,STARK BANK,FREEMIUM,2026-06-24T05:49:01.643533Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/handl,Handl,Handl,FREEMIUM,2026-06-24T05:49:01.643811Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/ramani,Ramani,Ramani,FREEMIUM,2026-06-24T05:49:01.644066Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/nomic-bio,Nomic Bio,Nomic Bio,FREEMIUM,2026-06-24T05:49:01.644363Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/guruhotel,GuruHotel,GuruHotel,FREEMIUM,2026-06-24T05:49:01.644753Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/giveaway,GiveAway,GiveAway,FREEMIUM,2026-06-24T05:49:01.645188Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/sakneen,Sakneen,Sakneen,FREEMIUM,2026-06-24T05:49:01.645491Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/stable,Stable,Stable,FREEMIUM,2026-06-24T05:49:01.645826Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/healthlane,Healthlane,Healthlane,FREEMIUM,2026-06-24T05:49:01.646069Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/recall-ai,Recallai,Recall.ai,FREEMIUM,2026-06-24T05:49:01.646354Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/borong,borong,borong,FREEMIUM,2026-06-24T05:49:01.646643Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/atmo,Atmo,Atmo,FREEMIUM,2026-06-24T05:49:01.646915Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/99minutos,99minutos,99minutos,FREEMIUM,2026-06-24T05:49:01.647178Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/send,SEND,SEND,FREEMIUM,2026-06-24T05:49:01.647427Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/living-carbon,Living Carbon,Living Carbon,FREEMIUM,2026-06-24T05:49:01.647705Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/tambua-health,Tambua Health,Tambua Health,FREEMIUM,2026-06-24T05:49:01.647965Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/airbyte,Airbyte,Airbyte,FREE,2026-06-24T05:49:01.648210Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/workpay,Workpay,Workpay,FREEMIUM,2026-06-24T05:49:01.648455Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/humanly,Humanly,Humanly,FREEMIUM,2026-06-24T05:49:01.648703Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/gas-pos,Gas Pos,Gas Pos,FREEMIUM,2026-06-24T05:49:01.648955Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/tasker-ai,Tasker AI,Tasker AI,FREEMIUM,2026-06-24T05:49:01.649214Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/equator-therapeutics,Equator Therapeutics,Equator Therapeutics,FREEMIUM,2026-06-24T05:49:01.649488Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/belvo,Belvo,Belvo,FREEMIUM,2026-06-24T05:49:01.649733Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/menten-ai,Menten AI,Menten AI,FREEMIUM,2026-06-24T05:49:01.649991Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/legionfarm,Legionfarm,Legionfarm,FREEMIUM,2026-06-24T05:49:01.650251Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/jenfi,Jenfi,Jenfi,FREEMIUM,2026-06-24T05:49:01.650518Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/yassir,Yassir,Yassir,FREEMIUM,2026-06-24T05:49:01.650769Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/ansa-biotechnologies,Ansa Biotechnologies,Ansa Biotechnologies,FREEMIUM,2026-06-24T05:49:01.651053Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/ochre-bio,Ochre Bio,Ochre Bio,FREEMIUM,2026-06-24T05:49:01.651524Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/jet-admin,Jet Admin,Jet Admin,FREEMIUM,2026-06-24T05:49:01.651970Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/algen-biotechnologies,Algen Biotechnologies,Algen Biotechnologies,FREEMIUM,2026-06-24T05:49:01.652350Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/ukama,Ukama,Ukama,FREEMIUM,2026-06-24T05:49:01.652598Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/jitsu,Jitsu,Jitsu,FREE,2026-06-24T05:49:01.652991Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/zip,Zip,Zip,FREEMIUM,2026-06-24T05:49:01.653248Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/increase,Increase,Increase,FREEMIUM,2026-06-24T05:49:01.653490Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/luminai,Luminai,Luminai,ENTERPRISE,2026-06-24T05:49:01.653738Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/jeeves,Jeeves,Jeeves,FREEMIUM,2026-06-24T05:49:01.653992Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/roboflow,Roboflow,Roboflow,FREE,2026-06-24T05:49:01.654229Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/supertokens,SuperTokens,SuperTokens,FREE,2026-06-24T05:49:01.654470Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/infeedo-ai,inFeedo AI,inFeedo AI,FREEMIUM,2026-06-24T05:49:01.654743Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/depict,Depict,Depict,FREEMIUM,2026-06-24T05:49:01.654981Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/datafold,Datafold,Datafold,FREEMIUM,2026-06-24T05:49:01.655223Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/hubble,Lightdash,Lightdash,FREE,2026-06-24T05:49:01.655461Z
+1.0,PRODUCT,Y Combinator,https://www.ycombinator.com/companies/blue-onion,Blue Onion,Blue Onion,FREEMIUM,2026-06-24T05:49:01.655716Z
